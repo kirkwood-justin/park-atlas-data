@@ -1,0 +1,302 @@
+park_code,park_name,bird_species,mammal_species
+abli,Abraham Lincoln Birthplace National Historical Park,131,38
+acad,Acadia National Park,215,38
+agfo,Agate Fossil Beds National Monument,131,42
+alag,Alagnak Wild River,123,33
+alfl,Alibates Flint Quarries National Monument,32,14
+alka,Ala Kahakai National Historic Trail,0,1
+alpo,Allegheny Portage Railroad National Historic Site,122,33
+amis,Amistad National Recreation Area,255,66
+amme,American Memorial Park,24,7
+anac,Anacostia Park,223,9
+ania,Aniakchak National Monument & Preserve,134,29
+anti,Antietam National Battlefield,137,36
+apco,Appomattox Court House National Historical Park,93,26
+apis,Apostle Islands National Lakeshore,253,42
+appa,Appalachian National Scenic Trail,38,11
+arch,Arches National Park,188,56
+arpo,Arkansas Post National Memorial,111,33
+asis,Assateague Island National Seashore,310,53
+azru,Aztec Ruins National Monument,115,47
+badl,Badlands National Park,209,49
+band,Bandelier National Monument,175,71
+bawa,Baltimore-Washington Parkway,127,0
+bela,Bering Land Bridge National Preserve,150,37
+beol,Bent's Old Fort National Historic Site,72,22
+bibe,Big Bend National Park,409,80
+bica,Bighorn Canyon National Recreation Area,232,57
+bicy,Big Cypress National Preserve,197,35
+biho,Big Hole National Battlefield,205,64
+bisc,Biscayne National Park,230,25
+biso,Big South Fork National River & Recreation Area,173,57
+bith,Big Thicket National Preserve,295,57
+blca,Black Canyon Of The Gunnison National Park,174,59
+blri,Blue Ridge Parkway,241,72
+blue,Bluestone National Scenic River,109,43
+boha,Boston Harbor Islands National Recreation Area,84,11
+bowa,Booker T Washington National Monument,123,32
+brca,Bryce Canyon National Park,203,61
+buff,Buffalo National River,211,58
+buis,Buck Island Reef National Monument,37,1
+cabr,Cabrillo National Monument,367,30
+cach,Canyon de Chelly National Monument,192,57
+caco,Cape Cod National Seashore,372,52
+cagr,Casa Grande Ruins National Monument,114,17
+caha,Cape Hatteras National Seashore,369,34
+cakr,Cape Krusenstern National Monument,142,35
+calo,Cape Lookout National Seashore,275,18
+cana,Canaveral National Seashore,273,25
+cany,Canyonlands National Park,206,55
+care,Capitol Reef National Park,242,62
+carl,Carl Sandburg Home National Historic Site,102,35
+casa,Castillo de San Marcos National Monument,84,4
+cato,Catoctin Mountain Park,134,42
+cave,Carlsbad Caverns National Park,367,68
+cavo,Capulin Volcano National Monument,59,35
+cebr,Cedar Breaks National Monument,108,50
+cham,Chamizal National Memorial,39,0
+chat,Chattahoochee River National Recreation Area,191,41
+chch,Chickamauga & Chattanooga National Military Park,175,52
+chcu,Chaco Culture National Historical Park,149,50
+chic,Chickasaw National Recreation Area,84,23
+chir,Chiricahua National Monument,0,77
+chis,Channel Islands National Park,354,42
+choh,Chesapeake & Ohio Canal National Historical Park,181,37
+chpi,Charles Pinckney National Historic Site,0,16
+ciro,City Of Rocks National Reserve,164,53
+coga,Constitution Gardens,6,0
+colm,Colorado National Monument,164,53
+colo,Colonial National Historical Park,262,36
+cong,Congaree National Park,191,37
+coro,Coronado National Memorial,178,64
+cowp,Cowpens National Battlefield,104,22
+crla,Crater Lake National Park,210,71
+crmo,Craters Of The Moon National Monument & Preserve,219,65
+cuga,Cumberland Gap National Historical Park,156,51
+cuis,Cumberland Island National Seashore,322,31
+cure,Curecanti National Recreation Area,273,62
+cuva,Cuyahoga Valley National Park,241,42
+dena,Denali National Park & Preserve,160,38
+depo,Devils Postpile National Monument,103,44
+deto,Devils Tower National Monument,133,45
+deva,Death Valley National Park,384,55
+dewa,Delaware Water Gap National Recreation Area,237,49
+dino,Dinosaur National Monument,271,68
+drto,Dry Tortugas National Park,289,6
+ebla,Ebey's Landing National Historical Reserve,222,28
+efmo,Effigy Mounds National Monument,220,43
+eise,Eisenhower National Historic Site,111,11
+elma,El Malpais National Monument,206,60
+elmo,El Morro National Monument,124,51
+elro,Eleanor Roosevelt National Historic Site,49,3
+euon,Eugene O'Neill National Historic Site,49,18
+ever,Everglades National Park,359,43
+fiis,Fire Island National Seashore,339,38
+flfo,Florissant Fossil Beds National Monument,154,37
+flni,Flight 93 National Memorial,0,1
+fobo,Fort Bowie National Historic Site,171,58
+fobu,Fossil Butte National Monument,154,57
+foda,Fort Davis National Historic Site,125,15
+fodo,Fort Donelson National Battlefield,177,36
+fodu,Fort Dupont Park,0,3
+fofr,Fort Frederica National Monument,98,14
+fola,Fort Laramie National Historic Site,121,35
+fols,Fort Larned National Historic Site,57,23
+foma,Fort Matanzas National Monument,212,35
+fone,Fort Necessity National Battlefield,151,35
+fopo,Fort Point National Historic Site,41,2
+fopu,Fort Pulaski National Monument,216,19
+foun,Fort Union National Monument,58,26
+fous,Fort Union Trading Post National Historic Site,103,24
+fova,Fort Vancouver National Historic Site,58,26
+fowa,Fort Washington Park,141,10
+frde,Franklin Delano Roosevelt Memorial,6,0
+frdo,Frederick Douglass National Historic Site,20,0
+frhi,Friendship Hill National Historic Site,158,29
+frsp,Fredericksburg & Spotsylvania National Military Park,159,26
+frst,First State National Historical Park,141,7
+gaar,Gates Of The Arctic National Park & Preserve,130,38
+gari,Gauley River National Recreation Area,148,43
+gate,Gateway National Recreation Area,363,36
+gett,Gettysburg National Military Park,157,25
+gewa,George Washington Birthplace National Monument,150,23
+gicl,Gila Cliff Dwellings National Monument,148,38
+glac,Glacier National Park,242,63
+glba,Glacier Bay National Park & Preserve,247,46
+glca,Glen Canyon National Recreation Area,303,57
+goga,Golden Gate National Recreation Area,368,85
+gosp,Golden Spike National Historical Park,96,34
+grba,Great Basin National Park,214,55
+grca,Grand Canyon National Park,447,91
+gree,Greenbelt Park,127,10
+grfa,Great Falls Park,181,16
+grko,Grant-Kohrs Ranch National Historic Site,230,30
+grpo,Grand Portage National Monument,205,36
+grsa,Great Sand Dunes National Park & Preserve,235,59
+grsm,Great Smoky Mountains National Park,232,86
+grte,Grand Teton National Park,195,61
+guco,Guilford Courthouse National Military Park,76,21
+guis,Gulf Islands National Seashore,316,43
+gumo,Guadalupe Mountains National Park,267,70
+gwca,George Washington Carver National Monument,192,42
+gwmp,George Washington Memorial Parkway,294,42
+hafe,Harpers Ferry National Historical Park,120,27
+hafo,Hagerman Fossil Beds National Monument,199,34
+haha,Harmony Hall,123,3
+hale,Haleakalā National Park,42,13
+havo,Hawaiʻi Volcanoes National Park,62,14
+heho,Herbert Hoover National Historic Site,120,45
+hobe,Horseshoe Bend National Military Park,119,33
+hocu,Hopewell Culture National Historical Park,274,40
+hofr,Home Of Franklin D Roosevelt National Historic Site,54,10
+hofu,Hopewell Furnace National Historic Site,139,19
+home,Homestead National Historical Park,81,41
+hosp,Hot Springs National Park,114,49
+hove,Hovenweep National Monument,134,48
+hutr,Hubbell Trading Post National Historic Site,109,39
+indu,Indiana Dunes National Park,301,46
+isro,Isle Royale National Park,247,20
+jeca,Jewel Cave National Monument,85,29
+jela,Jean Lafitte National Historical Park and Preserve,263,29
+joda,John Day Fossil Beds National Monument,175,56
+jofl,Johnstown Flood National Memorial,112,28
+jomu,John Muir National Historic Site,91,24
+jotr,Joshua Tree National Park,251,54
+kaho,Kaloko-Honokōhau National Historical Park,92,11
+kala,Kalaupapa National Historical Park,33,15
+katm,Katmai National Park & Preserve,175,42
+kaww,Katahdin Woods and Waters National Monument,171,25
+keaq,Kenilworth Park & Aquatic Gardens,228,21
+kefj,Kenai Fjords National Park,161,37
+kemo,Kennesaw Mountain National Battlefield Park,207,19
+kimo,Kings Mountain National Military Park,122,30
+klgo,Klondike Gold Rush National Historical Park,177,35
+knri,Knife River Indian Villages National Historic Site,144,36
+kova,Kobuk Valley National Park,124,37
+labe,Lava Beds National Monument,233,55
+lacl,Lake Clark National Park & Preserve,168,42
+lake,Lake Mead National Recreation Area,291,57
+lamr,Lake Meredith National Recreation Area,81,37
+laro,Lake Roosevelt National Recreation Area,238,58
+lavo,Lassen Volcanic National Park,210,66
+lewi,Lewis and Clark National Historical Park,102,46
+libi,Little Bighorn Battlefield National Monument,60,25
+libo,Lincoln Boyhood National Memorial,224,38
+liri,Little River Canyon National Preserve,147,35
+lyba,LBJ Memorial Grove on the Potomac,4,0
+lyjo,Lyndon B Johnson National Historical Park,0,35
+mabi,Marsh - Billings - Rockefeller National Historical Park,74,34
+maca,Mammoth Cave National Park,168,50
+mana,Manassas National Battlefield Park,159,26
+manz,Manzanar National Historic Site,132,19
+mava,Martin Van Buren National Historic Site,84,15
+meve,Mesa Verde National Park,207,72
+miin,Minidoka National Historic Site,6,13
+mima,Minute Man National Historical Park,113,40
+miss,Mississippi National River & Recreation Area,293,51
+mnrr,Missouri National Recreational River,237,49
+moca,Montezuma Castle National Monument,218,73
+mocr,Moores Creek National Battlefield,105,25
+moja,Mojave National Preserve,151,50
+mono,Monocacy National Battlefield,102,24
+mora,Mount Rainier National Park,157,59
+morr,Morristown National Historical Park,130,15
+moru,Mount Rushmore National Memorial,58,37
+muwo,Muir Woods National Monument,72,0
+nabr,Natural Bridges National Monument,172,47
+nace,National Capital Parks-East,253,25
+nama,National Mall and Memorial Parks,116,25
+natr,Natchez Trace Parkway,135,31
+nava,Navajo National Monument,141,51
+nepe,Nez Perce National Historical Park,161,46
+neri,New River Gorge National Park & Preserve,192,51
+niob,Niobrara National Scenic River,224,49
+nisi,Ninety Six National Historic Site,150,25
+noat,Noatak National Preserve,135,35
+noca,North Cascades National Park,225,70
+npsa,National Park of American Samoa,45,11
+ocmu,Ocmulgee Mounds National Historical Park,172,32
+olym,Olympic National Park,263,67
+orca,Oregon Caves National Monument & Preserve,117,60
+orpi,Organ Pipe Cactus National Monument,275,73
+oxhi,Oxon Cove Park & Oxon Hill Farm,173,7
+ozar,Ozark National Scenic Riverways,167,55
+paal,Palo Alto Battlefield National Historical Park,146,18
+pais,Padre Island National Seashore,372,45
+para,Grand Canyon-Parashant National Monument,178,62
+peco,Pecos National Historical Park,85,31
+pefo,Petrified Forest National Park,221,44
+peri,Pea Ridge National Military Park,74,44
+pete,Petersburg National Battlefield,130,34
+petr,Petroglyph National Monument,125,54
+pinn,Pinnacles National Park,159,55
+pipe,Pipestone National Monument,252,31
+piro,Pictured Rocks National Lakeshore,217,52
+pisc,Piscataway Park,221,32
+pisp,Pipe Spring National Monument,173,52
+pohe,Potomac Heritage National Scenic Trail,0,1
+pore,Point Reyes National Seashore,367,77
+prsf,Presidio of San Francisco,238,40
+prwi,Prince William Forest Park,129,36
+puhe,Puʻukoholā Heiau National Historic Site,40,8
+puho,Puʻuhonua o Hōnaunau National Historical Park,32,11
+rabr,Rainbow Bridge National Monument,41,0
+redw,Redwood National and State Parks,309,102
+rich,Richmond National Battlefield Park,155,24
+rocr,Rock Creek Park,182,30
+romo,Rocky Mountain National Park,257,65
+ruca,Russell Cave National Monument,130,35
+saan,San Antonio Missions National Historical Park,233,39
+sacn,Saint Croix National Scenic Riverway,269,57
+saga,Saint-Gaudens National Historical Park,52,27
+sagu,Saguaro National Park,210,69
+sahi,Sagamore Hill National Historic Site,152,13
+sair,Saugus Iron Works National Historic Site,32,0
+sajh,San Juan Island National Historical Park,175,19
+samo,Santa Monica Mountains National Recreation Area,400,54
+sapu,Salinas Pueblo Missions National Monument,162,58
+sara,Saratoga National Historical Park,0,37
+sari,Salt River Bay National Historical Park and Ecological Preserve,14,0
+scbl,Scotts Bluff National Monument,126,35
+seki,Sequoia & Kings Canyon National Parks,212,74
+shen,Shenandoah National Park,196,57
+shil,Shiloh National Military Park,186,47
+sitk,Sitka National Historical Park,182,17
+slbe,Sleeping Bear Dunes National Lakeshore,238,54
+stri,Stones River National Battlefield,152,36
+sucr,Sunset Crater Volcano National Monument,113,37
+tapr,Tallgrass Prairie National Preserve,136,40
+this,Theodore Roosevelt Island,169,3
+thro,Theodore Roosevelt National Park,161,50
+thst,Thomas Stone National Historic Site,112,14
+tica,Timpanogos Cave National Monument,128,60
+timu,Timucuan Ecological & Historic Preserve,311,25
+tont,Tonto National Monument,150,88
+tuma,Tumacácori National Historical Park,182,33
+tusk,Tule Springs Fossil Beds National Monument,235,25
+tuzi,Tuzigoot National Monument,205,42
+upde,Upper Delaware Scenic & Recreational River,95,43
+vafo,Valley Forge National Historical Park,178,27
+vall,Valles Caldera National Preserve,103,69
+vama,Vanderbilt Mansion National Historic Site,62,2
+vick,Vicksburg National Military Park,190,39
+viis,Virgin Islands National Park,174,16
+voya,Voyageurs National Park,235,56
+waba,Washita Battlefield National Historic Site,7,21
+waca,Walnut Canyon National Monument,108,52
+wapa,War In The Pacific National Historical Park,29,9
+wefa,Weir Farm National Historical Park,51,4
+whho,The White House and President's Park,54,0
+whis,Whiskeytown National Recreation Area,192,47
+whmi,Whitman Mission National Historic Site,221,32
+whsa,White Sands National Park,151,52
+wica,Wind Cave National Park,217,55
+wicr,Wilson's Creek National Battlefield,134,47
+wotr,Wolf Trap National Park for the Performing Arts,91,17
+wrst,Wrangell - St Elias National Park & Preserve,196,47
+wupa,Wupatki National Monument,150,50
+yell,Yellowstone National Park,289,68
+yose,Yosemite National Park,269,83
+yuch,Yukon - Charley Rivers National Preserve,152,37
+yuho,Yucca House National Monument,121,57
+zion,Zion National Park,262,72

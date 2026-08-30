@@ -1,0 +1,666 @@
+park_code,campground,total_sites,reservable,amenities
+acad,Blackwoods Campground,281,True,Flush toilets|Potable water|Dump station|RV friendly|Tent sites
+acad,Seawall Campground,202,True,Flush toilets|Potable water|Dump station|RV friendly|Tent sites
+acad,Schoodic Woods Campground,89,True,Flush toilets|Potable water|Dump station|Electric hookups|RV friendly|Tent sites
+acad,Duck Harbor Campground,5,True,Potable water|Tent sites
+amis,Governors Landing Campground,15,,Vault toilets|Potable water|Cell reception
+amis,Rough Canyon Campground,4,,Flush toilets|Cell reception
+amis,San Pedro Campground,41,,Vault toilets|Tent sites|Cell reception
+amis,Spur 406 Campground,6,,Vault toilets|Cell reception
+amis,277 North Campground,18,True,Vault toilets|Cell reception
+amis,Rock Quarry Group Campsite,1,,Vault toilets|Dump station|Cell reception
+amme,American Memorial Park,0,,
+arch,Devils Garden Campground,51,True,Flush toilets
+asis,Oceanside Drive-in Campground,16,,Vault toilets|Showers|Potable water|Dump station|Camp store|Cell reception
+asis,Bayside Drive-in Campground,22,,Vault toilets|Showers|Potable water|Dump station|Camp store|Cell reception
+asis,Oceanside Walk-in campground,62,,Vault toilets|Showers|Potable water|Dump station|Camp store|Tent sites
+asis,Oceanside Group Campground,5,,Vault toilets|Showers|Potable water|Dump station|Camp store|Tent sites
+asis,Horse camping,2,,Vault toilets|Showers|Potable water|Dump station|Camp store|RV friendly
+asis,Back Country Camping - Pine Tree,1,,Vault toilets|Dump station|Camp store|Tent sites|Cell reception
+asis,Back Country Camping - Tingles Island,1,,Vault toilets|Dump station|Camp store|Tent sites|Cell reception
+asis,Back Country Camping - Green Run,1,,Vault toilets|Dump station|Camp store|Tent sites|Cell reception
+asis,Back Country Camping - Pope Bay,1,,Vault toilets|Dump station|Camp store|Tent sites|Cell reception
+asis,Back Country Camping - Little Levels,1,,Vault toilets|Dump station|Camp store|Tent sites|Cell reception
+asis,Back Country Camping - State Line,1,,Vault toilets|Dump station|Camp store|Tent sites|Cell reception
+badl,Sage Creek Campground,22,,Vault toilets
+badl,Cedar Pass Campground,96,True,Flush toilets|Showers|Potable water|Dump station|Electric hookups|RV friendly
+band,Ponderosa Group Campground,2,True,Vault toilets|Potable water|RV friendly|Tent sites|Cell reception
+band,Juniper Family Campground,52,True,Flush toilets|Potable water|Dump station|Tent sites|Cell reception
+bibe,Chisos Basin Campground,56,True,Flush toilets|Potable water|Dump station|Camp store|Cell reception
+bibe,Rio Grande Village Campground,93,True,Flush toilets|Showers|Potable water|Dump station|Camp store
+bibe,Cottonwood Campground,22,True,Vault toilets|Potable water|Camp store
+bibe,Rio Grande Village RV,25,True,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups
+bica,Horseshoe Bend Campground,68,,Flush toilets|Potable water|Dump station|Camp store|Electric hookups|RV friendly
+bica,Barry's Landing & Trail Creek Campground,30,,Vault toilets|Tent sites
+bica,Afterbay Campground,22,,Potable water|Dump station|Electric hookups|RV friendly
+bica,Grapevine Campground,14,,Vault toilets|Potable water|Dump station|Tent sites
+bica,Medicine Creek Campground,5,,Tent sites
+bica,Black Canyon Campground,17,,Vault toilets|Tent sites
+bica,Dayboard 9 Campground,5,,Tent sites
+bicy,Bear Island Campground,40,,
+bicy,Burns Lake,0,True,Vault toilets
+bicy,Gator Head,9,True,Vault toilets|Tent sites
+bicy,Midway Campground,36,True,Flush toilets|Potable water|Dump station|Electric hookups|RV friendly|Tent sites
+bicy,Mitchell's Landing,11,,Vault toilets
+bicy,Monument Lake,36,True,Flush toilets|Potable water|RV friendly|Tent sites
+bicy,Pinecrest,4,True,
+bicy,Pink Jeep,9,,Vault toilets|Tent sites
+bisc,Boca Chita Campground,60,True,Flush toilets|Showers|Potable water|Tent sites
+bisc,Elliott Key Campground,20,True,Tent sites
+biso,Blue Heron Campground,45,True,Flush toilets|Showers|Potable water|Dump station|Electric hookups|RV friendly
+biso,Bandy Creek Campground,149,True,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups
+biso,Bear Creek Campground,23,True,Flush toilets|Showers|Potable water|Dump station|Electric hookups|RV friendly
+biso,Alum Ford Campground,6,True,Vault toilets|Tent sites
+biso,Station Camp Campground,24,True,Flush toilets|Showers|Potable water|Dump station|Electric hookups|RV friendly
+blca,South Rim Campground,88,True,Vault toilets|Potable water|Electric hookups|RV friendly
+blca,North Rim Campground,13,True,Vault toilets|Potable water
+blca,East Portal Campground,15,,Vault toilets|Potable water|Tent sites
+blri,Crabtree Falls Campground,81,,Flush toilets|Potable water|Dump station|RV friendly
+blri,Doughton Park Campground,108,True,Flush toilets|Potable water|Dump station|RV friendly|Tent sites
+blri,Linville Falls Campground,64,True,Flush toilets|Potable water|Dump station|RV friendly|Tent sites
+blri,Rocky Knob Campground,106,True,Flush toilets|Potable water|Dump station|RV friendly|Tent sites
+blri,Julian Price Park Campground,190,True,Flush toilets|Showers|Potable water|Dump station|RV friendly|Tent sites
+blri,Mount Pisgah,125,True,Flush toilets|Showers|Potable water|Dump station|Camp store|RV friendly
+blri,Peaks of Otter Campground,139,True,Flush toilets|Potable water|Dump station|Camp store|RV friendly|Tent sites
+blri,Otter Creek,68,True,Flush toilets|Potable water|Dump station|RV friendly|Tent sites
+brca,North Campground,100,True,Flush toilets|Potable water|Dump station|Camp store|RV friendly|Tent sites
+brca,Sunset Campground,99,True,Potable water|Dump station|Camp store|RV friendly|Tent sites
+buff,Erbie Campground,32,,Flush toilets|Tent sites
+buff,Rush Campground,12,,Vault toilets|Potable water|Tent sites
+buff,Spring Creek Campground,12,,Vault toilets|Tent sites
+buff,South Maumee,0,,Vault toilets
+buff,Steel Creek Campground,39,True,Flush toilets|Potable water|Tent sites
+buff,Tyler Bend Campground,42,True,Flush toilets|Showers|Potable water|Dump station|Tent sites|Cell reception
+buff,Woolum,0,,Vault toilets
+buff,Ozark Campground,31,True,Flush toilets|Potable water|Tent sites
+buff,Kyles Landing,33,,Flush toilets|Potable water|Tent sites
+buff,Carver Campground,8,,Vault toilets|Potable water|Tent sites
+buff,Buffalo Point Campground,106,True,Flush toilets|Showers|Potable water|Dump station|Electric hookups|RV friendly
+caha,Ocracoke Campground,135,True,Flush toilets|Showers|Potable water|Dump station|Cell reception
+caha,Oregon Inlet Campground,107,True,Flush toilets|Showers|Potable water|Dump station|Electric hookups|RV friendly
+caha,Frisco Campground,117,True,Flush toilets|Showers|Potable water|RV friendly|Tent sites|Cell reception
+caha,Cape Point Campground,202,,Flush toilets|Showers|Potable water|Dump station|Tent sites|Cell reception
+calo,South Core Banks -- Beach camping,0,,Cell reception
+calo,Great Island Cabin Camp,23,True,Flush toilets|Showers|Potable water|Dump station|Cell reception
+calo,North Core Banks - Beach Camping,0,,Cell reception
+cana,Canaveral National Seashore Backcountry Island Camping,14,,Tent sites|Cell reception
+cany,The Needles Campground,26,True,Flush toilets|Potable water|Tent sites
+cany,Island in the Sky (Willow Flat) Campground,12,,Vault toilets
+cany,The Needles District Group Campsites,3,True,Vault toilets|Potable water
+care,Primitive campsites at Cathedral Campground,6,,Vault toilets
+care,Primitive campsites at Cedar Mesa Campground,5,,Vault toilets
+care,Backcountry Camping,0,,
+care,Fruita Campground,71,True,Flush toilets|Potable water|Dump station|Tent sites
+care,Group Campsite,1,True,Flush toilets|Potable water|Dump station
+cato,Owens Creek Campground,50,True,Flush toilets|Showers|Potable water
+cato,Poplar Grove Youth Group Tent Campground,3,True,Vault toilets|Tent sites
+cato,Adirondack Shelters,2,True,Vault toilets
+cato,Camp Misty Mount,29,True,Flush toilets|Showers|Potable water|Cell reception
+cato,Camp Greentop,16,,Flush toilets|Showers|Potable water|Cell reception
+cato,Camp Round Meadow,1,True,Flush toilets|Showers|Potable water|Cell reception
+cebr,Point Supreme Campground,25,True,Flush toilets|Showers|Potable water|Tent sites
+chcu,Gallo Campground,24,,Flush toilets|Potable water|RV friendly|Tent sites
+chic,Rock Creek Campground,100,True,Flush toilets|Potable water|Dump station|Cell reception
+chic,Central Campground,0,True,Flush toilets|Potable water|Cell reception
+chic,Buckhorn Campground Loop A,19,,Flush toilets|Showers|Potable water|Dump station
+chic,Cold Springs Campground,65,True,Flush toilets|Potable water|Cell reception
+chic,The Point Campground,55,True,Flush toilets|Showers|Potable water|Dump station|Electric hookups|RV friendly
+chic,Guy Sandy Campground,40,,Vault toilets|Potable water|Tent sites|Cell reception
+chic,Buckhorn Campground Loop B,25,,Flush toilets|Showers|Potable water|Dump station
+chic,Buckhorn Campground Loop C,41,,Flush toilets|Showers|Potable water|Dump station|Electric hookups|RV friendly
+chic,Buckhorn Campground Loop D,48,,Flush toilets|Showers|Potable water|Dump station|Electric hookups|RV friendly
+chir,Bonita Canyon Campground,23,True,Flush toilets|Potable water
+chis,Anacapa Island Campground,7,True,Vault toilets|Tent sites
+chis,Scorpion Canyon Campground,31,True,Vault toilets|Potable water|Tent sites
+chis,Del Norte Backcountry Campground,4,True,Vault toilets|Tent sites
+chis,Water Canyon Campground,15,,Flush toilets|Potable water|Tent sites
+chis,Santa Rosa Island Backcountry Beach Camping,30,,Potable water|Tent sites
+chis,San Miguel Island Campground,9,True,Vault toilets|Tent sites
+chis,Santa Barbara Island Campground,10,True,Vault toilets|Tent sites
+choh,Bald Eagle Island Hiker-Biker Campsite,1,,Potable water|Tent sites|Cell reception
+choh,Big Woods Hiker-Biker Campsite,1,,Potable water|Tent sites|Cell reception
+choh,Calico Rocks Hiker-Biker Campsite,1,,Potable water|Tent sites|Cell reception
+choh,Cacapon Junction Hiker-Biker Campsite,1,,Potable water|Tent sites|Cell reception
+choh,Chisel Branch Hiker-Biker Campsite,1,,Potable water|Tent sites|Cell reception
+choh,Cumberland Valley Hiker-Biker Campsite,1,,Potable water|Tent sites|Cell reception
+choh,Devils Alley Hiker-Biker Campsite,1,,Potable water|Tent sites|Cell reception
+choh,Evitts Creek Hiker-Biker Campsite,1,,Potable water|Cell reception
+choh,Horsepen Branch Hiker-Biker Campsite,1,,Potable water|Tent sites|Cell reception
+choh,Irons Mountain Hiker-Biker Campsite,0,,Potable water|Cell reception
+choh,Horseshoe Bend Hiker-Biker Campsite,1,,Potable water|Tent sites
+choh,Huckleberry Hill Hiker-Biker Campsite,0,,Potable water
+choh,Indian Flats Hiker-Biker Campsite,0,,Potable water|Cell reception
+choh,Indigo Neck Hiker-Biker Campsite,1,,Potable water|Tent sites|Cell reception
+choh,Killiansburg Cave Hiker-Biker Campsite,1,,Potable water|Tent sites|Cell reception
+choh,Marble Quarry Hiker-Biker Campsite,1,,Potable water|Tent sites|Cell reception
+choh,Pigmans Ferry Hiker-Biker Campsite,0,,Potable water|Cell reception
+choh,Potomac Forks Hiker-Biker Campsite,0,,Potable water|Cell reception
+choh,Swains Lock Hiker-Biker Campsite,5,,Potable water|Tent sites|Cell reception
+choh,Turtle Run Hiker-Biker Campsite,1,,Potable water|Tent sites|Cell reception
+choh,Jordan Junction Hiker-Biker Campsite,1,,Potable water|Tent sites|Cell reception
+choh,Little Pool Hiker-Biker Campsite,0,,Potable water
+choh,Licking Creek Hiker-Biker Campsite,0,,Potable water|Cell reception
+choh,Leopards Mill Hiker-Biker Campsite,1,,Potable water|Tent sites|Cell reception
+choh,Opequon Junction Hiker-Biker Campsite,1,,Potable water|Tent sites|Cell reception
+choh,North Mountain Hiker-Biker Campsite,1,,Potable water|Tent sites|Cell reception
+choh,Purslane Run Hiker-Biker Campsite,1,,Potable water|Tent sites|Cell reception
+choh,Stickpile Hill Hiker-Biker Campsite,1,,Potable water|Tent sites|Cell reception
+choh,Sorrel Ridge Hiker-Biker Campsite,1,,Potable water|Tent sites|Cell reception
+choh,Town Creek Hiker-Biker Campsite,1,,Potable water|Tent sites|Cell reception
+choh,Antietam Creek Campground,20,True,Potable water|Tent sites|Cell reception
+choh,Fifteenmile Creek Campground,10,True,Vault toilets|Potable water|RV friendly|Tent sites|Cell reception
+choh,Marsden Tract Group Campground,6,True,Potable water|Tent sites
+choh,Mccoys Ferry Campground,13,True,Potable water|RV friendly|Cell reception
+choh,Paw Paw Tunnel Campground,10,True,Potable water|Tent sites|Cell reception
+choh,Spring Gap Campground,14,True,Potable water|RV friendly|Cell reception
+choh,White Rock Hiker-Biker Campsite,1,,Potable water|Tent sites|Cell reception
+ciro,City of Rocks Campground,67,,Vault toilets|Potable water|Tent sites
+ciro,Smoky Mountain Campground,38,,Flush toilets|Showers|Potable water|Dump station|Electric hookups|RV friendly
+colm,Saddlehorn Campground,80,True,Flush toilets|Potable water|Cell reception
+cong,Longleaf Campground,14,True,Vault toilets|Tent sites|Cell reception
+cong,Bluff Campground,6,True,Tent sites|Cell reception
+crla,Mazama Campground,214,,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups
+crla,Lost Creek Campground,16,,Tent sites
+crmo,Lava Flow Campground,42,,Flush toilets|Potable water
+cuga,Wilderness Road Campground,150,True,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups
+cuis,Sea Camp Campground,18,,Flush toilets|Showers|Potable water|Tent sites|Cell reception
+cuis,Stafford Beach Campground,10,,Flush toilets|Showers|Potable water|Tent sites
+cuis,Hickory Hill Wilderness Campsite,4,,Potable water|Tent sites|Cell reception
+cuis,Yankee Paradise Wilderness Campsite,4,,Potable water|Tent sites|Cell reception
+cuis,Brickhill Bluff Wilderness Campsite,4,,Potable water|Tent sites|Cell reception
+cure,Elk Creek Campground,155,True,Flush toilets|Potable water|Dump station|Electric hookups|RV friendly|Tent sites
+cure,Lake Fork Campground,90,True,Flush toilets|Potable water|Dump station|Tent sites|Cell reception
+cure,Stevens Creek Campground,53,True,Vault toilets|Potable water|Cell reception
+cure,Cimarron Campground,21,,Vault toilets|Potable water
+cure,Ponderosa Campground,28,,Vault toilets|Tent sites
+cure,Dry Gulch Campground,9,,Vault toilets|Potable water
+cure,East Portal Campground,15,,Vault toilets|Potable water|Tent sites
+cure,East Elk Creek Group Campground,1,True,Vault toilets|Potable water
+cure,Red Creek Campground,1,True,Vault toilets|Potable water
+cure,Gateview Campground,6,,Vault toilets|Tent sites
+dena,Riley Creek,142,,Flush toilets|Showers|Potable water|Dump station|Camp store|Tent sites
+dena,Savage River,32,,Flush toilets|Potable water
+dena,Sanctuary River,7,,Vault toilets|Tent sites
+dena,Teklanika River,53,,Vault toilets|Potable water
+dena,Igloo Creek,7,,Vault toilets|Tent sites
+dena,Wonder Lake,28,,Flush toilets|Potable water|Tent sites
+deto,Belle Fourche River Campground,45,,Flush toilets|Potable water|Tent sites|Cell reception
+deva,Emigrant Campground,10,,Flush toilets|Potable water|Tent sites
+deva,Texas Springs Campground,106,,Flush toilets|Potable water|Dump station|Tent sites
+deva,Sunset Campground,230,,Flush toilets|Potable water|Dump station|Camp store
+deva,Stovepipe Wells Campground,190,,Flush toilets|Potable water|Dump station|Camp store|Tent sites
+deva,Wildrose Campground,23,,Vault toilets
+deva,Furnace Creek Campground,136,True,Flush toilets|Potable water|Dump station|Camp store|Electric hookups|RV friendly
+deva,Mesquite Spring Campground,40,,Flush toilets|Potable water|Dump station
+deva,Thorndike Campground (Primitive),6,,Vault toilets
+deva,Mahogany Flat Campground (Primitive),9,,Vault toilets
+deva,Eureka Dunes Campground (Primitive),7,,Vault toilets
+deva,Homestake Campground (Primitive),10,,
+deva,Saline Valley Campground (Primitive),15,,
+dewa,Dingmans Campground,136,,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups
+dewa,Rivers Bend Group Campground,5,,Vault toilets|Potable water
+dewa,Valley View Group Campground,5,,Vault toilets|Tent sites
+dewa,Mohican Outdoor Center,16,,Flush toilets|Showers|Potable water|Camp store|Tent sites|Cell reception
+dewa,Worthington State Forest Campground,0,,
+dewa,River Camping,62,,Vault toilets|Tent sites
+dino,Echo Park Campground,22,True,Vault toilets|Potable water|Tent sites
+dino,Rainbow Park Campground,4,True,Vault toilets|Tent sites
+dino,Split Mountain Group Campground,4,True,Flush toilets|Potable water|Cell reception
+dino,Green River Campground,80,True,Flush toilets|Potable water|Cell reception
+dino,Deerlodge Park Campground,7,True,Vault toilets|Potable water|Tent sites
+dino,Gates of Lodore Campground,19,True,Vault toilets|Potable water
+drto,Garden Key Campground,8,,Tent sites
+ebla,Fort Casey State Park,0,False,
+ebla,Fort Ebey State Park,0,,
+elmo,El Morro Campground,9,,Vault toilets|Potable water
+ever,Long Pine Key Campground,108,,Flush toilets|Showers|Potable water|Dump station|RV friendly|Tent sites
+ever,Flamingo Campground,274,,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups
+fiis,Backcountry Camping in the Otis Pike High Dune Wilderness,36,,Tent sites
+fiis,Watch Hill Campground,28,,Flush toilets|Showers|Potable water|Camp store|Tent sites|Cell reception
+fomr,The Colonies RV Travel Park & Country Store,35,,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups
+gari,Gauley Tailwaters,18,,Vault toilets|Cell reception
+gate,Sandy Hook Camp Ground,20,True,Flush toilets|Potable water|Tent sites|Cell reception
+gate,Fort Wadsworth Campsite,7,,Flush toilets|Showers|Potable water|Tent sites|Cell reception
+gicl,Upper Scorpion Campground,12,,Vault toilets|Potable water|Tent sites
+gicl,Lower Scorpion Campground,7,,Vault toilets|Potable water|RV friendly|Tent sites
+glac,Logging Creek Campground,7,,Vault toilets
+glac,Quartz Creek Campground,7,,Vault toilets
+glac,Sprague Creek Campground,25,True,Flush toilets|Potable water
+glac,St. Mary Campground,148,True,Flush toilets|Showers|Potable water|Dump station|Tent sites
+glac,Many Glacier Campground,109,True,Flush toilets|Potable water|Dump station|Camp store|Tent sites
+glac,Two Medicine Campground,100,True,Flush toilets|Potable water|Dump station|Camp store
+glac,Kintla Lake Campground,13,,Vault toilets|Potable water|Dump station
+glac,Bowman Lake Campground,48,,Vault toilets|Potable water|Dump station
+glac,Fish Creek Campground,178,True,Flush toilets|Showers|Potable water|Dump station|Tent sites
+glac,Avalanche Campground,87,True,Flush toilets|Potable water
+glac,Rising Sun Campground,84,,Flush toilets|Showers|Potable water|Dump station|Camp store
+glac,Apgar Campground,194,True,Flush toilets|Showers|Potable water|Dump station|Camp store
+glac,Cut Bank Campground,14,,Vault toilets
+glba,Bartlett Cove Campground,33,,Potable water|Tent sites
+glca,Wahweap Campground & RV Park,266,,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups
+glca,Bullfrog RV & Campground,98,,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups
+glca,Halls Crossing RV & Campground,72,,Flush toilets|Potable water|Dump station|Camp store|Electric hookups|RV friendly
+glca,Lees Ferry Campground,54,,Flush toilets|Potable water|Dump station|Cell reception
+glca,Lone Rock Beach Primitive Camping Area,0,,Flush toilets|Showers|Potable water|Dump station
+glca,Stanton Creek Primitive Camping Area,0,,Potable water
+glca,Beehives Primitive Campground,21,,Vault toilets
+glca,Dirty Devil Primitive Camping Area,0,,Vault toilets
+glca,Farley Canyon Primitive Camping Area,0,,Vault toilets
+glca,Colorado River Primitive Camping Between Glen Canyon Dam and Lees Ferry,5,,Vault toilets|Potable water|Tent sites
+glca,Antelope Point RV Park,104,,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups
+goga,Bicentennial Campground,3,True,Vault toilets|Tent sites|Cell reception
+goga,Kirby Cove Campground,6,True,Vault toilets|Tent sites|Cell reception
+goga,Hawk Campground,3,,Tent sites
+goga,Haypress Campground,6,True,Vault toilets|Tent sites
+goga,Rob Hill Campground,0,True,
+grba,Lower Lehman Creek Campground,20,,Vault toilets|Cell reception
+grba,Upper Lehman Creek Campground,23,,Vault toilets|RV friendly
+grba,Wheeler Peak Campground,37,,Vault toilets
+grba,Baker Creek Campground,37,,Vault toilets|RV friendly|Tent sites
+grba,Grey Cliffs Campground,16,True,Vault toilets
+grba,Snake Creek Primitive Campgrounds,12,,Vault toilets|Tent sites
+grba,Dump Station,0,,Potable water
+grca,Desert View Campground (Reservations Required),49,,Flush toilets|Potable water|Camp store
+grca,Mather Campground - South Rim,327,,Flush toilets|Showers|Potable water|Dump station|Camp store|Tent sites
+grca,Trailer Village RV Park - South Rim,123,,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups
+gree,Greenbelt Park Campground,172,True,Flush toilets|Showers|Potable water|Dump station|RV friendly|Tent sites
+grpo,Fort Charlotte Backcountry Campgrounds,2,,Vault toilets|Potable water|Tent sites
+grsa,Piñon Flats Campground,91,True,Flush toilets|Potable water|Dump station|Camp store|Cell reception
+grsa,Medano Pass Primitive Road Campsites,21,,Potable water|Tent sites
+grsa,Backpacking Campsites in the Dunes or Forest,27,,Potable water|Tent sites|Cell reception
+grsm,Smokemont Campground,142,True,Flush toilets|Potable water|Dump station|RV friendly
+grsm,Cades Cove Campground,161,True,Flush toilets|Potable water|Dump station|Camp store|Tent sites
+grsm,Elkmont Campground,211,True,Flush toilets|Potable water|Camp store|Tent sites
+grsm,Cosby Campground,157,True,Flush toilets|Potable water|Dump station|Tent sites
+grsm,Abrams Creek Campground,16,True,Flush toilets|Potable water|Tent sites
+grsm,Big Creek Campground,12,True,Flush toilets|Potable water|Tent sites
+grsm,Cataloochee Campground,27,True,Flush toilets|Potable water
+grsm,Deep Creek Campground,92,True,Flush toilets|Potable water|Dump station|Tent sites
+grsm,Balsam Mountain Campground,43,True,Flush toilets|Potable water|Tent sites
+grsm,Elkmont Group Campground,4,True,Flush toilets|Potable water|Dump station|Camp store|Tent sites
+grsm,Look Rock Campground,68,True,Flush toilets|Potable water|Dump station|Electric hookups|RV friendly|Tent sites
+grsm,Cades Cove Group Campground,3,True,Flush toilets|Potable water|Dump station|Camp store|Tent sites
+grsm,Smokemont Group Campground,3,True,Flush toilets|Potable water|Dump station
+grte,Gros Ventre Campground,279,True,Flush toilets|Potable water|Dump station|Electric hookups|RV friendly|Cell reception
+grte,Jenny Lake Campground,61,,Flush toilets|Showers|Potable water|Camp store|Tent sites|Cell reception
+grte,Signal Mountain Campground,81,True,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups
+grte,Colter Bay Campground,324,True,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups
+grte,Colter Bay RV Park,112,True,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups
+grte,Colter Bay Tent Village,66,True,Flush toilets|Showers|Potable water|Camp store|Cell reception
+grte,Lizard Creek Campground,60,True,Flush toilets|Potable water|Cell reception
+grte,Headwaters Campground,171,True,Flush toilets|Showers|Potable water|Dump station|Camp store|RV friendly
+guis,Davis Bayou Campground,52,True,Flush toilets|Showers|Potable water|Dump station|Electric hookups|RV friendly
+guis,Fort Pickens Campground,200,True,Flush toilets|Showers|Potable water|Dump station|Electric hookups|RV friendly
+guis,Naval Live Oaks Youth Group Camping,1,,Flush toilets|Showers|Potable water|Cell reception
+guis,Fort Pickens Group Campground,0,True,
+guis,Davis Bayou Group Campground,0,True,
+gumo,Dog Canyon Campground,15,True,Flush toilets|Potable water|RV friendly|Tent sites
+gumo,Pine Springs Campground,35,True,Flush toilets|Potable water|RV friendly|Tent sites
+gumo,Guadalupe Peak Wilderness Campground,5,,Tent sites|Cell reception
+gumo,Pine Top Wilderness Campground,8,,Tent sites
+gumo,Bush Mountain Wilderness Campground,5,,Tent sites
+gumo,Blue Ridge Wilderness Campground,5,,Tent sites
+gumo,Mescalero Wilderness Campground,8,,Tent sites
+gumo,Marcus Wilderness Campground,5,,Tent sites
+gumo,McKittrick Ridge Wilderness Campground,8,,Tent sites
+gumo,Wilderness Ridge Wilderness Campground,5,,Tent sites
+gumo,Shumard Canyon Wilderness Campground,5,,Tent sites
+gumo,Tejas Wilderness Campground,5,,Tent sites
+gumo,Frijole Horse Corral Campground,1,True,Vault toilets|Potable water|RV friendly|Tent sites|Cell reception
+hale,Hosmer Grove Campground,6,,Vault toilets|Potable water|Tent sites|Cell reception
+hale,Kīpahulu Campground,9,,Vault toilets|Tent sites
+hale,Wilderness Cabins,3,,Vault toilets|Potable water
+hale,Wilderness Tent Sites,10,True,Vault toilets|Potable water|Tent sites
+havo,Nāmakanipaio,16,,Flush toilets|Potable water|Tent sites|Cell reception
+havo,Kulanaokuaiki,9,,Vault toilets|Tent sites|Cell reception
+hosp,Gulpha Gorge Campground,40,,Flush toilets|Showers|Potable water|Electric hookups|RV friendly|Cell reception
+hove,Hovenweep Campground,31,True,Flush toilets|Potable water
+indu,Dunewood Campground,66,True,Flush toilets|Showers|Potable water|Dump station|RV friendly|Tent sites
+indu,Dunbar Group Site,1,True,Flush toilets|Tent sites|Cell reception
+indu,Central Avenue Walk-in Sites,5,True,Flush toilets|Tent sites|Cell reception
+isro,Beaver Island Campground,3,,Potable water
+isro,Belle Isle Campground,7,,Potable water|Tent sites
+isro,Birch Island Campground,2,,Potable water|Tent sites
+isro,Caribou Island Campground,3,,Potable water|Tent sites
+isro,East Chickenbone Campground,4,,Potable water|Tent sites
+isro,West Chickenbone Campground,9,,Potable water|Tent sites
+isro,Chippewa Harbor Campground,7,,Potable water|Tent sites
+isro,Daisy Farm Campground,25,,Vault toilets|Potable water|Tent sites
+isro,North Desor Campground,3,,Potable water|Tent sites
+isro,South Lake Desor Campground,10,,Potable water|Tent sites
+isro,Duncan Bay Campground,3,,Potable water|Tent sites
+isro,Duncan Narrows Campground,3,,Potable water|Tent sites
+isro,Feldtmann Lake Campground,7,,Potable water|Tent sites
+isro,Grace Island Campground,2,,Potable water
+isro,Hatchet Lake Campground,8,,Potable water|Tent sites
+isro,Hay Bay Campground,1,,Potable water|Tent sites
+isro,Huginnin Cove Campground,5,,Potable water|Tent sites
+isro,Intermediate Lake Campground,3,,Potable water|Tent sites
+isro,Island Mine Campground,6,,Vault toilets|Potable water|Tent sites
+isro,Lake Richie Campground,6,,Potable water|Tent sites
+isro,Lake Richie Canoe Campground,3,,Potable water|Tent sites
+isro,Lake Whittlesey Campground,3,,Potable water|Tent sites
+isro,Lane Cove Campground,5,,Potable water|Tent sites
+isro,Little Todd Campground,4,,Potable water|Tent sites
+isro,Malone Bay Campground,7,,Potable water
+isro,McCargoe Cove Campground,12,,Potable water|Tent sites
+isro,Merritt Lane Campground,2,,Potable water|Tent sites
+isro,Moskey Basin Campground,10,,Potable water|Tent sites
+isro,Pickerel Cove Campground,1,,Potable water|Tent sites
+isro,Rock Harbor Campground,23,,Flush toilets|Showers|Potable water|Dump station|Camp store|Tent sites
+isro,Siskiwit Bay Campground,9,,Potable water|Tent sites
+isro,Three Mile Campground,15,,Potable water|Tent sites
+isro,Todd Harbor Campground,9,,Potable water|Tent sites
+isro,Tookers Island Campground,2,,Potable water
+isro,Washington Creek Campground,19,,Flush toilets|Showers|Potable water|Dump station|Camp store|Tent sites
+isro,Wood Lake Campground,3,,Potable water|Tent sites
+jotr,Cottonwood Campground,62,True,Flush toilets|Potable water|Dump station
+jotr,White Tank Campground,15,,Vault toilets
+jotr,Ryan Campground,32,True,Vault toilets
+jotr,Hidden Valley Campground,44,,Vault toilets
+jotr,Indian Cove Campground,101,True,Vault toilets
+jotr,Black Rock Campground,99,True,Flush toilets|Potable water|Dump station|Cell reception
+jotr,Belle Campground,18,,Vault toilets
+jotr,Sheep Pass Group Campground,6,True,Vault toilets|Tent sites
+jotr,Jumbo Rocks Campground,124,True,Vault toilets
+katm,Brooks Camp Campground,32,,Vault toilets|Showers|Potable water|Camp store|Tent sites
+kaww,Sandbank Stream Campground,3,,Vault toilets
+kaww,Lunksoos Campsites,7,,Vault toilets|Tent sites
+kaww,Upper East Branch Campsite,1,,Vault toilets|Tent sites
+kaww,Stair Falls Campsite,1,,Tent sites
+kaww,Esker Campsite,1,,Tent sites
+kaww,Katahdin Brook Lean-to,1,,
+kaww,Wassataquoik Lean-to,1,,
+kaww,Wassataquoik Campsite,1,,Tent sites
+kaww,Big Seboeis Campsite,1,,Tent sites
+kaww,Big Spring Brook Campsite,1,,Tent sites
+kaww,Haskell Deadwater Campsite,1,,Vault toilets|Tent sites
+kaww,Pond Pitch Campsite,1,,Tent sites
+kaww,Grand Pitch Lean-to,1,,Vault toilets
+kaww,Big Spring Brook Hut,1,,Vault toilets
+kaww,Haskell Hut,1,,Vault toilets
+kaww,Lunksoos Mountain Lean-To,1,,Vault toilets|Potable water
+kefj,Exit Glacier Campground,12,,Vault toilets|Potable water|Tent sites
+klgo,Dyea Campground,22,,Vault toilets|Tent sites
+klgo,Sheep Camp,27,,Potable water|Tent sites
+klgo,Pleasant Camp,11,,Vault toilets|Potable water|Tent sites
+klgo,Finnegan's Point,6,,Vault toilets|Potable water|Tent sites
+klgo,Canyon City,11,,Potable water|Tent sites
+labe,Indian Well Campground,43,,Flush toilets|Potable water|Cell reception
+labe,Group Campsite,1,,Vault toilets|Potable water|Tent sites|Cell reception
+lacl,NPS Priest Rock Public Use Cabin,0,,
+lake,Boulder Beach Campground,135,,Flush toilets|Potable water|Dump station|Tent sites|Cell reception
+lake,Boulder Beach Group Campground,5,,Flush toilets|Potable water|Dump station|Tent sites|Cell reception
+lake,Lake Mead RV Village,115,,Electric hookups|RV friendly
+lake,Las Vegas Bay Campground,85,True,Flush toilets|Potable water|Dump station|Tent sites|Cell reception
+lake,Callville Bay Campground,52,True,Potable water|Dump station|Tent sites|Cell reception
+lake,Callville Bay RV Park,5,True,Electric hookups|RV friendly
+lake,Willow Beach Campground,9,,Tent sites
+lake,Cottonwood Cove Campground,45,,Tent sites
+lake,Temple Bar Campground,71,,Flush toilets|Potable water|Dump station|Tent sites|Cell reception
+lake,Echo Bay Campground,52,True,Flush toilets|Potable water|Dump station|Tent sites|Cell reception
+lake,Echo Bay RV Park,55,True,Electric hookups|RV friendly
+lake,Temple Bar RV Park,10,,Electric hookups|RV friendly
+lake,Cottonwood Cove RV Park,72,,Electric hookups|RV friendly
+lake,Willow Beach RV Park,28,,Electric hookups|RV friendly
+lake,Katherine Landing Campground,173,,Tent sites
+lake,Katherine Landing RV Park,24,,Electric hookups|RV friendly
+lamr,Fritch Fortress,15,,Flush toilets|Showers|Potable water|Dump station|Cell reception
+lamr,Blue West Campground,30,,Vault toilets
+lamr,Chimney Hollow Campground,15,,
+lamr,Harbor Bay Campground,25,,Vault toilets
+lamr,Cedar Canyon Campground,15,,Flush toilets|Potable water
+lamr,McBride Canyon and Mullinaw Creek Campgrounds,40,,Vault toilets
+lamr,Plum Creek Campgrounds,45,,Vault toilets
+lamr,Bugbee Canyon,10,,Vault toilets
+lamr,Blue Creek,50,,Vault toilets
+lamr,Rosita Flats,75,,
+lamr,Sanford Yake Campground,51,,
+laro,North Gorge Campground,12,True,Vault toilets|Tent sites|Cell reception
+laro,Snag Cove Campground,9,True,Vault toilets|Cell reception
+laro,Kettle River Campground,13,True,Vault toilets|Cell reception
+laro,Evans Campground,43,True,Flush toilets|Potable water|Dump station|Tent sites|Cell reception
+laro,Evans Group Site,1,,Vault toilets|Potable water|Dump station|Cell reception
+laro,Kamloops Island Campground,17,True,Vault toilets|Tent sites|Cell reception
+laro,Marcus Island Campground,25,True,Vault toilets|Cell reception
+laro,Kettle Falls Campground,74,True,Flush toilets|Potable water|Dump station|Cell reception
+laro,Locust Grove Group Sites,2,True,Vault toilets|Potable water|Dump station|Cell reception
+laro,Haag Cove Campground,18,True,Vault toilets|Tent sites|Cell reception
+laro,Cloverleaf Campground,7,,Vault toilets|Tent sites|Cell reception
+laro,Gifford Campground,42,True,Flush toilets|Potable water|Dump station|Cell reception
+laro,Gifford Group Site,1,,Vault toilets|Potable water|Dump station|Cell reception
+laro,Hunters Campground,37,True,Flush toilets|Potable water|Dump station|Cell reception
+laro,Hunters Group Sites,3,,Vault toilets|Potable water|Dump station|Cell reception
+laro,Camp Na-Bor-Lee (non-profit operated),10,,Flush toilets|Showers|Potable water
+laro,Fort Spokane Campground,67,True,Flush toilets|Potable water|Dump station|Tent sites|Cell reception
+laro,Porcupine Bay Campground,20,,Flush toilets|Potable water|Dump station
+laro,Hawk Creek Campground,20,True,Vault toilets
+laro,Jones Bay Campground,9,True,Vault toilets
+laro,Keller Ferry Campground (Concessionaire-operated),55,,Flush toilets|Potable water|Dump station|Camp store|Tent sites|Cell reception
+laro,Keller Ferry Group Sites (Concessionaire-operated),2,,Vault toilets|Potable water|Dump station|Camp store|Cell reception
+laro,Spring Canyon Campground,68,True,Flush toilets|Potable water|Dump station|Cell reception
+laro,Spring Canyon Group Sites,2,True,Flush toilets|Potable water|Dump station|Cell reception
+lavo,Manzanita Lake Campground,179,True,Flush toilets|Showers|Potable water|Dump station|Camp store|Tent sites
+lavo,Lost Creek Group Campground,8,True,Vault toilets|Potable water
+lavo,Summit Lake North Campground,46,True,Flush toilets|Potable water
+lavo,Summit Lake South Campground,49,True,Vault toilets|Potable water|Tent sites
+lavo,Southwest Campground - Summer/Fall,35,,Flush toilets|Potable water|Tent sites
+lavo,Southwest Campground - Winter/Spring,15,,Flush toilets|Potable water
+lavo,Butte Lake Campground,101,True,Vault toilets|Potable water
+lavo,Juniper Lake Campground,18,True,Vault toilets|Potable water
+lavo,Warner Valley Campground,17,True,Vault toilets|Potable water
+lavo,Backcountry Camping in Lassen's Wilderness,0,,Potable water
+maca,Mammoth Cave Campground,111,True,Flush toilets|Showers|Potable water|Dump station|Camp store|Tent sites
+maca,Maple Springs Group Campground,7,True,Vault toilets|Potable water|Electric hookups|RV friendly
+maca,Houchin Ferry Campground,12,,Potable water|Tent sites
+meve,Morefield Campground,267,,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups
+mnrr,Bow Creek Primitive Camping,5,,Tent sites|Cell reception
+mnrr,Green Island Primitive Camping,5,,Tent sites|Cell reception
+mnrr,Goat Island Primitive Camping,2,,Tent sites
+moja,Hole-in-the-Wall Campground,38,,Vault toilets|Potable water|Dump station
+moja,Mid Hills Campground,26,,Vault toilets
+moja,Black Canyon Group and Equestrian Campground,2,,Vault toilets|Potable water
+mora,Cougar Rock Campground,179,True,Flush toilets|Potable water|RV friendly|Tent sites
+mora,Ohanapecosh Campground,179,True,Flush toilets|Potable water|RV friendly|Tent sites
+mora,White River Campground,88,True,Flush toilets|Potable water|RV friendly|Tent sites
+nabr,Natural Bridges Campground,13,True,Vault toilets
+natr,"Meriwether Lewis Campground, Milepost 385.9",31,,Flush toilets|Potable water
+natr,"Rocky Springs Campground, Milepost 54.8",22,,Flush toilets|Potable water|Cell reception
+natr,"Jeff Busby Campground, Milepost 193.1",18,,Flush toilets|Potable water|Cell reception
+nava,Sunset View Campground,0,,Flush toilets|Potable water
+nava,Canyon View Campground,13,,RV friendly|Tent sites
+neri,Stone Cliff,7,,Tent sites|Cell reception
+neri,Army Camp,11,,Cell reception
+neri,Brooklyn Campground,5,,Tent sites|Cell reception
+neri,Grandview Sandbar,16,True,Tent sites|Cell reception
+neri,War Ridge/Backus Mountain Campground,8,,Cell reception
+neri,Glade Creek Campground,11,,Tent sites|Cell reception
+neri,Thayer Campground,4,,Tent sites|Cell reception
+neri,Burnwood Group Campsite,1,,Flush toilets|Potable water|Cell reception
+neri,Meadow Creek Campground,17,,Cell reception
+noca,Newhalem Creek Campground,107,True,Flush toilets|Potable water|Dump station|Tent sites|Cell reception
+noca,Goodell Creek Campground,19,True,Vault toilets|Potable water|Cell reception
+noca,Lower Goodell Group Campground,2,True,Vault toilets
+noca,Gorge Lake Campground,8,True,Vault toilets|Tent sites
+noca,Colonial Creek North Campground,38,True,Flush toilets|Potable water|Tent sites
+noca,Colonial Creek South Campground,93,True,Flush toilets|Potable water|Dump station|Tent sites
+noca,Lakeview Campground,9,,Flush toilets|Potable water|Camp store|Tent sites
+noca,Purple Point Campground,6,,Flush toilets|Potable water|Tent sites
+noca,Harlequin Campground,7,True,Vault toilets
+noca,Hozomeen Campground,75,,Vault toilets|Potable water
+obed,Rock Creek Campground,11,True,Vault toilets|Tent sites
+olym,Queets Campground,20,,Vault toilets
+olym,South Beach Campground,55,,Vault toilets
+olym,North Fork Campground,9,,Vault toilets
+olym,Ozette Campground,15,,Flush toilets
+olym,Kalaloch Campround,170,True,Flush toilets|Potable water|Dump station
+olym,Graves Creek Campground,30,,Vault toilets
+olym,Heart O' the Hills Campground,97,,Flush toilets|Potable water
+olym,Staircase Campground,49,,Flush toilets|Potable water
+olym,Fairholme Campground,88,True,Flush toilets|Potable water|Dump station|Camp store|Cell reception
+olym,Mora Campground,94,,Flush toilets|Potable water|Dump station
+olym,Hoh Campground,78,True,Flush toilets|Potable water
+olym,Deer Park Campground,14,,Vault toilets
+orca,Cave Creek Campground,17,,Vault toilets|Potable water|Tent sites
+orpi,Alamo Canyon Campground,4,True,Vault toilets|Tent sites
+orpi,Twin Peaks Campground,208,True,Flush toilets|Showers|Potable water|Dump station|RV friendly|Tent sites
+ozar,Alley Spring Campground,146,True,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups
+ozar,Big Spring Campground,123,True,Flush toilets|Showers|Potable water|Dump station|Electric hookups|RV friendly
+ozar,Round Spring Campground,55,True,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups
+ozar,Pulltite Campground,55,True,Flush toilets|Showers|Potable water|Camp store|Tent sites
+ozar,Two Rivers Campground,22,True,Flush toilets|Showers|Potable water|Camp store|Tent sites
+ozar,Akers Group Campground,4,True,Vault toilets|Potable water|Camp store|Tent sites
+ozar,Big Tree Campground,7,,Vault toilets
+ozar,Gooseneck Campground,7,,Vault toilets|Potable water
+ozar,Clubhouse Campground,5,,Vault toilets
+ozar,Cedar Spring Campground,2,,
+ozar,Grubb Hollow Campground,5,,Vault toilets
+ozar,Powder Mill Campground,8,,Vault toilets
+ozar,Log Yard Campground,6,,Vault toilets|Potable water
+ozar,Blue Spring Campground,7,,Vault toilets|Tent sites
+ozar,Bay Creek Campground,11,,Vault toilets
+ozar,Bachers Campground,1,,Vault toilets
+ozar,Rymers Campground,4,,Vault toilets
+ozar,Shawnee Creek Campground,6,,Vault toilets
+ozar,Sinking Creek Campground,8,,Vault toilets
+ozar,Cedar Grove Campground,6,,Vault toilets
+ozar,Dee Murray Campground,5,,Vault toilets
+ozar,Jerktail Campground,3,,Vault toilets
+ozar,Broadfoot Campground,4,,Vault toilets
+pais,Malaquite Campground,48,,Flush toilets|Showers|Potable water|Dump station|Tent sites
+pais,Bird Island Basin Campground,34,,Vault toilets|Tent sites
+pinn,Pinnacles Campground,134,True,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups
+piro,Little Beaver Lake Campground,8,True,Vault toilets|Potable water
+piro,Twelvemile Beach Campground,36,True,Vault toilets|Potable water
+piro,Hurricane River Campground,21,True,Vault toilets|Potable water
+piro,Masse Homestead Group Backpacking Site,1,,Vault toilets|Tent sites
+piro,Au Sable East Group Backpacking Site,1,,Tent sites
+piro,Sevenmile Creek Group Backpacking Site,1,,Tent sites
+piro,Trappers Lake Group Backpacking Site,1,,Tent sites
+piro,Lowney Creek Group Backpacking Site,1,,Tent sites
+piro,Coves Group Backpacking Site,1,,Vault toilets|Potable water|Tent sites
+piro,Mosquito River Group Backpacking Site,1,,Vault toilets|Potable water|Tent sites
+piro,Cliffs Group Backpacking Site,1,,Vault toilets|Tent sites
+piro,Masse Homestead Individual Backpacking Sites,3,,Vault toilets|Tent sites
+piro,Au Sable East Individual Backpacking Sites,6,,Vault toilets|Potable water|Tent sites
+piro,Benchmark Individual Backpacking Sites,6,,Vault toilets|Potable water|Tent sites
+piro,Sevenmile Creek Individual Backpacking Sites,5,,Vault toilets|Potable water|Tent sites
+piro,Trappers Lake Individual Backpacking Sites,5,,Vault toilets|Potable water|Tent sites
+piro,Pine Bluff Individual Backpacking Sites,5,,Vault toilets|Potable water|Tent sites
+piro,Chapel Individual Backpacking Sites,6,,Vault toilets|Potable water|Tent sites
+piro,Beaver Creek Individual Backpacking Sites,6,,Vault toilets|Potable water|Tent sites
+piro,Lowney Creek Individual Backpacking Sites,4,,Vault toilets|Potable water|Tent sites
+piro,Coves Individual Backpacking Sites,5,,Vault toilets|Potable water|Tent sites
+piro,Mosquito River Individual Backpacking Sites,5,,Vault toilets|Potable water|Tent sites
+piro,Potato Patch Individual Backpacking Sites,3,,Vault toilets|Tent sites
+piro,Cliffs Individual Backpacking Sites,3,,Vault toilets|Tent sites
+piro,Grand Sable Lake Boat-In Site,1,,Vault toilets|Potable water|Tent sites
+pore,Glen Campground,12,,Vault toilets|Potable water|Tent sites
+pore,Sky Campground,12,,Vault toilets|Potable water|Tent sites
+pore,Wildcat Campground,8,,Vault toilets|Potable water|Tent sites
+pore,Coast Campground,14,,Vault toilets|Potable water|Tent sites
+pore,Tomales Bay Boat-in Camping,20,,Vault toilets|Tent sites|Cell reception
+prwi,Prince William Forest RV Campground,72,,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups
+prwi,Chopawamsic Backcountry Area,8,True,Vault toilets|Tent sites
+prwi,Turkey Run Ridge Group Campground,9,True,Flush toilets|Potable water|Tent sites
+prwi,Oak Ridge Campground,100,True,Flush toilets|Showers|Potable water|Tent sites|Cell reception
+prwi,Cabin Camp 1 (By Reservation Only),1,,Flush toilets|Showers|Potable water
+prwi,Cabin Camp 2 (By Reservation Only),1,,Flush toilets|Showers|Potable water
+prwi,Cabin Camp 3 (Group Site By Reservation Only),1,,Flush toilets|Showers|Potable water
+prwi,Cabin Camp 4 (By Reservation Only),1,,Flush toilets|Showers|Potable water
+prwi,Cabin Camp 5 (By Reservation Only),1,,Flush toilets|Showers|Potable water
+prwi,Cabin Camp 3 (Individual Cabins),13,True,Flush toilets|Showers|Potable water|Cell reception
+redw,Elk Prairie Campground - Prairie Creek Redwoods State Park,75,,Flush toilets|Showers|Potable water|RV friendly|Tent sites
+redw,Jedediah Smith Campground - Jedediah Smith Redwoods State Park,86,,Flush toilets|Showers|Potable water|Dump station|RV friendly|Tent sites
+redw,Mill Creek Campground - Del Norte Coast Redwoods State Park,145,,Flush toilets|Showers|Potable water|Dump station|Tent sites
+redw,Gold Bluffs Beach Campground - Prairie Creek Redwoods State Park,26,,Flush toilets|Showers|Potable water|Cell reception
+romo,Aspenglen Campground,52,True,Flush toilets|Potable water|Tent sites
+romo,Glacier Basin Campground,150,True,Flush toilets|Potable water|Dump station|Tent sites
+romo,Timber Creek Campground,98,True,Flush toilets|Potable water|Dump station|Tent sites
+romo,Moraine Park Campground,244,True,Flush toilets|Potable water|Dump station|Electric hookups|RV friendly|Tent sites
+romo,Longs Peak Campground,26,,Vault toilets|Tent sites
+sacn,Namekagon District,67,,Vault toilets|Potable water|Tent sites|Cell reception
+sacn,Middle St. Croix,57,,Vault toilets|Potable water|Tent sites|Cell reception
+sacn,Lower St. Croix District,19,,Tent sites|Cell reception
+sagu,Douglas Spring,0,,
+sagu,Spud Rock Spring,0,,
+sagu,Manning Camp,6,,Vault toilets|Potable water|Tent sites
+sagu,Happy Valley Saddle,0,,
+sagu,Juniper Basin,0,,
+sagu,Grass Shack,0,,
+samo,Circle X Ranch Campground - CLOSED,1,True,Vault toilets
+seki,Potwisha Campground,42,True,Flush toilets|Potable water|Dump station
+seki,Azalea Campground,110,True,Flush toilets|Potable water|Camp store|Cell reception
+seki,Cold Springs Campground,40,True,Vault toilets|Potable water|Tent sites
+seki,Atwell Mill Campground,21,True,Vault toilets|Potable water|Tent sites
+seki,Buckeye Flat Campground,27,True,Flush toilets|Potable water|Tent sites
+seki,Sunset Campground,158,True,Flush toilets|Potable water|Camp store|Cell reception
+seki,Crystal Springs Campground,35,True,Flush toilets|Potable water|Camp store|Cell reception
+seki,Crystal Springs Campground Group Sites,14,True,Flush toilets|Potable water|Camp store|Cell reception
+seki,South Fork Campground,0,,Vault toilets
+seki,Lodgepole Campground,214,True,Flush toilets|Potable water|Dump station|Camp store|Tent sites
+seki,Dorst Creek Campground,222,True,Flush toilets|Potable water|RV friendly|Tent sites
+seki,Sentinel Campground,82,True,Flush toilets|Potable water|Camp store
+seki,Canyon View Group Campground,16,True,Flush toilets|Potable water|Camp store
+seki,Moraine Campground,121,True,Flush toilets|Potable water|Camp store
+seki,Sheep Creek Campground,111,True,Flush toilets|Potable water|Camp store
+semo,Paul Grist State Park,0,,
+semo,Prairie Creek,0,True,
+semo,Gunter Hill Campground,0,True,
+shen,Mathews Arm Campground,165,True,Flush toilets|Potable water|Dump station
+shen,Big Meadows Campground,221,True,Flush toilets|Showers|Potable water|Dump station|Camp store|Tent sites
+shen,Lewis Mountain Campground,30,True,Flush toilets|Showers|Potable water|Camp store
+shen,Loft Mountain Campground,207,True,Flush toilets|Showers|Potable water|Dump station|Camp store|Tent sites
+slbe,D. H. Day Campground,87,,Vault toilets|Potable water|Dump station|Tent sites|Cell reception
+slbe,D. H. Day Campground Group Campground,4,True,Vault toilets|Potable water|Tent sites
+slbe,Popple Campground - South Manitou Island,7,True,Vault toilets|Tent sites
+slbe,Weather Station Campground - South Manitou Island,23,,Vault toilets|Tent sites
+slbe,White Pine Backcountry Campground,6,True,Vault toilets|Tent sites
+slbe,Village Campground - North Manitou Island,8,,Vault toilets|Tent sites
+slbe,Platte River Campground,179,True,Flush toilets|Showers|Potable water|Dump station|Electric hookups|RV friendly
+slbe,Bay Campground - South Manitou Island,28,True,Vault toilets|Tent sites
+thro,Cottonwood Campground,76,True,Flush toilets|Potable water|Tent sites
+thro,Juniper Campground,50,,Flush toilets|Potable water|Dump station|Tent sites
+thro,Roundup Group Horse Camp,1,True,Vault toilets|Potable water
+viis,Cinnamon Bay Beach and Campground,121,,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups
+whis,Dry Creek Group Campground,2,True,Vault toilets|Potable water|Tent sites|Cell reception
+whis,Crystal Creek,2,True,Vault toilets|Tent sites|Cell reception
+whis,Sheep Camp,4,True,Vault toilets|Tent sites|Cell reception
+whis,Horse Camp,2,True,Vault toilets|Potable water|RV friendly|Tent sites|Cell reception
+whis,Peltier Bridge,9,True,Vault toilets|Tent sites|Cell reception
+whis,Brandy Creek,2,True,Vault toilets|Cell reception
+whis,Brandy Creek RV,15,True,Potable water|Dump station|RV friendly|Cell reception
+whsa,Backcountry Camping,10,,Tent sites|Cell reception
+wica,Elk Mountain Campground,64,,Flush toilets|Potable water|RV friendly|Tent sites
+wrst,Kendesnii Campground,10,,Vault toilets
+yell,Canyon Campground,273,,Flush toilets|Showers|Potable water|Dump station|Cell reception
+yell,Bridge Bay Campground,432,,Flush toilets|Potable water|Dump station|Camp store|Cell reception
+yell,Fishing Bridge RV Park,310,,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups
+yell,Grant Village Campground,430,,Flush toilets|Showers|Potable water|Dump station|Camp store|Cell reception
+yell,Madison Campground,276,,Flush toilets|Potable water|Dump station|Tent sites
+yell,Indian Creek Campground,70,True,Vault toilets|Potable water
+yell,Mammoth Campground,85,True,Flush toilets|Potable water|Cell reception
+yell,Norris Campground,112,,Flush toilets|Potable water
+yell,Pebble Creek Campground,27,,Vault toilets|Potable water
+yell,Tower Fall Campground,31,True,Vault toilets|Potable water|Camp store
+yell,Lewis Lake Campground,85,,Vault toilets|Potable water
+yell,Slough Creek Campground,16,True,Vault toilets|Potable water
+yose,Upper Pines Campground,236,True,Flush toilets|Potable water|Dump station|RV friendly|Tent sites|Cell reception
+yose,Hodgdon Meadow Campground,100,True,Flush toilets|Potable water|Tent sites
+yose,North Pines Campground,81,True,Flush toilets|Potable water|RV friendly|Cell reception
+yose,Lower Pines Campground,74,True,Flush toilets|Potable water|RV friendly|Cell reception
+yose,Wawona Campground,95,True,Flush toilets|Potable water|Dump station|RV friendly|Tent sites|Cell reception
+yose,Tuolumne Meadows Campground,289,True,Flush toilets|Potable water|Dump station|RV friendly|Tent sites|Cell reception
+yose,Crane Flat Campground,148,True,Flush toilets|Potable water|Tent sites
+yose,Camp 4 Campground,61,,Flush toilets|Potable water|Tent sites|Cell reception
+yose,White Wolf Campground,68,True,Vault toilets|Tent sites
+yose,Porcupine Flat Campground,55,True,Vault toilets|Tent sites
+yose,Yosemite Creek Campground,74,True,Vault toilets|Tent sites
+yose,Tamarack Flat Campground,52,True,Vault toilets|Tent sites
+yose,Bridalveil Creek Campground,110,True,Flush toilets|Potable water|RV friendly|Tent sites
+yose,Wawona Horse Camp,2,True,Flush toilets|Potable water|Dump station
+yose,Tuolumne Meadows Horse Camp,4,True,Flush toilets|Potable water|Dump station|Cell reception
+yose,Bridalveil Creek Horse Camp,3,True,Flush toilets|Potable water|Cell reception
+zion,Watchman Campground,184,True,Flush toilets|Potable water|Dump station|Electric hookups|RV friendly|Tent sites
+zion,South Campground,124,True,Flush toilets|Potable water|Dump station|Tent sites|Cell reception
+zion,Lava Point Campground,6,,Vault toilets|Tent sites
