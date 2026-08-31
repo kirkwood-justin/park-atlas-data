@@ -1,0 +1,32 @@
+name: Sync CSVs from theparkatlas.com
+on:
+  schedule:
+    - cron: "17 11 * * *"   # 2 hours after the site's nightly rebuild
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull published CSVs
+        run: |
+          set -e
+          for f in parks.csv entrance_fees.csv campgrounds.csv wildlife_checklist_counts.csv SNAPSHOT.txt; do
+            curl -fsS "https://theparkatlas.com/data/$f" -o "$f"
+          done
+          # refuse an obviously broken pull (site outage should not empty the repo)
+          [ "$(wc -l < parks.csv)" -gt 400 ] || { echo "parks.csv too small, aborting"; exit 1; }
+          SNAP="$(cat SNAPSHOT.txt)"
+          sed -i "s/This repository snapshot: data retrieved .*\./This repository snapshot: data retrieved ${SNAP}./" README.md
+      - name: Commit if changed
+        run: |
+          git config user.name "park-atlas-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Data refresh $(date -u +%F) from theparkatlas.com/data/"
+          git push
