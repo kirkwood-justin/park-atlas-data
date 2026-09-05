@@ -41,7 +41,7 @@ bicy,Big Cypress National Preserve,National Preserve,Preserves & Reserves,FL,226
 biho,Big Hole National Battlefield,National Battlefield,Battlefields & Military Parks,MT,40938,False,False,False,205,1
 bisc,Biscayne National Park,National Park,National Parks,FL,486567,False,False,False,230,3
 biso,Big South Fork National River & Recreation Area,National River & Recreation Area,Rivers & Riverways,KY|TN,774353,False,False,False,173,5
-bith,Big Thicket National Preserve,National Preserve,Preserves & Reserves,TX,228310,False,False,False,295,3
+bith,Big Thicket National Preserve,National Preserve,Preserves & Reserves,TX,228310,False,False,False,295,1
 blca,Black Canyon Of The Gunnison National Park,National Park,National Parks,CO,250086,True,False,True,174,3
 blri,Blue Ridge Parkway,Parkway,Parkways,NC|VA,16533753,False,False,False,241,0
 blrv,Blackstone River Valley National Historical Park,National Historical Park,Historical Parks,RI|MA,,False,False,False,,0
@@ -87,7 +87,7 @@ cebr,Cedar Breaks National Monument,National Monument,Monuments,UT,718014,True,F
 cech,César E. Chávez National Monument,National Monument,Monuments,CA,31497,False,False,False,,0
 cham,Chamizal National Memorial,National Memorial,Memorials,TX,7917,False,False,False,39,0
 chat,Chattahoochee River National Recreation Area,National Recreation Area,Recreation Areas,GA,2901903,False,False,True,191,1
-chch,Chickamauga & Chattanooga National Military Park,National Military Park,Battlefields & Military Parks,GA|TN,971647,False,False,True,175,1
+chch,Chickamauga & Chattanooga National Military Park,National Military Park,Battlefields & Military Parks,GA|TN,971647,False,False,True,175,0
 chcu,Chaco Culture National Historical Park,National Historical Park,Historical Parks,NM,29816,True,False,True,149,0
 chic,Chickasaw National Recreation Area,National Recreation Area,Recreation Areas,OK,1877797,False,False,False,84,1
 chir,Chiricahua National Monument,National Monument,Monuments,AZ,70406,True,False,False,,1
@@ -101,7 +101,7 @@ cibs,Carlisle Federal Indian Boarding School National Monument,National Monument
 ciro,City Of Rocks National Reserve,National Reserve,Preserves & Reserves,ID,90898,False,False,False,164,1
 clba,Clara Barton National Historic Site,National Historic Site,Historic Sites,MD,11309,False,False,False,,1
 coga,Constitution Gardens,Park Unit,Other,DC,,False,False,False,6,0
-colm,Colorado National Monument,National Monument,Monuments,CO,483436,False,False,True,164,2
+colm,Colorado National Monument,National Monument,Monuments,CO,483436,False,False,True,164,1
 colo,Colonial National Historical Park,National Historical Park,Historical Parks,VA,1582994,False,False,True,262,1
 colt,Coltsville National Historical Park,National Historical Park,Historical Parks,CT,,False,False,False,,2
 cong,Congaree National Park,National Park,National Parks,SC,287833,False,False,False,191,4
@@ -138,7 +138,7 @@ elte,El Camino Real de los Tejas National Historic Trail,National Historic Trail
 euon,Eugene O'Neill National Historic Site,National Historic Site,Historic Sites,CA,14881,False,False,False,49,0
 ever,Everglades National Park,National Park,National Parks,FL,778198,False,False,True,359,3
 feha,Federal Hall National Memorial,National Memorial,Memorials,NY,66223,False,False,False,,1
-fiis,Fire Island National Seashore,National Seashore,Seashores & Lakeshores,NY,305520,False,False,False,339,5
+fiis,Fire Island National Seashore,National Seashore,Seashores & Lakeshores,NY,305520,False,False,False,339,4
 fila,First Ladies National Historic Site,National Historic Site,Historic Sites,OH,8482,False,False,False,,1
 flfo,Florissant Fossil Beds National Monument,National Monument,Monuments,CO,63680,True,False,True,154,1
 flni,Flight 93 National Memorial,National Memorial,Memorials,PA,286079,False,False,False,,0
@@ -156,7 +156,7 @@ fomc,Fort McHenry National Monument and Historic Shrine,National Monument and Hi
 fomr,Fort Monroe National Monument,National Monument,Monuments,VA,,False,False,False,,2
 fone,Fort Necessity National Battlefield,National Battlefield,Battlefields & Military Parks,PA,225783,False,False,False,151,2
 fopo,Fort Point National Historic Site,National Historic Site,Historic Sites,CA,1010870,False,False,False,41,2
-fopu,Fort Pulaski National Monument,National Monument,Monuments,GA,320926,False,False,True,216,3
+fopu,Fort Pulaski National Monument,National Monument,Monuments,GA,320926,False,False,True,216,4
 fora,Fort Raleigh National Historic Site,National Historic Site,Historic Sites,NC,266775,False,False,False,,0
 fosc,Fort Scott National Historic Site,National Historic Site,Historic Sites,KS,25254,False,False,False,,0
 fosm,Fort Smith National Historic Site,National Historic Site,Historic Sites,AR|OK,106953,False,False,False,,1
@@ -188,7 +188,7 @@ glba,Glacier Bay National Park & Preserve,National Park & Preserve,Preserves & R
 glca,Glen Canyon National Recreation Area,National Recreation Area,Recreation Areas,AZ|UT,3729502,False,False,True,303,3
 glde,Gloria Dei Church National Historic Site,National Historic Site,Historic Sites,PA,,False,False,False,,0
 glec,Glen Echo Park,Park,Other,MD,,False,False,False,,0
-goga,Golden Gate National Recreation Area,National Recreation Area,Recreation Areas,CA,15748676,False,False,False,368,8
+goga,Golden Gate National Recreation Area,National Recreation Area,Recreation Areas,CA,15748676,False,False,False,368,7
 gois,Governors Island National Monument,National Monument,Monuments,NY,52200,False,False,False,,1
 gosp,Golden Spike National Historical Park,National Historical Park,Historical Parks,UT,53696,False,False,True,96,0
 grba,Great Basin National Park,National Park,National Parks,NV,161210,True,False,False,214,2
@@ -213,7 +213,7 @@ hagr,Hamilton Grange National Memorial,National Memorial,Memorials,NY,97253,Fals
 haha,Harmony Hall,Park Unit,Other,MD,,False,False,False,123,0
 hale,Haleakalā National Park,National Park,National Parks,HI,853711,False,False,True,42,4
 hamp,Hampton National Historic Site,National Historic Site,Historic Sites,MD,48158,False,False,False,,4
-hart,Harriet Tubman National Historical Park,National Historical Park,Historical Parks,NY,941,False,False,False,,0
+hart,Harriet Tubman National Historical Park,National Historical Park,Historical Parks,NY,941,False,False,False,,1
 hatu,Harriet Tubman Underground Railroad National Historical Park,National Historical Park,Historical Parks,MD,15348,False,False,False,,0
 havo,Hawaiʻi Volcanoes National Park,National Park,National Parks,HI,1877854,False,False,True,62,5
 heho,Herbert Hoover National Historic Site,National Historic Site,Historic Sites,IA,106672,False,False,False,120,0
@@ -228,12 +228,12 @@ hove,Hovenweep National Monument,National Monument,Monuments,CO|UT,26616,True,Fa
 hstr,Harry S Truman National Historic Site,National Historic Site,Historic Sites,MO,19296,False,False,False,,2
 hutr,Hubbell Trading Post National Historic Site,National Historic Site,Historic Sites,AZ,45207,False,False,False,109,1
 iafl,Ice Age Floods National Geologic Trail,National Geologic Trail,Trails,WA|OR|ID|MT,,False,False,False,,0
-iatr,Ice Age National Scenic Trail,National Scenic Trail,Trails,WI,29125,False,False,False,,8
+iatr,Ice Age National Scenic Trail,National Scenic Trail,Trails,WI,29125,False,False,False,,11
 inde,Independence National Historical Park,National Historical Park,Historical Parks,PA,1926580,False,True,False,,1
-indu,Indiana Dunes National Park,National Park,National Parks,IN,2629497,False,False,True,301,6
+indu,Indiana Dunes National Park,National Park,National Parks,IN,2629497,False,False,True,301,9
 inup,Iñupiat Heritage Center,Park Unit,Other,AK,,False,False,False,,0
 isro,Isle Royale National Park,National Park,National Parks,MI,29091,False,False,True,247,5
-jaga,James A Garfield National Historic Site,National Historic Site,Historic Sites,OH,34298,False,False,False,,0
+jaga,James A Garfield National Historic Site,National Historic Site,Historic Sites,OH,34298,False,False,False,,1
 jame,Historic Jamestowne Part of Colonial National Historical Park,Part of Colonial National Historical Park,Historical Parks,VA,,False,False,True,,1
 jazz,New Orleans Jazz National Historical Park,National Historical Park,Historical Parks,LA,51065,False,False,False,,1
 jeca,Jewel Cave National Monument,National Monument,Monuments,SD,110553,False,False,False,85,2
@@ -306,7 +306,7 @@ mopi,Mormon Pioneer National Historic Trail,National Historic Trail,Trails,IL|IA
 mora,Mount Rainier National Park,National Park,National Parks,WA,1635342,False,False,True,157,8
 morr,Morristown National Historical Park,National Historical Park,Historical Parks,NJ,183001,False,False,False,130,5
 moru,Mount Rushmore National Memorial,National Memorial,Memorials,SD,1905649,False,False,False,58,1
-muwo,Muir Woods National Monument,National Monument,Monuments,CA,756573,False,False,True,72,5
+muwo,Muir Woods National Monument,National Monument,Monuments,CA,756573,False,False,True,72,4
 nabr,Natural Bridges National Monument,National Monument,Monuments,UT,70400,True,False,True,172,2
 nace,National Capital Parks-East,Park Unit,Other,DC,,False,False,False,253,0
 nama,National Mall and Memorial Parks,Park Unit,Other,DC,,False,False,False,116,1
@@ -372,7 +372,7 @@ rich,Richmond National Battlefield Park,National Battlefield Park,Battlefields &
 rigr,Rio Grande Wild & Scenic River,Wild & Scenic River,Rivers & Riverways,TX,120,False,False,True,,0
 rira,River Raisin National Battlefield Park,National Battlefield Park,Battlefields & Military Parks,MI,133643,False,False,False,,1
 roca,Roosevelt Campobello International Park,International Park,International,ME,,False,False,False,,1
-rocr,Rock Creek Park,Park,Other,DC,1865048,False,False,False,182,6
+rocr,Rock Creek Park,Park,Other,DC,1865048,False,False,False,182,7
 romo,Rocky Mountain National Park,National Park,National Parks,CO,4171431,False,True,True,257,1
 rori,Rosie the Riveter WWII Home Front National Historical Park,National Historical Park,Historical Parks,CA,33689,False,False,False,,0
 rowi,Roger Williams National Memorial,National Memorial,Memorials,RI,38959,False,False,False,,0
@@ -472,4 +472,4 @@ york,Yorktown Battlefield Part of Colonial National Historical Park,Part of Colo
 yose,Yosemite National Park,National Park,National Parks,CA,4278413,False,False,True,269,1
 yuch,Yukon - Charley Rivers National Preserve,National Preserve,Preserves & Reserves,AK,962,False,False,False,152,1
 yuho,Yucca House National Monument,National Monument,Monuments,CO,,False,False,False,121,0
-zion,Zion National Park,National Park,National Parks,UT,4984525,True,False,True,262,7
+zion,Zion National Park,National Park,National Parks,UT,4984525,True,False,True,262,6

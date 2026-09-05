@@ -84,8 +84,8 @@ calo,South Core Banks -- Beach camping,0,False,Cell reception,https://go.nps.gov
 calo,Great Island Cabin Camp,23,True,Flush toilets|Showers|Potable water|Dump station|Cell reception,https://www.nps.gov/calo/planyourvisit/lodging.htm
 calo,North Core Banks - Beach Camping,0,False,Cell reception,
 cana,Canaveral National Seashore Backcountry Island Camping,14,False,Tent sites|Cell reception,https://www.nps.gov/cana/planyourvisit/camping.htm
-cany,The Needles Campground,26,False,Flush toilets|Potable water|Tent sites,http://www.nps.gov/cany/planyourvisit/camp-need.htm
-cany,Island in the Sky (Willow Flat) Campground,12,False,Vault toilets,http://www.nps.gov/cany/planyourvisit/camp-isky.htm
+cany,The Needles Campground,26,False,Flush toilets|Potable water|Tent sites,https://www.nps.gov/cany/planyourvisit/camp-need.htm
+cany,Island in the Sky (Willow Flat) Campground,12,False,Vault toilets,https://www.nps.gov/cany/planyourvisit/camp-isky.htm
 cany,The Needles District Group Campsites,3,False,Vault toilets|Potable water,https://www.nps.gov/cany/planyourvisit/group-camp-need.htm
 care,Primitive campsites at Cathedral Campground,6,False,Vault toilets,https://www.nps.gov/care/planyourvisit/primitive-campgrounds.htm
 care,Primitive campsites at Cedar Mesa Campground,5,False,Vault toilets,https://www.nps.gov/care/planyourvisit/primitive-campgrounds.htm
@@ -162,7 +162,7 @@ cong,Bluff Campground,6,False,Tent sites|Cell reception,https://www.recreation.g
 crla,Mazama Campground,214,False,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups,https://www.nps.gov/crla/planyourvisit/mazama_campground.htm
 crla,Lost Creek Campground,16,False,Tent sites,https://www.nps.gov/crla/planyourvisit/lost_creek.htm
 crmo,Lava Flow Campground,42,False,Flush toilets|Potable water,https://www.nps.gov/crmo/planyourvisit/camping.htm
-cuga,Wilderness Road Campground,150,True,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups,https://www.nps.gov/cuga/planyourvisit/campgrounds.htm
+cuga,Wilderness Road Campground,150,False,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups,https://www.nps.gov/cuga/planyourvisit/campgrounds.htm
 cuis,Sea Camp Campground,18,False,Flush toilets|Showers|Potable water|Tent sites|Cell reception,https://www.nps.gov/cuis/planyourvisit/seacamp.htm
 cuis,Stafford Beach Campground,10,False,Flush toilets|Showers|Potable water|Tent sites,https://www.nps.gov/cuis/planyourvisit/staffordbeach.htm
 cuis,Hickory Hill Wilderness Campsite,4,False,Potable water|Tent sites|Cell reception,https://www.nps.gov/cuis/planyourvisit/hickoryhill.htm
@@ -235,7 +235,7 @@ glac,Fish Creek Campground,178,False,Flush toilets|Showers|Potable water|Dump st
 glac,Avalanche Campground,87,True,Flush toilets|Potable water,https://www.nps.gov/glac/planyourvisit/reservation-campgrounds.htm
 glac,Rising Sun Campground,84,False,Flush toilets|Showers|Potable water|Dump station|Camp store,
 glac,Apgar Campground,194,False,Flush toilets|Showers|Potable water|Dump station|Camp store,
-glac,Cut Bank Campground,14,False,Vault toilets,https://www.recreation.gov/camping/poi/258798
+glac,Cut Bank Campground,14,False,Vault toilets,
 glba,Bartlett Cove Campground,33,False,Potable water|Tent sites,
 glca,Wahweap Campground & RV Park,266,False,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups,https://www.lakepowell.com/rv-camping/wahweap-rv-campground/
 glca,Bullfrog RV & Campground,98,False,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups,https://www.lakepowell.com/rv-camping/bullfrog-rv-campground/
@@ -307,8 +307,8 @@ gumo,Wilderness Ridge Wilderness Campground,5,False,Tent sites,https://www.nps.g
 gumo,Shumard Canyon Wilderness Campground,5,False,Tent sites,https://www.nps.gov/gumo/planyourvisit/sc_wcg.htm
 gumo,Tejas Wilderness Campground,5,False,Tent sites,https://www.nps.gov/gumo/planyourvisit/ts_wcg.htm
 gumo,Frijole Horse Corral Campground,1,True,Vault toilets|Potable water|RV friendly|Tent sites|Cell reception,https://www.recreation.gov/camping/campgrounds/10104621
-hale,Hosmer Grove Campground,6,True,Vault toilets|Potable water|Tent sites|Cell reception,https://www.nps.gov/hale/planyourvisit/drive-up-camping.htm
-hale,Kīpahulu Campground,9,True,Vault toilets|Tent sites,https://www.nps.gov/hale/planyourvisit/drive-up-camping.htm
+hale,Hosmer Grove Campground,6,False,Vault toilets|Potable water|Tent sites|Cell reception,https://www.nps.gov/hale/planyourvisit/drive-up-camping.htm
+hale,Kīpahulu Campground,9,False,Vault toilets|Tent sites,https://www.nps.gov/hale/planyourvisit/drive-up-camping.htm
 hale,Wilderness Cabins,3,False,Vault toilets|Potable water,https://www.nps.gov/hale/planyourvisit/wilderness-cabins.htm
 hale,Wilderness Tent Sites,10,False,Vault toilets|Potable water|Tent sites,https://www.nps.gov/hale/planyourvisit/wilderness-camping.htm
 havo,Nāmakanipaio,16,False,Flush toilets|Potable water|Tent sites|Cell reception,https://www.nps.gov/havo/planyourvisit/namakanipaio-campground.htm
@@ -398,7 +398,7 @@ lake,Callville Bay RV Park,5,False,Electric hookups|RV friendly,https://callvill
 lake,Willow Beach Campground,9,False,Tent sites,https://willowbeachharbor.com/willow-beach-campground-and-rv-park/
 lake,Cottonwood Cove Campground,45,False,Tent sites,https://cottonwoodcoveresort.com/lower-campground/
 lake,Temple Bar Campground,71,False,Flush toilets|Potable water|Dump station|Tent sites|Cell reception,https://www.recreation.gov/camping/campgrounds/10085626
-lake,Echo Bay Campground,52,True,Flush toilets|Potable water|Dump station|Tent sites|Cell reception,https://www.recreation.gov/camping/poi/10108391
+lake,Echo Bay Campground,52,False,Flush toilets|Potable water|Dump station|Tent sites|Cell reception,
 lake,Echo Bay RV Park,55,False,Electric hookups|RV friendly,https://lakemeadmohaveadventures.com/echo-bay-rv-village/
 lake,Temple Bar RV Park,10,False,Electric hookups|RV friendly,https://templebarlakemead.com/rv-park-campground/
 lake,Cottonwood Cove RV Park,72,False,Electric hookups|RV friendly,https://cottonwoodcoveresort.com/explore/lodging-rv-camp/
