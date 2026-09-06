@@ -22,10 +22,10 @@ asis,Back Country Camping - Green Run,1,False,Vault toilets|Dump station|Camp st
 asis,Back Country Camping - Pope Bay,1,False,Vault toilets|Dump station|Camp store|Tent sites|Cell reception,https://www.nps.gov/asis/planyourvisit/backcountry-camping.htm
 asis,Back Country Camping - Little Levels,1,False,Vault toilets|Dump station|Camp store|Tent sites|Cell reception,https://www.nps.gov/asis/planyourvisit/backcountry-camping.htm
 asis,Back Country Camping - State Line,1,False,Vault toilets|Dump station|Camp store|Tent sites|Cell reception,https://www.nps.gov/asis/planyourvisit/backcountry-camping.htm
-badl,Sage Creek Campground,22,False,Vault toilets,https://www.nps.gov/thingstodo/backcountry-camping-badl.htm
 badl,Cedar Pass Campground,96,False,Flush toilets|Showers|Potable water|Dump station|Electric hookups|RV friendly,
-band,Ponderosa Group Campground,2,False,Vault toilets|Potable water|RV friendly|Tent sites|Cell reception,https://www.nps.gov/band/planyourvisit/ponderosa-group-campground.htm
+badl,Sage Creek Campground,22,False,Vault toilets,https://www.nps.gov/thingstodo/backcountry-camping-badl.htm
 band,Juniper Family Campground,52,False,Flush toilets|Potable water|Dump station|Tent sites|Cell reception,https://www.nps.gov/band/planyourvisit/juniper-family-campground.htm
+band,Ponderosa Group Campground,2,False,Vault toilets|Potable water|RV friendly|Tent sites|Cell reception,https://www.nps.gov/band/planyourvisit/ponderosa-group-campground.htm
 bibe,Chisos Basin Campground,56,False,Flush toilets|Potable water|Dump station|Camp store|Cell reception,https://www.nps.gov/bibe/planyourvisit/basin_campground.htm
 bibe,Rio Grande Village Campground,93,False,Flush toilets|Showers|Potable water|Dump station|Camp store,https://www.nps.gov/bibe/planyourvisit/rgv_campground.htm
 bibe,Cottonwood Campground,22,False,Vault toilets|Potable water|Camp store,https://www.nps.gov/bibe/planyourvisit/cottonwood_campground.htm
@@ -55,43 +55,43 @@ biso,Station Camp Campground,24,True,Flush toilets|Showers|Potable water|Dump st
 blca,South Rim Campground,88,False,Vault toilets|Potable water|Electric hookups|RV friendly,https://www.nps.gov/blca/planyourvisit/camp_southrim.htm
 blca,North Rim Campground,13,False,Vault toilets|Potable water,https://www.nps.gov/blca/planyourvisit/camp_northrim.htm
 blca,East Portal Campground,15,False,Vault toilets|Potable water|Tent sites,https://www.nps.gov/blca/planyourvisit/camp_east_portal.htm
-blri,Crabtree Falls Campground,81,True,Flush toilets|Potable water|Dump station|RV friendly,https://www.nps.gov/blri/planyourvisit/crabtree-falls-cg.htm
-blri,Doughton Park Campground,108,True,Flush toilets|Potable water|Dump station|RV friendly|Tent sites,https://www.nps.gov/blri/planyourvisit/doughton-park-cg.htm
 blri,Linville Falls Campground,64,True,Flush toilets|Potable water|Dump station|RV friendly|Tent sites,https://www.nps.gov/blri/planyourvisit/linville-falls-cg.htm
-blri,Rocky Knob Campground,106,True,Flush toilets|Potable water|Dump station|RV friendly|Tent sites,https://www.nps.gov/blri/planyourvisit/rocky-knob-cg.htm
 blri,Julian Price Park Campground,190,False,Flush toilets|Showers|Potable water|Dump station|RV friendly|Tent sites,https://www.nps.gov/blri/planyourvisit/price-cg.htm
+blri,Crabtree Falls Campground,81,True,Flush toilets|Potable water|Dump station|RV friendly,https://www.nps.gov/blri/planyourvisit/crabtree-falls-cg.htm
+blri,Otter Creek,68,True,Flush toilets|Potable water|Dump station|RV friendly|Tent sites,https://www.nps.gov/blri/planyourvisit/peaks-otter-cg.htm
 blri,Mount Pisgah,125,True,Flush toilets|Showers|Potable water|Dump station|Camp store|RV friendly,https://www.nps.gov//blri/planyourvisit/mt-pisgah-cg.htm
 blri,Peaks of Otter Campground,139,True,Flush toilets|Potable water|Dump station|Camp store|RV friendly|Tent sites,https://www.nps.gov//blri/planyourvisit/peaks-otter-cg.htm
-blri,Otter Creek,68,True,Flush toilets|Potable water|Dump station|RV friendly|Tent sites,https://www.nps.gov/blri/planyourvisit/peaks-otter-cg.htm
-brca,North Campground,100,False,Flush toilets|Potable water|Dump station|Camp store|RV friendly|Tent sites,https://www.nps.gov/brca/planyourvisit/northcampground.htm
+blri,Rocky Knob Campground,106,True,Flush toilets|Potable water|Dump station|RV friendly|Tent sites,https://www.nps.gov/blri/planyourvisit/rocky-knob-cg.htm
+blri,Doughton Park Campground,108,True,Flush toilets|Potable water|Dump station|RV friendly|Tent sites,https://www.nps.gov/blri/planyourvisit/doughton-park-cg.htm
 brca,Sunset Campground,99,False,Potable water|Dump station|Camp store|RV friendly|Tent sites,https://www.nps.gov/brca/planyourvisit/sunsetcampground.htm
-buff,Erbie Campground,32,False,Flush toilets|Tent sites,https://www.nps.gov/buff/planyourvisit/camping.htm
-buff,Rush Campground,12,False,Vault toilets|Potable water|Tent sites,https://www.nps.gov/buff/planyourvisit/camping.htm
-buff,Spring Creek Campground,12,False,Vault toilets|Tent sites,https://www.nps.gov/buff/planyourvisit/camping.htm
-buff,South Maumee,0,False,Vault toilets,
-buff,Steel Creek Campground,39,False,Flush toilets|Potable water|Tent sites,https://www.nps.gov/buff/planyourvisit/camping.htm
-buff,Tyler Bend Campground,42,True,Flush toilets|Showers|Potable water|Dump station|Tent sites|Cell reception,https://www.nps.gov/buff/planyourvisit/tyler-bend-campground.htm
-buff,Woolum,0,False,Vault toilets,
-buff,Ozark Campground,31,False,Flush toilets|Potable water|Tent sites,https://www.nps.gov/buff/planyourvisit/camping.htm
+brca,North Campground,100,False,Flush toilets|Potable water|Dump station|Camp store|RV friendly|Tent sites,https://www.nps.gov/brca/planyourvisit/northcampground.htm
+buff,Buffalo Point Campground,106,True,Flush toilets|Showers|Potable water|Dump station|Electric hookups|RV friendly,https://www.nps.gov/buff/planyourvisit/buffalo-point-campground.htm
 buff,Kyles Landing,33,False,Flush toilets|Potable water|Tent sites,https://www.nps.gov/buff/planyourvisit/camping.htm
 buff,Carver Campground,8,False,Vault toilets|Potable water|Tent sites,https://www.nps.gov/buff/planyourvisit/camping.htm
-buff,Buffalo Point Campground,106,True,Flush toilets|Showers|Potable water|Dump station|Electric hookups|RV friendly,https://www.nps.gov/buff/planyourvisit/buffalo-point-campground.htm
+buff,Rush Campground,12,False,Vault toilets|Potable water|Tent sites,https://www.nps.gov/buff/planyourvisit/camping.htm
+buff,South Maumee,0,False,Vault toilets,
+buff,Spring Creek Campground,12,False,Vault toilets|Tent sites,https://www.nps.gov/buff/planyourvisit/camping.htm
+buff,Steel Creek Campground,39,False,Flush toilets|Potable water|Tent sites,https://www.nps.gov/buff/planyourvisit/camping.htm
+buff,Tyler Bend Campground,42,True,Flush toilets|Showers|Potable water|Dump station|Tent sites|Cell reception,https://www.nps.gov/buff/planyourvisit/tyler-bend-campground.htm
+buff,Ozark Campground,32,False,Flush toilets|Potable water|Tent sites,https://www.nps.gov/buff/planyourvisit/camping.htm
+buff,Woolum,0,False,Vault toilets,
+buff,Erbie Campground,31,False,Flush toilets|Tent sites,https://www.nps.gov/buff/planyourvisit/camping.htm
+caha,Cape Point Campground,202,True,Flush toilets|Showers|Potable water|Dump station|Tent sites|Cell reception,https://www.recreation.gov/camping/campgrounds/251945
 caha,Ocracoke Campground,135,True,Flush toilets|Showers|Potable water|Dump station|Cell reception,https://www.recreation.gov/camping/campgrounds/232504
 caha,Oregon Inlet Campground,107,True,Flush toilets|Showers|Potable water|Dump station|Electric hookups|RV friendly,https://www.recreation.gov/camping/campgrounds/251431
 caha,Frisco Campground,117,True,Flush toilets|Showers|Potable water|RV friendly|Tent sites|Cell reception,https://www.recreation.gov/camping/campgrounds/251430
-caha,Cape Point Campground,202,True,Flush toilets|Showers|Potable water|Dump station|Tent sites|Cell reception,https://www.recreation.gov/camping/campgrounds/251945
 calo,South Core Banks -- Beach camping,0,False,Cell reception,https://go.nps.gov/x2s8yq
 calo,Great Island Cabin Camp,23,True,Flush toilets|Showers|Potable water|Dump station|Cell reception,https://www.nps.gov/calo/planyourvisit/lodging.htm
 calo,North Core Banks - Beach Camping,0,False,Cell reception,
 cana,Canaveral National Seashore Backcountry Island Camping,14,False,Tent sites|Cell reception,https://www.nps.gov/cana/planyourvisit/camping.htm
-cany,The Needles Campground,26,False,Flush toilets|Potable water|Tent sites,https://www.nps.gov/cany/planyourvisit/camp-need.htm
 cany,Island in the Sky (Willow Flat) Campground,12,False,Vault toilets,https://www.nps.gov/cany/planyourvisit/camp-isky.htm
+cany,The Needles Campground,26,False,Flush toilets|Potable water|Tent sites,https://www.nps.gov/cany/planyourvisit/camp-need.htm
 cany,The Needles District Group Campsites,3,False,Vault toilets|Potable water,https://www.nps.gov/cany/planyourvisit/group-camp-need.htm
+care,Backcountry Camping,0,False,,
+care,Group Campsite,1,False,Flush toilets|Potable water|Dump station,
 care,Primitive campsites at Cathedral Campground,6,False,Vault toilets,https://www.nps.gov/care/planyourvisit/primitive-campgrounds.htm
 care,Primitive campsites at Cedar Mesa Campground,5,False,Vault toilets,https://www.nps.gov/care/planyourvisit/primitive-campgrounds.htm
-care,Backcountry Camping,0,False,,
 care,Fruita Campground,71,True,Flush toilets|Potable water|Dump station|Tent sites,https://www.nps.gov/care/planyourvisit/fruitacampground.htm
-care,Group Campsite,1,False,Flush toilets|Potable water|Dump station,
 cato,Owens Creek Campground,50,True,Flush toilets|Showers|Potable water,https://www.recreation.gov/camping/campgrounds/247762?q=Owens%20Creek%20Campground
 cato,Poplar Grove Youth Group Tent Campground,3,False,Vault toilets|Tent sites,https://www.recreation.gov/camping/campgrounds/232503?q=Poplar%20Grove%20Youth%20Group%20Campground
 cato,Adirondack Shelters,2,True,Vault toilets,https://www.recreation.gov/camping/campgrounds/233321?q=Adirondack%20Shelters
@@ -159,10 +159,10 @@ ciro,Smoky Mountain Campground,38,False,Flush toilets|Showers|Potable water|Dump
 colm,Saddlehorn Campground,80,True,Flush toilets|Potable water|Cell reception,https://www.nps.gov/colm/planyourvisit/saddlehorn-campground.htm
 cong,Longleaf Campground,14,True,Vault toilets|Tent sites|Cell reception,https://www.recreation.gov/camping/campgrounds/10190876
 cong,Bluff Campground,6,False,Tent sites|Cell reception,https://www.recreation.gov/camping/campgrounds/10191039
-crla,Mazama Campground,214,False,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups,https://www.nps.gov/crla/planyourvisit/mazama_campground.htm
 crla,Lost Creek Campground,16,False,Tent sites,https://www.nps.gov/crla/planyourvisit/lost_creek.htm
+crla,Mazama Campground,214,False,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups,https://www.nps.gov/crla/planyourvisit/mazama_campground.htm
 crmo,Lava Flow Campground,42,False,Flush toilets|Potable water,https://www.nps.gov/crmo/planyourvisit/camping.htm
-cuga,Wilderness Road Campground,150,False,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups,https://www.nps.gov/cuga/planyourvisit/campgrounds.htm
+cuga,Wilderness Road Campground,150,False,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups,
 cuis,Sea Camp Campground,18,False,Flush toilets|Showers|Potable water|Tent sites|Cell reception,https://www.nps.gov/cuis/planyourvisit/seacamp.htm
 cuis,Stafford Beach Campground,10,False,Flush toilets|Showers|Potable water|Tent sites,https://www.nps.gov/cuis/planyourvisit/staffordbeach.htm
 cuis,Hickory Hill Wilderness Campsite,4,False,Potable water|Tent sites|Cell reception,https://www.nps.gov/cuis/planyourvisit/hickoryhill.htm
@@ -185,11 +185,11 @@ dena,Teklanika River,53,False,Vault toilets|Potable water,https://www.nps.gov/de
 dena,Igloo Creek,7,False,Vault toilets|Tent sites,https://www.nps.gov/dena/planyourvisit/campground-igloo.htm
 dena,Wonder Lake,28,False,Flush toilets|Potable water|Tent sites,https://www.nps.gov/dena/planyourvisit/campground-wonder.htm
 deto,Belle Fourche River Campground,45,False,Flush toilets|Potable water|Tent sites|Cell reception,https://www.nps.gov/deto/planyourvisit/campgrounds.htm
-deva,Emigrant Campground,10,False,Flush toilets|Potable water|Tent sites,https://www.nps.gov/deva/planyourvisit/emigrant-campground.htm
-deva,Texas Springs Campground,106,False,Flush toilets|Potable water|Dump station|Tent sites,https://www.nps.gov/deva/planyourvisit/texas-springs-campground.htm
-deva,Sunset Campground,230,False,Flush toilets|Potable water|Dump station|Camp store,https://www.nps.gov/deva/planyourvisit/sunset-campground.htm
 deva,Stovepipe Wells Campground,190,False,Flush toilets|Potable water|Dump station|Camp store|Tent sites,https://www.nps.gov/deva/planyourvisit/stovepipe-wells-campground.htm
+deva,Sunset Campground,230,False,Flush toilets|Potable water|Dump station|Camp store,https://www.nps.gov/deva/planyourvisit/sunset-campground.htm
+deva,Texas Springs Campground,106,False,Flush toilets|Potable water|Dump station|Tent sites,https://www.nps.gov/deva/planyourvisit/texas-springs-campground.htm
 deva,Wildrose Campground,23,False,Vault toilets,https://www.nps.gov/deva/planyourvisit/wildrose-campground.htm
+deva,Emigrant Campground,10,False,Flush toilets|Potable water|Tent sites,https://www.nps.gov/deva/planyourvisit/emigrant-campground.htm
 deva,Furnace Creek Campground,136,True,Flush toilets|Potable water|Dump station|Camp store|Electric hookups|RV friendly,https://www.nps.gov/deva/planyourvisit/furnace-creek-campground.htm
 deva,Mesquite Spring Campground,40,False,Flush toilets|Potable water|Dump station,https://www.nps.gov/deva/planyourvisit/mesquite-spring-campground.htm
 deva,Thorndike Campground (Primitive),6,False,Vault toilets,https://www.nps.gov/deva/planyourvisit/thorndike-campground.htm
@@ -203,10 +203,10 @@ dewa,Valley View Group Campground,5,True,Vault toilets|Tent sites,https://www.np
 dewa,Mohican Outdoor Center,16,False,Flush toilets|Showers|Potable water|Camp store|Tent sites|Cell reception,https://www.outdoors.org/lodging-camping/lodges/mohican
 dewa,Worthington State Forest Campground,0,False,,https://nj.gov/dep/parksandforests/parks/worthingtonstateforest.html
 dewa,River Camping,62,False,Vault toilets|Tent sites,https://www.nps.gov/dewa/planyourvisit/river-camping.htm
-dino,Echo Park Campground,22,True,Vault toilets|Potable water|Tent sites,https://www.nps.gov/dino/planyourvisit/echoparkcampground.htm
-dino,Rainbow Park Campground,4,False,Vault toilets|Tent sites,https://www.nps.gov/dino/planyourvisit/rainbowparkcampground.htm
-dino,Split Mountain Group Campground,4,True,Flush toilets|Potable water|Cell reception,https://www.nps.gov/dino/planyourvisit/splitmountaincampground.htm
 dino,Green River Campground,80,True,Flush toilets|Potable water|Cell reception,https://www.nps.gov/dino/planyourvisit/greenrivercampground.htm
+dino,Split Mountain Group Campground,4,True,Flush toilets|Potable water|Cell reception,https://www.nps.gov/dino/planyourvisit/splitmountaincampground.htm
+dino,Rainbow Park Campground,4,False,Vault toilets|Tent sites,https://www.nps.gov/dino/planyourvisit/rainbowparkcampground.htm
+dino,Echo Park Campground,22,True,Vault toilets|Potable water|Tent sites,https://www.nps.gov/dino/planyourvisit/echoparkcampground.htm
 dino,Deerlodge Park Campground,7,False,Vault toilets|Potable water|Tent sites,https://www.nps.gov/dino/planyourvisit/deerlodgecampground.htm
 dino,Gates of Lodore Campground,19,False,Vault toilets|Potable water,https://www.nps.gov/dino/planyourvisit/gatesoflodorecampground.htm
 drto,Garden Key Campground,8,False,Tent sites,
@@ -219,22 +219,22 @@ fiis,Backcountry Camping in the Otis Pike High Dune Wilderness,36,False,Tent sit
 fiis,Watch Hill Campground,28,False,Flush toilets|Showers|Potable water|Camp store|Tent sites|Cell reception,https://www.nps.gov/fiis/planyourvisit/camping.htm
 fomr,The Colonies RV Travel Park & Country Store,35,False,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups,https://thecoloniesrvtravelpark.com
 gari,Gauley Tailwaters,18,False,Vault toilets|Cell reception,
-gate,Sandy Hook Camp Ground,20,False,Flush toilets|Potable water|Tent sites|Cell reception,https://www.nps.gov/gate/planyourvisit/camp-sandy-hook.htm
+gate,Sandy Hook Camp Ground,20,False,Flush toilets|Potable water|Tent sites|Cell reception,
 gate,Fort Wadsworth Campsite,7,False,Flush toilets|Showers|Potable water|Tent sites|Cell reception,
 gicl,Upper Scorpion Campground,12,False,Vault toilets|Potable water|Tent sites,https://www.nps.gov/gicl/planyourvisit/camping.htm
 gicl,Lower Scorpion Campground,7,False,Vault toilets|Potable water|RV friendly|Tent sites,https://www.nps.gov/gicl/planyourvisit/camping.htm
+glac,Bowman Lake Campground,48,False,Vault toilets|Potable water|Dump station,
+glac,Apgar Campground,194,False,Flush toilets|Showers|Potable water|Dump station|Camp store,
+glac,Avalanche Campground,87,True,Flush toilets|Potable water,https://www.nps.gov/glac/planyourvisit/reservation-campgrounds.htm
 glac,Logging Creek Campground,7,False,Vault toilets,
-glac,Quartz Creek Campground,7,False,Vault toilets,
+glac,Many Glacier Campground,109,False,Flush toilets|Potable water|Dump station|Camp store|Tent sites,
+glac,Kintla Lake Campground,13,False,Vault toilets|Potable water|Dump station,
 glac,Sprague Creek Campground,25,False,Flush toilets|Potable water,
 glac,St. Mary Campground,148,False,Flush toilets|Showers|Potable water|Dump station|Tent sites,
-glac,Many Glacier Campground,109,False,Flush toilets|Potable water|Dump station|Camp store|Tent sites,
 glac,Two Medicine Campground,100,False,Flush toilets|Potable water|Dump station|Camp store,
-glac,Kintla Lake Campground,13,False,Vault toilets|Potable water|Dump station,
-glac,Bowman Lake Campground,48,False,Vault toilets|Potable water|Dump station,
-glac,Fish Creek Campground,178,False,Flush toilets|Showers|Potable water|Dump station|Tent sites,
-glac,Avalanche Campground,87,True,Flush toilets|Potable water,https://www.nps.gov/glac/planyourvisit/reservation-campgrounds.htm
+glac,Quartz Creek Campground,7,False,Vault toilets,
 glac,Rising Sun Campground,84,False,Flush toilets|Showers|Potable water|Dump station|Camp store,
-glac,Apgar Campground,194,False,Flush toilets|Showers|Potable water|Dump station|Camp store,
+glac,Fish Creek Campground,178,False,Flush toilets|Showers|Potable water|Dump station|Tent sites,
 glac,Cut Bank Campground,14,False,Vault toilets,
 glba,Bartlett Cove Campground,33,False,Potable water|Tent sites,
 glca,Wahweap Campground & RV Park,266,False,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups,https://www.lakepowell.com/rv-camping/wahweap-rv-campground/
@@ -260,8 +260,8 @@ grba,Baker Creek Campground,37,True,Vault toilets|RV friendly|Tent sites,https:/
 grba,Grey Cliffs Campground,16,True,Vault toilets,https://www.nps.gov/grba/planyourvisit/campgrounds.htm
 grba,Snake Creek Primitive Campgrounds,12,True,Vault toilets|Tent sites,https://www.nps.gov/grba/planyourvisit/campgrounds.htm
 grba,Dump Station,0,False,Potable water,
+grca,Mather Campground - South Rim,327,False,Flush toilets|Potable water|Dump station|Camp store|Tent sites,https://www.nps.gov/grca/planyourvisit/mather-campground-south-rim.htm
 grca,Desert View Campground (Reservations Required),49,False,Flush toilets|Potable water|Camp store,https://www.nps.gov/grca/planyourvisit/desert-view-campground.htm
-grca,Mather Campground - South Rim,327,False,Flush toilets|Showers|Potable water|Dump station|Camp store|Tent sites,https://www.nps.gov/grca/planyourvisit/mather-campground-south-rim.htm
 grca,Trailer Village RV Park - South Rim,123,False,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups,https://www.visitgrandcanyon.com/trailer-village-rv-park
 gree,Greenbelt Park Campground,172,False,Flush toilets|Showers|Potable water|Dump station|RV friendly|Tent sites,https://www.nps.gov/gree/planyourvisit/campgroundreservations.htm
 grpo,Fort Charlotte Backcountry Campgrounds,2,False,Vault toilets|Potable water|Tent sites,https://www.nps.gov/grpo/planyourvisit/camping.htm
@@ -294,8 +294,8 @@ guis,Fort Pickens Campground,200,True,Flush toilets|Showers|Potable water|Dump s
 guis,Naval Live Oaks Youth Group Camping,1,False,Flush toilets|Showers|Potable water|Cell reception,https://www.nps.gov/guis/planyourvisit/nlo-group.htm
 guis,Fort Pickens Group Campground,0,False,,https://www.recreation.gov/camping/campsites/91444
 guis,Davis Bayou Group Campground,0,False,,https://www.recreation.gov/camping/campsites/102929
-gumo,Dog Canyon Campground,15,True,Flush toilets|Potable water|RV friendly|Tent sites,https://www.nps.gov/gumo/planyourvisit/dog_canyon_campground.htm
 gumo,Pine Springs Campground,35,True,Flush toilets|Potable water|RV friendly|Tent sites,https://www.nps.gov/gumo/planyourvisit/pine_springs_campground.htm
+gumo,Dog Canyon Campground,15,True,Flush toilets|Potable water|RV friendly|Tent sites,https://www.nps.gov/gumo/planyourvisit/dog_canyon_campground.htm
 gumo,Guadalupe Peak Wilderness Campground,5,False,Tent sites|Cell reception,https://www.nps.gov/gumo/planyourvisit/gp_wcg.htm
 gumo,Pine Top Wilderness Campground,8,False,Tent sites,https://www.nps.gov/gumo/planyourvisit/pt_wcg.htm
 gumo,Bush Mountain Wilderness Campground,5,False,Tent sites,https://www.nps.gov/gumo/planyourvisit/bm_wcg.htm
@@ -307,8 +307,8 @@ gumo,Wilderness Ridge Wilderness Campground,5,False,Tent sites,https://www.nps.g
 gumo,Shumard Canyon Wilderness Campground,5,False,Tent sites,https://www.nps.gov/gumo/planyourvisit/sc_wcg.htm
 gumo,Tejas Wilderness Campground,5,False,Tent sites,https://www.nps.gov/gumo/planyourvisit/ts_wcg.htm
 gumo,Frijole Horse Corral Campground,1,True,Vault toilets|Potable water|RV friendly|Tent sites|Cell reception,https://www.recreation.gov/camping/campgrounds/10104621
-hale,Hosmer Grove Campground,6,False,Vault toilets|Potable water|Tent sites|Cell reception,https://www.nps.gov/hale/planyourvisit/drive-up-camping.htm
-hale,Kīpahulu Campground,9,False,Vault toilets|Tent sites,https://www.nps.gov/hale/planyourvisit/drive-up-camping.htm
+hale,Kīpahulu Campground,9,False,Vault toilets|Tent sites,
+hale,Hosmer Grove Campground,6,False,Vault toilets|Potable water|Tent sites|Cell reception,
 hale,Wilderness Cabins,3,False,Vault toilets|Potable water,https://www.nps.gov/hale/planyourvisit/wilderness-cabins.htm
 hale,Wilderness Tent Sites,10,False,Vault toilets|Potable water|Tent sites,https://www.nps.gov/hale/planyourvisit/wilderness-camping.htm
 havo,Nāmakanipaio,16,False,Flush toilets|Potable water|Tent sites|Cell reception,https://www.nps.gov/havo/planyourvisit/namakanipaio-campground.htm
@@ -354,15 +354,15 @@ isro,Todd Harbor Campground,9,False,Potable water|Tent sites,https://www.nps.gov
 isro,Tookers Island Campground,2,False,Potable water,https://www.nps.gov/isro/planyourvisit/boating-guide.htm
 isro,Washington Creek Campground,19,False,Flush toilets|Showers|Potable water|Dump station|Camp store|Tent sites,https://www.nps.gov/isro/planyourvisit/windigo.htm
 isro,Wood Lake Campground,3,False,Potable water|Tent sites,https://www.nps.gov/isro/planyourvisit/canoe-and-kayak.htm
-jotr,Ryan Campground,32,True,Vault toilets,https://www.nps.gov/jotr/planyourvisit/ryan-campground.htm
-jotr,Hidden Valley Campground,44,False,Vault toilets,https://www.nps.gov/jotr/planyourvisit/hidden-valley-campground.htm
-jotr,Sheep Pass Group Campground,6,True,Vault toilets|Tent sites,https://www.nps.gov/jotr/planyourvisit/sheep-pass-group-campground.htm
+jotr,Black Rock Campground,99,True,Flush toilets|Potable water|Dump station|Cell reception,https://www.nps.gov/jotr/planyourvisit/black-rock-campground.htm
+jotr,Belle Campground,18,False,Vault toilets,https://www.nps.gov/jotr/planyourvisit/belle-campground.htm
 jotr,Jumbo Rocks Campground,124,True,Vault toilets,https://www.nps.gov/jotr/planyourvisit/jumbo-rocks-campground.htm
 jotr,Indian Cove Campground,101,True,Vault toilets,https://www.nps.gov/jotr/planyourvisit/indian-cove-campground.htm
-jotr,White Tank Campground,15,False,Vault toilets,https://www.nps.gov/jotr/planyourvisit/white-tank-campground.htm
-jotr,Belle Campground,18,False,Vault toilets,https://www.nps.gov/jotr/planyourvisit/belle-campground.htm
-jotr,Black Rock Campground,99,True,Flush toilets|Potable water|Dump station|Cell reception,https://www.nps.gov/jotr/planyourvisit/black-rock-campground.htm
+jotr,Hidden Valley Campground,44,False,Vault toilets,https://www.nps.gov/jotr/planyourvisit/hidden-valley-campground.htm
 jotr,Cottonwood Campground,62,False,Flush toilets|Potable water|Dump station,https://www.nps.gov/jotr/planyourvisit/cottonwood-campground.htm
+jotr,Ryan Campground,32,True,Vault toilets,https://www.nps.gov/jotr/planyourvisit/ryan-campground.htm
+jotr,White Tank Campground,15,False,Vault toilets,https://www.nps.gov/jotr/planyourvisit/white-tank-campground.htm
+jotr,Sheep Pass Group Campground,6,True,Vault toilets|Tent sites,https://www.nps.gov/jotr/planyourvisit/sheep-pass-group-campground.htm
 katm,Brooks Camp Campground,32,False,Vault toilets|Showers|Potable water|Camp store|Tent sites,https://www.nps.gov/katm/planyourvisit/plyovicamp.htm
 kaww,Sandbank Stream Campground,3,False,Vault toilets,
 kaww,Lunksoos Campsites,7,False,Vault toilets|Tent sites,
@@ -381,11 +381,11 @@ kaww,Big Spring Brook Hut,1,False,Vault toilets,
 kaww,Haskell Hut,1,False,Vault toilets,
 kaww,Lunksoos Mountain Lean-To,1,False,Vault toilets|Potable water,
 kefj,Exit Glacier Campground,12,False,Vault toilets|Potable water|Tent sites,
-klgo,Dyea Campground,22,False,Vault toilets|Tent sites,https://www.nps.gov/klgo/planyourvisit/campgrounds.htm
+klgo,Canyon City,11,False,Potable water|Tent sites,https://www.nps.gov/klgo/planyourvisit/canyon-city.htm
 klgo,Sheep Camp,27,False,Potable water|Tent sites,https://www.nps.gov/klgo/planyourvisit/sheep-camp.htm
 klgo,Pleasant Camp,11,False,Vault toilets|Potable water|Tent sites,https://www.nps.gov/klgo/planyourvisit/pleasant-camp.htm
 klgo,Finnegan's Point,6,False,Vault toilets|Potable water|Tent sites,https://www.nps.gov/klgo/planyourvisit/finnegans-point.htm
-klgo,Canyon City,11,False,Potable water|Tent sites,https://www.nps.gov/klgo/planyourvisit/canyon-city.htm
+klgo,Dyea Campground,22,False,Vault toilets|Tent sites,https://www.nps.gov/klgo/planyourvisit/campgrounds.htm
 labe,Indian Well Campground,43,False,Flush toilets|Potable water|Cell reception,https://www.nps.gov/labe/planyourvisit/campgrounds.htm
 labe,Group Campsite,1,False,Vault toilets|Potable water|Tent sites|Cell reception,
 lacl,NPS Priest Rock Public Use Cabin,0,False,,https://www.nps.gov/lacl/planyourvisit/priest-rock-cabin.htm
@@ -457,26 +457,26 @@ meve,Morefield Campground,267,False,Flush toilets|Showers|Potable water|Dump sta
 mnrr,Bow Creek Primitive Camping,5,False,Tent sites|Cell reception,https://www.nps.gov/mnrr/planyourvisit/campgrounds.htm
 mnrr,Green Island Primitive Camping,5,False,Tent sites|Cell reception,https://www.nps.gov/mnrr/planyourvisit/campgrounds.htm
 mnrr,Goat Island Primitive Camping,2,False,Tent sites,https://www.nps.gov/mnrr/planyourvisit/campgrounds.htm
+moja,Black Canyon Group and Equestrian Campground,2,True,Vault toilets|Potable water,https://www.nps.gov/moja/planyourvisit/black-canyon-group-and-equestrian-campground.htm
 moja,Hole-in-the-Wall Campground,38,True,Vault toilets|Potable water|Dump station,https://www.nps.gov/moja/planyourvisit/hole-in-the-wall-campground.htm
 moja,Mid Hills Campground,26,True,Vault toilets,https://www.nps.gov/moja/planyourvisit/mid-hills-campground.htm
-moja,Black Canyon Group and Equestrian Campground,2,True,Vault toilets|Potable water,https://www.nps.gov/moja/planyourvisit/black-canyon-group-and-equestrian-campground.htm
 mora,Cougar Rock Campground,179,True,Flush toilets|Potable water|RV friendly|Tent sites,https://www.nps.gov/mora/planyourvisit/campgrounds.htm
 mora,Ohanapecosh Campground,179,True,Flush toilets|Potable water|RV friendly|Tent sites,https://www.nps.gov/mora/planyourvisit/campgrounds.htm
 mora,White River Campground,88,True,Flush toilets|Potable water|RV friendly|Tent sites,https://www.nps.gov/mora/planyourvisit/campgrounds.htm
 nabr,Natural Bridges Campground,13,True,Vault toilets,https://www.nps.gov/nabr/planyourvisit/camping.htm
-natr,"Meriwether Lewis Campground, Milepost 385.9",31,False,Flush toilets|Potable water,https://www.nps.gov/places/meriwether-lewis-campground-milepost-385-9.htm
-natr,"Rocky Springs Campground, Milepost 54.8",22,False,Flush toilets|Potable water|Cell reception,https://www.nps.gov/natr/planyourvisit/camping.htm
 natr,"Jeff Busby Campground, Milepost 193.1",18,False,Flush toilets|Potable water|Cell reception,https://www.nps.gov/natr/planyourvisit/camping.htm
-nava,Sunset View Campground,0,False,Flush toilets|Potable water,
+natr,"Rocky Springs Campground, Milepost 54.8",22,False,Flush toilets|Potable water|Cell reception,https://www.nps.gov/natr/planyourvisit/camping.htm
+natr,"Meriwether Lewis Campground, Milepost 385.9",31,False,Flush toilets|Potable water,https://www.nps.gov/places/meriwether-lewis-campground-milepost-385-9.htm
 nava,Canyon View Campground,13,False,RV friendly|Tent sites,
-neri,Stone Cliff,7,False,Tent sites|Cell reception,
-neri,Army Camp,11,False,Cell reception,
+nava,Sunset View Campground,0,False,Flush toilets|Potable water,
 neri,Brooklyn Campground,5,False,Tent sites|Cell reception,
-neri,Grandview Sandbar,16,False,Tent sites|Cell reception,
-neri,War Ridge/Backus Mountain Campground,8,False,Cell reception,
-neri,Glade Creek Campground,11,False,Tent sites|Cell reception,
-neri,Thayer Campground,4,False,Tent sites|Cell reception,
 neri,Burnwood Group Campsite,1,False,Flush toilets|Potable water|Cell reception,
+neri,Army Camp,11,False,Cell reception,
+neri,Glade Creek Campground,11,False,Tent sites|Cell reception,
+neri,Grandview Sandbar,16,False,Tent sites|Cell reception,
+neri,Stone Cliff,7,False,Tent sites|Cell reception,
+neri,Thayer Campground,4,False,Tent sites|Cell reception,
+neri,War Ridge/Backus Mountain Campground,8,False,Cell reception,
 neri,Meadow Creek Campground,17,False,Cell reception,https://www.nps.gov/neri/planyourvisit/camping.htm
 noca,Newhalem Creek Campground,107,True,Flush toilets|Potable water|Dump station|Tent sites|Cell reception,https://www.recreation.gov/camping/campgrounds/234060
 noca,Goodell Creek Campground,19,True,Vault toilets|Potable water|Cell reception,https://www.recreation.gov/camping/campgrounds/246852?tab=info
@@ -489,17 +489,17 @@ noca,Purple Point Campground,6,False,Flush toilets|Potable water|Tent sites,http
 noca,Harlequin Campground,7,True,Vault toilets,https://www.recreation.gov/camping/campgrounds/10101324
 noca,Hozomeen Campground,75,False,Vault toilets|Potable water,
 obed,Rock Creek Campground,11,False,Vault toilets|Tent sites,https://www.nps.gov/obed/planyourvisit/campgrounds.htm
-olym,Queets Campground,20,False,Vault toilets,https://www.nps.gov/olym/planyourvisit/queets-area-brochure.htm
-olym,South Beach Campground,55,False,Vault toilets,https://www.nps.gov/olym/planyourvisit/kalaloch-area-brochure.htm
-olym,North Fork Campground,9,False,Vault toilets,https://www.nps.gov/olym/planyourvisit/quinault-area-brochure.htm
-olym,Ozette Campground,15,False,Flush toilets,https://www.nps.gov/olym/planyourvisit/lake-ozette-area-brochure.htm
-olym,Kalaloch Campround,170,False,Flush toilets|Potable water|Dump station,https://www.nps.gov/olym/planyourvisit/kalaloch-area-brochure.htm
 olym,Graves Creek Campground,30,False,Vault toilets,https://www.nps.gov/olym/planyourvisit/east-fork-quinault-river-trail.htm
 olym,Heart O' the Hills Campground,97,False,Flush toilets|Potable water,https://www.nps.gov/olym/planyourvisit/heart-o-the-hills-area-brochure.htm
-olym,Staircase Campground,49,True,Flush toilets|Potable water,https://www.nps.gov/olym/planyourvisit/staircase-area-brochure.htm
-olym,Fairholme Campground,88,True,Flush toilets|Potable water|Dump station|Camp store|Cell reception,https://www.nps.gov/olym/planyourvisit/lake-crescent-area-brochure.htm
-olym,Mora Campground,94,True,Flush toilets|Potable water|Dump station,https://www.nps.gov/olym/planyourvisit/mora-area-brochure.htm
 olym,Hoh Campground,78,False,Flush toilets|Potable water,https://www.nps.gov/olym/planyourvisit/hoh-rain-forest-area-brochure.htm
+olym,Staircase Campground,49,True,Flush toilets|Potable water,https://www.nps.gov/olym/planyourvisit/staircase-area-brochure.htm
+olym,South Beach Campground,55,False,Vault toilets,https://www.nps.gov/olym/planyourvisit/kalaloch-area-brochure.htm
+olym,Ozette Campground,15,False,Flush toilets,https://www.nps.gov/olym/planyourvisit/lake-ozette-area-brochure.htm
+olym,Mora Campground,94,True,Flush toilets|Potable water|Dump station,https://www.nps.gov/olym/planyourvisit/mora-area-brochure.htm
+olym,Kalaloch Campround,170,False,Flush toilets|Potable water|Dump station,https://www.nps.gov/olym/planyourvisit/kalaloch-area-brochure.htm
+olym,North Fork Campground,9,False,Vault toilets,https://www.nps.gov/olym/planyourvisit/quinault-area-brochure.htm
+olym,Queets Campground,20,False,Vault toilets,https://www.nps.gov/olym/planyourvisit/queets-area-brochure.htm
+olym,Fairholme Campground,88,True,Flush toilets|Potable water|Dump station|Camp store|Cell reception,https://www.nps.gov/olym/planyourvisit/lake-crescent-area-brochure.htm
 olym,Deer Park Campground,14,False,Vault toilets,https://www.nps.gov/olym/planyourvisit/deer-park-area-brochure.htm
 orca,Cave Creek Campground,17,True,Vault toilets|Potable water|Tent sites,https://www.nps.gov/orca/planyourvisit/campgrounds.htm
 orpi,Alamo Canyon Campground,4,False,Vault toilets|Tent sites,https://www.nps.gov/orpi/planyourvisit/alamo-canyon.htm
@@ -527,8 +527,8 @@ ozar,Cedar Grove Campground,6,False,Vault toilets,https://www.nps.gov/ozar/plany
 ozar,Dee Murray Campground,5,False,Vault toilets,https://www.nps.gov/ozar/planyourvisit/dee-murray-campground.htm
 ozar,Jerktail Campground,3,False,Vault toilets,https://www.nps.gov/ozar/planyourvisit/jerktail-campground.htm
 ozar,Broadfoot Campground,4,False,Vault toilets,https://www.nps.gov/ozar/planyourvisit/broadfoot-campground.htm
-pais,Malaquite Campground,48,False,Flush toilets|Showers|Potable water|Dump station|Tent sites,https://www.nps.gov/pais/planyourvisit/malaquite_campground.htm
 pais,Bird Island Basin Campground,34,False,Vault toilets|Tent sites,https://www.nps.gov/pais/planyourvisit/bird-island-basin-campground.htm
+pais,Malaquite Campground,48,False,Flush toilets|Showers|Potable water|Dump station|Tent sites,https://www.nps.gov/pais/planyourvisit/malaquite_campground.htm
 pinn,Pinnacles Campground,134,True,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups,https://www.visitpinnacles.com/
 piro,Little Beaver Lake Campground,8,True,Vault toilets|Potable water,https://www.nps.gov/piro/planyourvisit/camping.htm
 piro,Twelvemile Beach Campground,36,True,Vault toilets|Potable water,https://www.nps.gov/piro/planyourvisit/camping.htm
@@ -560,20 +560,20 @@ pore,Sky Campground,12,False,Vault toilets|Potable water|Tent sites,https://www.
 pore,Wildcat Campground,8,False,Vault toilets|Potable water|Tent sites,https://www.nps.gov/pore/planyourvisit/wildcat-campground.htm
 pore,Coast Campground,14,False,Vault toilets|Potable water|Tent sites,https://www.nps.gov/pore/planyourvisit/coast-campground.htm
 pore,Tomales Bay Boat-in Camping,20,False,Vault toilets|Tent sites|Cell reception,https://www.nps.gov/pore/planyourvisit/kayak_libc.htm
-prwi,Prince William Forest RV Campground,72,False,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups,http://www.princewilliamforestrvcampground.com/
+prwi,Cabin Camp 1 (By Reservation Only),1,False,Flush toilets|Showers|Potable water,https://www.nps.gov/prwi/planyourvisit/cabin-camping.htm
 prwi,Chopawamsic Backcountry Area,8,False,Vault toilets|Tent sites,https://www.nps.gov/prwi/planyourvisit/backcountrycamping.htm
 prwi,Turkey Run Ridge Group Campground,9,True,Flush toilets|Potable water|Tent sites,https://www.nps.gov/prwi/planyourvisit/turkeyrunridge.htm
 prwi,Oak Ridge Campground,100,True,Flush toilets|Showers|Potable water|Tent sites|Cell reception,https://www.nps.gov/prwi/planyourvisit/oakridge.htm
-prwi,Cabin Camp 1 (By Reservation Only),1,False,Flush toilets|Showers|Potable water,https://www.nps.gov/prwi/planyourvisit/cabin-camping.htm
+prwi,Prince William Forest RV Campground,72,False,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups,http://www.princewilliamforestrvcampground.com/
 prwi,Cabin Camp 2 (By Reservation Only),1,False,Flush toilets|Showers|Potable water,https://www.nps.gov/prwi/planyourvisit/cabin-camping.htm
 prwi,Cabin Camp 3 (Group Site By Reservation Only),1,False,Flush toilets|Showers|Potable water,https://www.nps.gov/prwi/planyourvisit/cabin-camping.htm
 prwi,Cabin Camp 4 (By Reservation Only),1,False,Flush toilets|Showers|Potable water,https://www.nps.gov/prwi/planyourvisit/cabin-camping.htm
 prwi,Cabin Camp 5 (By Reservation Only),1,False,Flush toilets|Showers|Potable water,https://www.nps.gov/prwi/planyourvisit/cabin-camping.htm
 prwi,Cabin Camp 3 (Individual Cabins),13,False,Flush toilets|Showers|Potable water|Cell reception,https://www.nps.gov/prwi/planyourvisit/individual-cabins.htm
-redw,Elk Prairie Campground - Prairie Creek Redwoods State Park,75,False,Flush toilets|Showers|Potable water|RV friendly|Tent sites,https://www.nps.gov/redw/planyourvisit/elk-prairie-campground.htm
 redw,Jedediah Smith Campground - Jedediah Smith Redwoods State Park,86,False,Flush toilets|Showers|Potable water|Dump station|RV friendly|Tent sites,https://www.nps.gov/redw/planyourvisit/jedediah-smith-campground.htm
-redw,Mill Creek Campground - Del Norte Coast Redwoods State Park,145,False,Flush toilets|Showers|Potable water|Dump station|Tent sites,https://www.nps.gov/redw/planyourvisit/mill-creek-campground.htm
 redw,Gold Bluffs Beach Campground - Prairie Creek Redwoods State Park,26,False,Flush toilets|Showers|Potable water|Cell reception,https://www.nps.gov/redw/planyourvisit/gold-bluffs-beach-campground.htm
+redw,Mill Creek Campground - Del Norte Coast Redwoods State Park,145,False,Flush toilets|Showers|Potable water|Dump station|Tent sites,https://www.nps.gov/redw/planyourvisit/mill-creek-campground.htm
+redw,Elk Prairie Campground - Prairie Creek Redwoods State Park,75,False,Flush toilets|Showers|Potable water|RV friendly|Tent sites,https://www.nps.gov/redw/planyourvisit/elk-prairie-campground.htm
 romo,Aspenglen Campground,52,False,Flush toilets|Potable water|Tent sites,https://www.nps.gov/romo/planyourvisit/agcg.htm
 romo,Glacier Basin Campground,150,False,Flush toilets|Potable water|Dump station|Tent sites,https://www.nps.gov/romo/planyourvisit/gbcg.htm
 romo,Timber Creek Campground,98,False,Flush toilets|Potable water|Dump station|Tent sites,https://www.nps.gov/romo/planyourvisit/tccg.htm
@@ -582,12 +582,12 @@ romo,Longs Peak Campground,26,False,Vault toilets|Tent sites,https://www.nps.gov
 sacn,Namekagon District,67,False,Vault toilets|Potable water|Tent sites|Cell reception,https://www.nps.gov/sacn/planyourvisit/namekagon-river.htm
 sacn,Middle St. Croix,57,False,Vault toilets|Potable water|Tent sites|Cell reception,https://www.nps.gov/sacn/planyourvisit/middlestcroix.htm
 sacn,Lower St. Croix District,19,False,Tent sites|Cell reception,https://www.nps.gov/sacn/planyourvisit/lowerstcroix.htm
-sagu,Douglas Spring,0,False,,
-sagu,Spud Rock Spring,0,False,,
 sagu,Manning Camp,6,False,Vault toilets|Potable water|Tent sites,
-sagu,Happy Valley Saddle,0,False,,
-sagu,Juniper Basin,0,False,,
 sagu,Grass Shack,0,False,,
+sagu,Happy Valley Saddle,0,False,,
+sagu,Spud Rock Spring,0,False,,
+sagu,Juniper Basin,0,False,,
+sagu,Douglas Spring,0,False,,
 samo,Circle X Ranch Campground - CLOSED,1,False,Vault toilets,
 seki,Potwisha Campground,42,True,Flush toilets|Potable water|Dump station,https://www.nps.gov/seki/planyourvisit/potwisha.htm
 seki,Azalea Campground,110,True,Flush toilets|Potable water|Camp store|Cell reception,https://www.nps.gov/seki/planyourvisit/azalea.htm
@@ -611,25 +611,25 @@ shen,Mathews Arm Campground,165,True,Flush toilets|Potable water|Dump station,ht
 shen,Big Meadows Campground,221,False,Flush toilets|Showers|Potable water|Dump station|Camp store|Tent sites,https://www.nps.gov/shen/planyourvisit/big-meadows-campground.htm
 shen,Lewis Mountain Campground,30,True,Flush toilets|Showers|Potable water|Camp store,https://www.nps.gov/shen/planyourvisit/lewis-mountain-campground.htm
 shen,Loft Mountain Campground,207,True,Flush toilets|Showers|Potable water|Dump station|Camp store|Tent sites,https://www.nps.gov/shen/planyourvisit/loft-mountain-campground.htm
+slbe,Bay Campground - South Manitou Island,28,False,Vault toilets|Tent sites,https://www.nps.gov/slbe/planyourvisit/smicamping.htm
 slbe,D. H. Day Campground,87,True,Vault toilets|Potable water|Dump station|Tent sites|Cell reception,https://www.nps.gov/slbe/planyourvisit/dhdaycamp.htm
 slbe,D. H. Day Campground Group Campground,4,True,Vault toilets|Potable water|Tent sites,https://www.nps.gov/slbe/planyourvisit/groupcamps.htm
-slbe,Popple Campground - South Manitou Island,7,False,Vault toilets|Tent sites,https://www.nps.gov/slbe/planyourvisit/smicamping.htm
-slbe,Weather Station Campground - South Manitou Island,23,False,Vault toilets|Tent sites,https://www.nps.gov/slbe/planyourvisit/smicamping.htm
 slbe,White Pine Backcountry Campground,6,False,Vault toilets|Tent sites,https://www.nps.gov/slbe/planyourvisit/white-pine-backcountry-campground.htm
+slbe,Weather Station Campground - South Manitou Island,23,False,Vault toilets|Tent sites,https://www.nps.gov/slbe/planyourvisit/smicamping.htm
 slbe,Village Campground - North Manitou Island,8,False,Vault toilets|Tent sites,https://www.nps.gov/slbe/planyourvisit/nmicamping.htm
 slbe,Platte River Campground,179,True,Flush toilets|Showers|Potable water|Dump station|Electric hookups|RV friendly,https://www.nps.gov/slbe/planyourvisit/platterivercamp.htm
-slbe,Bay Campground - South Manitou Island,28,False,Vault toilets|Tent sites,https://www.nps.gov/slbe/planyourvisit/smicamping.htm
+slbe,Popple Campground - South Manitou Island,7,False,Vault toilets|Tent sites,https://www.nps.gov/slbe/planyourvisit/smicamping.htm
 thro,Cottonwood Campground,76,False,Flush toilets|Potable water|Tent sites,https://www.nps.gov/thro/planyourvisit/cottonwood-campground.htm
 thro,Juniper Campground,50,False,Flush toilets|Potable water|Dump station|Tent sites,https://www.nps.gov/thro/planyourvisit/juniper-campground.htm
 thro,Roundup Group Horse Camp,1,True,Vault toilets|Potable water,https://www.nps.gov/thro/planyourvisit/roundup-group-horse-campground.htm
 viis,Cinnamon Bay Beach and Campground,121,False,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups,https://www.nps.gov/viis/planyourvisit/camping.htm
-whis,Dry Creek Group Campground,2,False,Vault toilets|Potable water|Tent sites|Cell reception,https://www.nps.gov/whis/planyourvisit/dry-creek.htm
-whis,Crystal Creek,2,False,Vault toilets|Tent sites|Cell reception,https://www.recreation.gov/camping/crystal-creek-primitive-campground/r/campgroundDetails.do?contractCode=NRSO&parkId=156890
-whis,Sheep Camp,4,False,Vault toilets|Tent sites|Cell reception,https://www.recreation.gov/camping/sheep-camp-primitive-campground/r/campgroundDetails.do?contractCode=NRSO&parkId=156990
-whis,Horse Camp,2,False,Vault toilets|Potable water|RV friendly|Tent sites|Cell reception,https://www.nps.gov/whis/planyourvisit/horse-camp.htm
-whis,Peltier Bridge,9,False,Vault toilets|Tent sites|Cell reception,https://www.nps.gov/whis/planyourvisit/peltier-bridge.htm
 whis,Brandy Creek,2,False,Vault toilets|Cell reception,https://www.recreation.gov/camping/brandy-creek-primitive-campground/r/campgroundDetails.do?contractCode=NRSO&parkId=156940
 whis,Brandy Creek RV,15,True,Potable water|Dump station|RV friendly|Cell reception,https://www.nps.gov/whis/planyourvisit/brandy-creek-rv.htm
+whis,Horse Camp,2,False,Vault toilets|Potable water|RV friendly|Tent sites|Cell reception,https://www.nps.gov/whis/planyourvisit/horse-camp.htm
+whis,Crystal Creek,2,False,Vault toilets|Tent sites|Cell reception,https://www.recreation.gov/camping/crystal-creek-primitive-campground/r/campgroundDetails.do?contractCode=NRSO&parkId=156890
+whis,Peltier Bridge,9,False,Vault toilets|Tent sites|Cell reception,https://www.nps.gov/whis/planyourvisit/peltier-bridge.htm
+whis,Sheep Camp,4,False,Vault toilets|Tent sites|Cell reception,https://www.recreation.gov/camping/sheep-camp-primitive-campground/r/campgroundDetails.do?contractCode=NRSO&parkId=156990
+whis,Dry Creek Group Campground,2,False,Vault toilets|Potable water|Tent sites|Cell reception,https://www.nps.gov/whis/planyourvisit/dry-creek.htm
 whsa,Backcountry Camping,10,False,Tent sites|Cell reception,https://www.nps.gov/whsa/planyourvisit/backpackingpr.htm
 wica,Elk Mountain Campground,64,True,Flush toilets|Potable water|RV friendly|Tent sites,https://www.nps.gov/wica/planyourvisit/campgrounds.htm
 wrst,Kendesnii Campground,10,False,Vault toilets,https://www.nps.gov/wrst/planyourvisit/camping-along-the-nabesna-road.htm
