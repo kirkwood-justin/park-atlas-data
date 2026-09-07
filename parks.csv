@@ -28,7 +28,7 @@ arho,"Arlington House, The Robert E. Lee Memorial",Park Unit,Other,VA,363284,Fal
 arpo,Arkansas Post National Memorial,National Memorial,Memorials,AR,27674,False,False,False,111,0,34.00389998,-91.30837178
 asis,Assateague Island National Seashore,National Seashore,Seashores & Lakeshores,MD|VA,2325195,False,False,True,310,1,38.05593172,-75.24524611
 azru,Aztec Ruins National Monument,National Monument,Monuments,NM,38636,False,False,False,115,1,36.83682216,-107.9999245
-badl,Badlands National Park,National Park,National Parks,SD,1139361,True,False,True,209,1,43.68584846,-102.482942
+badl,Badlands National Park,National Park,National Parks,SD,1139361,True,False,True,209,2,43.68584846,-102.482942
 band,Bandelier National Monument,National Monument,Monuments,NM,247642,False,False,True,175,2,35.77898596,-106.3317124
 bawa,Baltimore-Washington Parkway,Parkway,Parkways,MD,,False,False,False,127,0,39.02604289,-76.85410921
 bela,Bering Land Bridge National Preserve,National Preserve,Preserves & Reserves,AK,2674,False,False,False,150,2,65.96087902,-164.4086432
@@ -195,7 +195,7 @@ grba,Great Basin National Park,National Park,National Parks,NV,161210,True,False
 grca,Grand Canyon National Park,National Park,National Parks,AZ,4430653,True,False,True,447,5,36.0001165336,-112.121516363
 gree,Greenbelt Park,Park,Other,MD,130314,False,False,False,127,1,38.98328267,-76.89722133
 greg,Great Egg Harbor River,Park Unit,Other,NJ,,False,False,False,,0,39.3042,-74.6497
-grfa,Great Falls Park,Park,Other,VA,,False,False,True,181,2,38.98776107,-77.25128326
+grfa,Great Falls Park,Park,Other,VA,,False,False,True,181,3,38.98776107,-77.25128326
 grko,Grant-Kohrs Ranch National Historic Site,National Historic Site,Historic Sites,MT,23520,False,False,False,230,0,46.41358923,-112.7467024
 grpo,Grand Portage National Monument,National Monument,Monuments,MN,85734,False,False,False,205,0,47.99294217,-89.75573031
 grsa,Great Sand Dunes National Park & Preserve,National Park & Preserve,Preserves & Reserves,CO,432498,True,False,True,235,4,37.79256812,-105.5919572
@@ -388,7 +388,7 @@ sahi,Sagamore Hill National Historic Site,National Historic Site,Historic Sites,
 sair,Saugus Iron Works National Historic Site,National Historic Site,Historic Sites,MA,51495,False,False,False,32,0,42.46830664,-71.0076953
 sajh,San Juan Island National Historical Park,National Historical Park,Historical Parks,WA,420922,False,False,False,175,2,48.51241933,-123.0610277
 saju,San Juan National Historic Site,National Historic Site,Historic Sites,PR,1402132,False,False,True,,0,18.46873857,-66.11848623
-sama,Salem Maritime National Historical Park,National Historical Park,Historical Parks,MA,569839,False,False,False,,1,42.52024529,-70.88640867
+sama,Salem Maritime National Historical Park,National Historical Park,Historical Parks,MA,569839,False,False,False,,2,42.52024529,-70.88640867
 samo,Santa Monica Mountains National Recreation Area,National Recreation Area,Recreation Areas,CA,722626,False,False,False,400,0,34.09777606,-118.7708619
 sand,Sand Creek Massacre National Historic Site,National Historic Site,Historic Sites,CO,4338,False,False,False,,2,38.56414189,-102.5169542
 sapa,Saint Paul's Church National Historic Site,National Historic Site,Historic Sites,NY,8853,False,False,False,,1,40.89283511,-73.82577276
@@ -416,7 +416,7 @@ thco,Thomas Cole National Historic Site,National Historic Site,Historic Sites,NY
 this,Theodore Roosevelt Island,Park Unit,Other,DC,159828,False,False,False,169,0,38.89584162,-77.06241918
 thje,Thomas Jefferson Memorial,Park Unit,Other,DC,,False,False,False,,1,38.88101431,-77.03632572
 thko,Thaddeus Kosciuszko National Memorial,National Memorial,Memorials,PA,1664,False,False,False,,0,39.94345312,-75.14732045
-thrb,Theodore Roosevelt Birthplace National Historic Site,National Historic Site,Historic Sites,NY,26864,False,False,False,,2,40.7386469,-73.98903703
+thrb,Theodore Roosevelt Birthplace National Historic Site,National Historic Site,Historic Sites,NY,26864,False,False,False,,1,40.7386469,-73.98903703
 thri,Theodore Roosevelt Inaugural National Historic Site,National Historic Site,Historic Sites,NY,26787,False,False,False,,1,42.90146781,-78.87248411
 thro,Theodore Roosevelt National Park,National Park,National Parks,ND,729893,False,False,True,161,3,47.17777274,-103.4300083
 thst,Thomas Stone National Historic Site,National Historic Site,Historic Sites,MD,4910,False,False,False,112,0,38.52934443,-77.037813
