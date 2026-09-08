@@ -162,7 +162,7 @@ cong,Bluff Campground,6,False,Tent sites|Cell reception,https://www.recreation.g
 crla,Lost Creek Campground,16,False,Tent sites,https://www.nps.gov/crla/planyourvisit/lost_creek.htm
 crla,Mazama Campground,214,False,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups,https://www.nps.gov/crla/planyourvisit/mazama_campground.htm
 crmo,Lava Flow Campground,42,False,Flush toilets|Potable water,https://www.nps.gov/crmo/planyourvisit/camping.htm
-cuga,Wilderness Road Campground,150,False,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups,https://www.nps.gov/cuga/planyourvisit/campgrounds.htm
+cuga,Wilderness Road Campground,150,False,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups,
 cuis,Sea Camp Campground,18,False,Flush toilets|Showers|Potable water|Tent sites|Cell reception,https://www.nps.gov/cuis/planyourvisit/seacamp.htm
 cuis,Stafford Beach Campground,10,False,Flush toilets|Showers|Potable water|Tent sites,https://www.nps.gov/cuis/planyourvisit/staffordbeach.htm
 cuis,Hickory Hill Wilderness Campsite,4,False,Potable water|Tent sites|Cell reception,https://www.nps.gov/cuis/planyourvisit/hickoryhill.htm
@@ -219,7 +219,7 @@ fiis,Backcountry Camping in the Otis Pike High Dune Wilderness,36,False,Tent sit
 fiis,Watch Hill Campground,28,False,Flush toilets|Showers|Potable water|Camp store|Tent sites|Cell reception,https://www.nps.gov/fiis/planyourvisit/camping.htm
 fomr,The Colonies RV Travel Park & Country Store,35,False,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups,https://thecoloniesrvtravelpark.com
 gari,Gauley Tailwaters,18,False,Vault toilets|Cell reception,
-gate,Sandy Hook Camp Ground,20,False,Flush toilets|Potable water|Tent sites|Cell reception,https://www.nps.gov/gate/planyourvisit/camp-sandy-hook.htm
+gate,Sandy Hook Camp Ground,20,False,Flush toilets|Potable water|Tent sites|Cell reception,
 gate,Fort Wadsworth Campsite,7,False,Flush toilets|Showers|Potable water|Tent sites|Cell reception,
 gicl,Upper Scorpion Campground,12,False,Vault toilets|Potable water|Tent sites,https://www.nps.gov/gicl/planyourvisit/camping.htm
 gicl,Lower Scorpion Campground,7,False,Vault toilets|Potable water|RV friendly|Tent sites,https://www.nps.gov/gicl/planyourvisit/camping.htm
@@ -307,8 +307,8 @@ gumo,Wilderness Ridge Wilderness Campground,5,False,Tent sites,https://www.nps.g
 gumo,Shumard Canyon Wilderness Campground,5,False,Tent sites,https://www.nps.gov/gumo/planyourvisit/sc_wcg.htm
 gumo,Tejas Wilderness Campground,5,False,Tent sites,https://www.nps.gov/gumo/planyourvisit/ts_wcg.htm
 gumo,Frijole Horse Corral Campground,1,True,Vault toilets|Potable water|RV friendly|Tent sites|Cell reception,https://www.recreation.gov/camping/campgrounds/10104621
-hale,Kīpahulu Campground,9,False,Vault toilets|Tent sites,https://www.nps.gov/hale/planyourvisit/drive-up-camping.htm
-hale,Hosmer Grove Campground,6,False,Vault toilets|Potable water|Tent sites|Cell reception,https://www.nps.gov/hale/planyourvisit/drive-up-camping.htm
+hale,Kīpahulu Campground,9,False,Vault toilets|Tent sites,
+hale,Hosmer Grove Campground,6,False,Vault toilets|Potable water|Tent sites|Cell reception,
 hale,Wilderness Cabins,3,False,Vault toilets|Potable water,https://www.nps.gov/hale/planyourvisit/wilderness-cabins.htm
 hale,Wilderness Tent Sites,10,False,Vault toilets|Potable water|Tent sites,https://www.nps.gov/hale/planyourvisit/wilderness-camping.htm
 havo,Nāmakanipaio,16,False,Flush toilets|Potable water|Tent sites|Cell reception,https://www.nps.gov/havo/planyourvisit/namakanipaio-campground.htm
