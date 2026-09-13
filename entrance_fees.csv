@@ -3,13 +3,8 @@ acad,Acadia National Park,Entrance - Private Vehicle,35.00,"Valid for seven days
 acad,Acadia National Park,Entrance - Motorcycle,30.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
 acad,Acadia National Park,Entrance - Per Person,20.00,"Valid for seven days. Admits one individual with no car (bicyclist, hiker, pedestrian). Youth 15 and under are admitted free of charge."
 acad,Acadia National Park,Entrance - Education/Academic Groups,0.00,"School groups and other academic institutions may qualify for an Educational Fee Waiver. If not qualified, please check fees for large or commercial groups."
-acad,Acadia National Park,Entrance - Non-commercial Groups,0.00,"Groups entering Acadia by bus, van, or other high-capacity vehicles (16 people or more) must pay an organized group entrance fee.
-
-Adults (16 years old and over): $20/per person
-Youth (15 years old an"
-acad,Acadia National Park,Commercial Entrance - Per Person,20.00,"Are you operating a business that provides leisure or recreational services while in the park? If so, it is considered a commercial group and you are required to have a Commercial Use Authorization.
-
-"
+acad,Acadia National Park,Entrance - Non-commercial Groups,0.00,"Groups entering Acadia by bus, van, or other high-capacity vehicles (16 people or more) must pay an organized group entrance fee. Adults (16 years old and over): $20/per person Youth (15 years old and"
+acad,Acadia National Park,Commercial Entrance - Per Person,20.00,"Are you operating a business that provides leisure or recreational services while in the park? If so, it is considered a commercial group and you are required to have a Commercial Use Authorization. A"
 acad,Acadia National Park,Nonresident,100.00,"Each non-US resident aged 16 and older visiting Acadia National Park must pay a $100 nonresident fee (in addition to the standard entrance fee), unless they are admitted with an Annual or America the "
 adam,Adams National Historical Park,Entrance - Per Person,15.00,Entrance into the historic homes at Adams National Historical Park requires an entrance pass. Entrance passes cost $15 per person. Children under the age of 16 are free. If you have an America the Bea
 anti,Antietam National Battlefield,Entrance - Private Vehicle,20.00,Personal Vehicle/Family: $20.00 for three days
@@ -32,27 +27,23 @@ badl,Badlands National Park,Commercial Entrance - Sedan,25.00,"Commercial sedan,
 badl,Badlands National Park,Commercial Entrance - Van,50.00,"Commercial van, 7 to 15 passenger capacity; $50 - 7 days for Original Manifest"
 badl,Badlands National Park,Commercial Entrance - Mini-bus,60.00,"Minibus, 16 to 25 passenger capacity; $60 - 7 days for Original Manifest"
 badl,Badlands National Park,Commercial Entrance - Motor Coach,150.00,"Motorcoach, 26 or more passenger capacity; $150 - 7 days for Original Manifest"
-band,Bandelier National Monument,Entrance - Private Vehicle,25.00,"Pass covers all persons traveling in a single, private, non-commercial vehicle (car, truck, camper, or van up to 15 passengers). Auto passes are non-transferable and not replaced if lost or stolen.  E"
+band,Bandelier National Monument,Entrance - Private Vehicle,25.00,"Pass covers all persons traveling in a single, private, non-commercial vehicle (car, truck, camper, or van up to 15 passengers). Auto passes are non-transferable and not replaced if lost or stolen. En"
 band,Bandelier National Monument,Entrance - Motorcycle,20.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
 band,Bandelier National Monument,Entrance - Per Person,15.00,"Pass covers per person entrance fee for those 16 years of age and older traveling on foot or by bicycle, or for individuals traveling together in a 16 passenger or greater vehicle as a non-commercial,"
 bibe,Big Bend National Park,Entrance - Private Vehicle,30.00,"Admits one private, non-commercial vehicle (15 passenger capacity or less); valid for 7 days."
 bibe,Big Bend National Park,Entrance - Per Person,15.00,Admits one individual. Typically used for bicyclists and pedestrians; valid for 7 days.
 bibe,Big Bend National Park,Commercial Entrance - Motor Coach,200.00,Companies conducting business in the park are required to obtain a commercial use authorization. The only exception is companies travelling in a 26-person capacity or greater vehicle; such vehicles ar
-bibe,Big Bend National Park,Entrance - Non-commercial Groups,30.00,"Organized groups such as Scouts, clubs, etc. that do not qualify for an academic fee waiver are charged as follows:
-$30 per non-commercial vehicle with a capacity of 15 or less.
-$15 per person traveli"
-bibe,Big Bend National Park,Commercial Entrance - Mini-bus,100.00,"This fee is valid for seven consecutive days. A commercial use authorization is required.
-
-https://www.nps.gov/bibe/learn/management/cua.htm"
+bibe,Big Bend National Park,Entrance - Non-commercial Groups,30.00,"Organized groups such as Scouts, clubs, etc. that do not qualify for an academic fee waiver are charged as follows: $30 per non-commercial vehicle with a capacity of 15 or less. $15 per person traveli"
+bibe,Big Bend National Park,Commercial Entrance - Mini-bus,100.00,This fee is valid for seven consecutive days. A commercial use authorization is required. https://www.nps.gov/bibe/learn/management/cua.htm
 bibe,Big Bend National Park,Commercial Entrance - Sedan,25.00,"These fees are charged only to commercial organizations, such as tour companies. This fee is determined by the seating capacity of the vehicle. For sedan with 1 to 6 seats, the fee is $30 + $15 per cl"
 bibe,Big Bend National Park,Entrance - Motorcycle,25.00,"Valid for 7 days. Admits up to 1 private, non-commercial motorcycle with up to 2 total passengers."
-blca,Black Canyon Of The Gunnison National Park,Entrance - Private Vehicle,30.00,"7-Day Vehicle Pass.  Entrance fees cover all persons in a single, private, non-commercial vehicle."
+blca,Black Canyon Of The Gunnison National Park,Entrance - Private Vehicle,30.00,"7-Day Vehicle Pass. Entrance fees cover all persons in a single, private, non-commercial vehicle."
 blca,Black Canyon Of The Gunnison National Park,Entrance - Motorcycle,25.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
 blca,Black Canyon Of The Gunnison National Park,Entrance - Per Person,15.00,7-Day Individual Pass (pedestrian or bicycle)
-blca,Black Canyon Of The Gunnison National Park,Commercial Entrance - Sedan,25.00,Commercial tour fee for vehicle/bus with seating capacity of 1-6 persons.  Fee is $25.00 per vehicle plus $7.00 per passenger.
-blca,Black Canyon Of The Gunnison National Park,Commercial Entrance - Van,40.00,Commercial tour fee for vehicle/bus with seating capacity of 7-25.  Fee is $40.00 per vehicle.
-blca,Black Canyon Of The Gunnison National Park,Commercial Entrance - Mini-bus,40.00,Commercial tour fee for vehicle/bus with seating capacity of 7-25.  Fee is $40.00 per vehicle.
-blca,Black Canyon Of The Gunnison National Park,Commercial Entrance - Motor Coach,100.00,Commercial tour fee for vehicle/bus with seating capacity of 26 or more.  Fee is $100.00 per vehicle.
+blca,Black Canyon Of The Gunnison National Park,Commercial Entrance - Sedan,25.00,Commercial tour fee for vehicle/bus with seating capacity of 1-6 persons. Fee is $25.00 per vehicle plus $7.00 per passenger.
+blca,Black Canyon Of The Gunnison National Park,Commercial Entrance - Van,40.00,Commercial tour fee for vehicle/bus with seating capacity of 7-25. Fee is $40.00 per vehicle.
+blca,Black Canyon Of The Gunnison National Park,Commercial Entrance - Mini-bus,40.00,Commercial tour fee for vehicle/bus with seating capacity of 7-25. Fee is $40.00 per vehicle.
+blca,Black Canyon Of The Gunnison National Park,Commercial Entrance - Motor Coach,100.00,Commercial tour fee for vehicle/bus with seating capacity of 26 or more. Fee is $100.00 per vehicle.
 blca,Black Canyon Of The Gunnison National Park,Entrance - Non-commercial Groups,30.00,"Non-commercial vehicles with a vehicle capacity of 15 or fewer: $30.00 per vehicle, regardless of the number of passengers."
 blca,Black Canyon Of The Gunnison National Park,Entrance - Non-commercial Groups,15.00,Non-commercial vehicles with a vehicle capacity of 16 or greater: $15.00 per passenger (including driver). Fees will not exceed the commercial fee for the same-sized vehicle. Youth 15 and under are fr
 brca,Bryce Canyon National Park,Entrance - Private Vehicle,35.00,"Admits one private, non-commercial vehicle (15 passenger capacity or less) and all occupants."
@@ -61,15 +52,12 @@ brca,Bryce Canyon National Park,Entrance - Per Person,20.00,Admits one individua
 brca,Bryce Canyon National Park,Nonresident,100.00,"Each non-US resident aged 16 and older visiting Bryce Canyon National Park must pay a $100 nonresident fee (in addition to the standard entrance fee), unless admitted with an Annual or America the Bea"
 cabr,Cabrillo National Monument,Entrance - Private Vehicle,20.00,"Admits one single, private, non-commercial vehicle and all its passengers."
 cabr,Cabrillo National Monument,Entrance - Motorcycle,15.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
-cabr,Cabrillo National Monument,Entrance - Per Person,10.00,"Admits one individual when entering by foot or bicycle. Groups of up to 4 people walking in or on bicycles are capped at $20 total.
-
-Individuals 15 years old and younger are admitted free of charge."
+cabr,Cabrillo National Monument,Entrance - Per Person,10.00,Admits one individual when entering by foot or bicycle. Groups of up to 4 people walking in or on bicycles are capped at $20 total. Individuals 15 years old and younger are admitted free of charge.
 cabr,Cabrillo National Monument,Commercial Entrance - Sedan,30.00,1 to 6 / ($30)
 cabr,Cabrillo National Monument,Commercial Entrance - Van,45.00,7 to 25 / ($45)
 cabr,Cabrillo National Monument,Commercial Entrance - Mini-bus,45.00,7 to 25 / ($45)
 cabr,Cabrillo National Monument,Commercial Entrance - Motor Coach,100.00,26 or more / ($100)
-cabr,Cabrillo National Monument,Entrance - Non-commercial Groups,20.00,"Organized Non-Commercial Groups include church groups, college/school groups, scouts, service organizations, military, etc.
-Vehicles with a capacity of 16 or less are charged the $20.00 vehicle permit"
+cabr,Cabrillo National Monument,Entrance - Non-commercial Groups,20.00,"Organized Non-Commercial Groups include church groups, college/school groups, scouts, service organizations, military, etc. Vehicles with a capacity of 16 or less are charged the $20.00 vehicle permit"
 caco,Cape Cod National Seashore,Entrance - Private Vehicle,25.00,"Pass is for one private, non-commercial vehicle — passenger cars, pickup trucks, RVs and vans."
 caco,Cape Cod National Seashore,Entrance - Motorcycle,20.00,"Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
 caco,Cape Cod National Seashore,Entrance - Per Person,15.00,Pass is for one person 16 years of age or older — entering on foot or by bicycle.
@@ -82,15 +70,9 @@ cany,Canyonlands National Park,Entrance - Per Person,15.00,"Admits one individua
 care,Capitol Reef National Park,Entrance - Private Vehicle,20.00,An entrance fee is charged per vehicle.
 care,Capitol Reef National Park,Entrance - Motorcycle,15.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
 care,Capitol Reef National Park,Entrance - Per Person,10.00,Admits one individual with no car. Typically used for bicyclists and pedestrians.
-care,Capitol Reef National Park,Commercial Entrance - Per Person,10.00,"Commercial Road-Based Tours are required to obtain a Commercial Use Authorization before visiting Capitol Reef.
-
-When visiting the park, the tour must then pay the separate entrance fee at the visitor"
-care,Capitol Reef National Park,Commercial Entrance - Mini-bus,100.00,"Commercial Road-Based Tours are required to obtain a Commercial Use Authorization before visiting Capitol Reef National Park.
-
-When visiting the park, the tour must then pay the separate entrance fee "
-care,Capitol Reef National Park,Commercial Entrance - Motor Coach,100.00,"Commercial Road-Based Tours are required to obtain a Commercial Use Authorization before visiting Capitol Reef National Park.
-
-When visiting the park, the tour must then pay the separate entrance fee "
+care,Capitol Reef National Park,Commercial Entrance - Per Person,10.00,"Commercial Road-Based Tours are required to obtain a Commercial Use Authorization before visiting Capitol Reef. When visiting the park, the tour must then pay the separate entrance fee at the visitor "
+care,Capitol Reef National Park,Commercial Entrance - Mini-bus,100.00,"Commercial Road-Based Tours are required to obtain a Commercial Use Authorization before visiting Capitol Reef National Park. When visiting the park, the tour must then pay the separate entrance fee a"
+care,Capitol Reef National Park,Commercial Entrance - Motor Coach,100.00,"Commercial Road-Based Tours are required to obtain a Commercial Use Authorization before visiting Capitol Reef National Park. When visiting the park, the tour must then pay the separate entrance fee a"
 care,Capitol Reef National Park,Commercial Entrance - Per Person,10.00,"Guided Activities include all types of guided services, such as bike and motorcycle tours, hiking guides, photography classes, hiking shuttles, and road-based commercial tours with vehicles <16 capaci"
 casa,Castillo de San Marcos National Monument,Entrance - Per Person,15.00,"The Castillo de San Marcos is considered to be a ""walk-in"" park. The entrance fee applies to each individual. Tickets are not transferable and cannot be given to other guests. Adults (Age 16 and above"
 cave,Carlsbad Caverns National Park,Entrance - Per Person,15.00,Entrance fee provides access to Carlsbad Cavern by elevator and hiking in. Ranger-guided tours are an additional fee and can be reserved on recreation.gov.
@@ -123,31 +105,29 @@ chcu,Chaco Culture National Historical Park,Commercial Entrance - Mini-bus,40.00
 choh,Chesapeake & Ohio Canal National Historical Park,Entrance - Private Vehicle,20.00,"Pass is for one private, non-commercial vehicle — passenger cars, pickup trucks, RVs and vans — and is valid at the Great Falls area of the Chesapeake and Ohio Canal National Historical Park on the Ma"
 choh,Chesapeake & Ohio Canal National Historical Park,Entrance - Motorcycle,15.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers to the Great Falls area of the Chesapeake and Ohio Canal National Historical Park on the Maryland sid"
 choh,Chesapeake & Ohio Canal National Historical Park,Entrance - Per Person,10.00,Pass is for one person 16 years of age or older — entering on foot or by bicycle — and is valid at the Great Falls area of the Chesapeake and Ohio Canal National Historical Park on the Maryland side o
-choh,Chesapeake & Ohio Canal National Historical Park,Entrance - Non-commercial Groups,100.00,"Includes church groups, college/school groups, scouts, service organizations, military, etc...
-Vehicles with passenger capacity of fewer than 16 persons, $20 for the vehicle.
-Vehicles with a passenger"
+choh,Chesapeake & Ohio Canal National Historical Park,Entrance - Non-commercial Groups,100.00,"Includes church groups, college/school groups, scouts, service organizations, military, etc... Vehicles with passenger capacity of fewer than 16 persons, $20 for the vehicle. Vehicles with a passenger"
 choh,Chesapeake & Ohio Canal National Historical Park,Commercial Entrance - Motor Coach,100.00,The commercial pass is valid for date of purchase plus six days at the Great Falls area of the Chesapeake and Ohio Canal National Historical Park on the Maryland side of the Potomac River. Please note
 choh,Chesapeake & Ohio Canal National Historical Park,Commercial Entrance - Van,40.00,The commercial pass is valid for date of purchase plus six days at the Great Falls area of the Chesapeake and Ohio Canal National Historical Park on the Maryland side of the Potomac River. Please note
 choh,Chesapeake & Ohio Canal National Historical Park,Commercial Entrance - Mini-bus,40.00,The commercial pass is valid for date of purchase plus six days at the Great Falls area of the Chesapeake and Ohio Canal National Historical Park on the Maryland side of the Potomac River. Please note
 choh,Chesapeake & Ohio Canal National Historical Park,Commercial Entrance - Sedan,25.00,The commercial pass is valid for date of purchase plus six days at the Great Falls area of the Chesapeake and Ohio Canal National Historical Park on the Maryland side of the Potomac River. Please note
-chri,Christiansted National Historic Site,Entrance - Per Person,10.00,Adults 16 and older.  Children under the age of 16 are admitted free with an adult.
+chri,Christiansted National Historic Site,Entrance - Per Person,10.00,Adults 16 and older. Children under the age of 16 are admitted free with an adult.
 colm,Colorado National Monument,Entrance - Private Vehicle,25.00,"$25 for a private vehicle. Unlimited entry for one vehicle and all its passengers for seven consecutive days, beginning on the day of purchase. Private vehicle must be non-commercial and with a seatin"
 colm,Colorado National Monument,Entrance - Motorcycle,20.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
 colm,Colorado National Monument,Entrance - Per Person,15.00,This pass is good for 7 days for an individual who is walking or bicycling into the monument.
-colm,Colorado National Monument,Entrance - Non-commercial Groups,15.00,"Organized groups such as Scouts, Rotary, Hiking Clubs, Youth Groups, Religious Institutions, etc. that do not qualify for an Academic Fee Waiver are charged as follows:  $15 per person, not to exceed "
-colm,Colorado National Monument,Entrance - Education/Academic Groups,0.00,Groups entering the park for educational purposes (curriculum-based classes or activities) may be eligible for a free academic fee wavier.  Email COLM_permits@nps.gov to apply for a waiver or for more
-colm,Colorado National Monument,Commercial Entrance - Sedan,25.00,"Cost:  $25, plus $15 per person to a maximum of $40.  The entry fees for commercial tours are based on the total capacity of vehicles that carry 7 or more people, regardless of the actual number of pa"
-colm,Colorado National Monument,Commercial Entrance - Van,40.00,"The entry fees for commercial tours are based on the total capacity of vehicles that carry 7 or more people, regardless of the actual number of passengers.  Possession of an annual or lifetime pass, o"
-colm,Colorado National Monument,Commercial Entrance - Mini-bus,40.00,"The entry fees for commercial tours are based on the total capacity of vehicles that carry 7 or more people, regardless of the actual number of passengers.  Possession of an annual or lifetime pass, o"
-colm,Colorado National Monument,Commercial Entrance - Motor Coach,100.00,"The entry fees for commercial tours are based on the total capacity of vehicles that carry 7 or more people, regardless of the actual number of passengers.  Possession of an annual or lifetime pass, o"
+colm,Colorado National Monument,Entrance - Non-commercial Groups,15.00,"Organized groups such as Scouts, Rotary, Hiking Clubs, Youth Groups, Religious Institutions, etc. that do not qualify for an Academic Fee Waiver are charged as follows: $15 per person, not to exceed t"
+colm,Colorado National Monument,Entrance - Education/Academic Groups,0.00,Groups entering the park for educational purposes (curriculum-based classes or activities) may be eligible for a free academic fee wavier. Email COLM_permits@nps.gov to apply for a waiver or for more 
+colm,Colorado National Monument,Commercial Entrance - Sedan,25.00,"Cost: $25, plus $15 per person to a maximum of $40. The entry fees for commercial tours are based on the total capacity of vehicles that carry 7 or more people, regardless of the actual number of pass"
+colm,Colorado National Monument,Commercial Entrance - Van,40.00,"The entry fees for commercial tours are based on the total capacity of vehicles that carry 7 or more people, regardless of the actual number of passengers. Possession of an annual or lifetime pass, or"
+colm,Colorado National Monument,Commercial Entrance - Mini-bus,40.00,"The entry fees for commercial tours are based on the total capacity of vehicles that carry 7 or more people, regardless of the actual number of passengers. Possession of an annual or lifetime pass, or"
+colm,Colorado National Monument,Commercial Entrance - Motor Coach,100.00,"The entry fees for commercial tours are based on the total capacity of vehicles that carry 7 or more people, regardless of the actual number of passengers. Possession of an annual or lifetime pass, or"
 colo,Colonial National Historical Park,Entrance - Per Person,15.00,Adult (16 and older) -$15; good for 7 days entrance to Yorktown Battlefield (and NPS areas at Historic Jamestowne); can be upgraded to see Preservation Virginia areas at Historic Jamestowne for an add
-crla,Crater Lake National Park,Entrance - Private Vehicle,30.00,"This is the summer entrance fee and is charged from mid-May through the end of October.  Admits one private, non-commercial vehicle (15-passenger capacity or less) and all occupants. Good for 7 days."
-crla,Crater Lake National Park,Entrance - Private Vehicle,20.00,"This is the winter entrance fee.  Admits one private, non-commercial vehicle (15-passenger capacity or less) and all occupants. Good for 7 days."
+crla,Crater Lake National Park,Entrance - Private Vehicle,30.00,"This is the summer entrance fee and is charged from mid-May through the end of October. Admits one private, non-commercial vehicle (15-passenger capacity or less) and all occupants. Good for 7 days."
+crla,Crater Lake National Park,Entrance - Private Vehicle,20.00,"This is the winter entrance fee. Admits one private, non-commercial vehicle (15-passenger capacity or less) and all occupants. Good for 7 days."
 crla,Crater Lake National Park,Entrance - Motorcycle,25.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers. Summer rate from mid-May to October 31st."
 crla,Crater Lake National Park,Entrance - Motorcycle,15.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers. Winter rate from 11/1 through mid-May."
 crla,Crater Lake National Park,Entrance - Per Person,15.00,"Admits one individual with no motor vehicle (bicyclist, hiker, pedestrian). Youth 15 and under are admitted free of charge. Good for 7 days."
 crla,Crater Lake National Park,Entrance - Snowmobile,15.00,Admits one individual on a snowmobile for travel on snow covered North Entrance Road closed to regular vehicle traffic. Youth 15 and under are admitted free of charge. Good for 7 days.
-crla,Crater Lake National Park,Commercial Entrance - Sedan,25.00,"Fees for commercial vehicles are based on the capacity of the vehicle, not the number of passengers on board.  In addition to the $25 per vehicle there is also a $15 per passenger charge."
+crla,Crater Lake National Park,Commercial Entrance - Sedan,25.00,"Fees for commercial vehicles are based on the capacity of the vehicle, not the number of passengers on board. In addition to the $25 per vehicle there is also a $15 per passenger charge."
 crla,Crater Lake National Park,Commercial Entrance - Van,75.00,"Fees for commercial vehicles are based on the capacity of the vehicle, not the number of passengers on board."
 crla,Crater Lake National Park,Commercial Entrance - Mini-bus,100.00,"Fees for commercial vehicles are based on the capacity of the vehicle, not the number of passengers on board."
 crla,Crater Lake National Park,Commercial Entrance - Motor Coach,200.00,"Fees for commercial vehicles are based on the capacity of the vehicle, not the number of passengers on board."
@@ -160,7 +140,7 @@ crmo,Craters Of The Moon National Monument & Preserve,Commercial Entrance - Moto
 crmo,Craters Of The Moon National Monument & Preserve,Commercial Entrance - Van,40.00,This per-vehicle fee applies to commercial vehicles and provides entrance into the park for seven consecutive days.
 cuis,Cumberland Island National Seashore,Entrance - Per Person,15.00,Cumberland Island National Seashore has a per-person entrance fee. This fee is waived for America the Beautiful pass holder plus three adults. Must present pass at time of check-in.
 dena,Denali National Park & Preserve,Entrance - Per Person,15.00,"Denali charges an entrance fee year-round. Youth age 15 or younger are free. For people age 16 or older, the $15 entrance fee provides a 7-day entrance permit. Be prepared to show your receipt or pass"
-deto,Devils Tower National Monument,Entrance - Private Vehicle,25.00,"Fee for a single, private, non-commercial vehicle and all its passengers.  Note: In summer it's a good idea to arrive at the entrance station before 10 am or after 4 pm to avoid congestion and find be"
+deto,Devils Tower National Monument,Entrance - Private Vehicle,25.00,"Fee for a single, private, non-commercial vehicle and all its passengers. Note: In summer it's a good idea to arrive at the entrance station before 10 am or after 4 pm to avoid congestion and find bet"
 deto,Devils Tower National Monument,Entrance - Motorcycle,20.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers. Note: In summer it's a good idea to arrive at the entrance station before 10 am or after 4 pm to avo"
 deto,Devils Tower National Monument,Entrance - Per Person,15.00,Admits one individual when entering on foot or bicycle. Individuals 15 years of age or younger are admitted free. This may also be used to calculate cost for organized non-profit groups (service organ
 deto,Devils Tower National Monument,Commercial Entrance - Sedan,25.00,"These entrance fees are based upon the seating capacity of the commercial tour vehicle - not the actual number of passengers. The fee is $25 plus $15/person, not to exceed $40."
@@ -170,15 +150,9 @@ deto,Devils Tower National Monument,Commercial Entrance - Motor Coach,100.00,The
 deva,Death Valley National Park,Entrance - Private Vehicle,30.00,"All visitors, including Non-US residents, may purchase and utilize this entrance fee. Purchasing this entrance fee allows all persons traveling in one single private, non-commercial vehicle (car/truck"
 deva,Death Valley National Park,Entrance - Motorcycle,25.00,"All visitors, including Non-US residents, may purchase and utilize this entrance fee. Purchasing this entrance fee allows all persons traveling on 2 private, non-commercial motorcycles to leave and re"
 deva,Death Valley National Park,Entrance - Per Person,15.00,"All visitors, including Non-US residents, may purchase and utilize this entrance fee. Purchasing this entrance fee allows a single individual traveling on foot or individuals traveling on one bicycle "
-deva,Death Valley National Park,Commercial Entrance - Per Person,15.00,"1 - 15 Passenger Vehicle: $15 per person.
-
-In addition to the entrance fees listed below, additional permits are required for commercial groups, special park uses (weddings, memorialization, group eve"
-deva,Death Valley National Park,Commercial Entrance - Mini-bus,100.00,"16 - 25 Passenger Vehicle: $100
-
-In addition to the entrance fees listed below, additional permits are required for commercial groups, special park uses (weddings, memorialization, group events, etc.)"
-deva,Death Valley National Park,Commercial Entrance - Motor Coach,200.00,"26 + Passenger Vehicle: $200
-
-In addition to the entrance fees listed below, additional permits are required for commercial groups, special park uses (weddings, memorialization, group events, etc.), c"
+deva,Death Valley National Park,Commercial Entrance - Per Person,15.00,"1 - 15 Passenger Vehicle: $15 per person. In addition to the entrance fees listed below, additional permits are required for commercial groups, special park uses (weddings, memorialization, group even"
+deva,Death Valley National Park,Commercial Entrance - Mini-bus,100.00,"16 - 25 Passenger Vehicle: $100 In addition to the entrance fees listed below, additional permits are required for commercial groups, special park uses (weddings, memorialization, group events, etc.),"
+deva,Death Valley National Park,Commercial Entrance - Motor Coach,200.00,"26 + Passenger Vehicle: $200 In addition to the entrance fees listed below, additional permits are required for commercial groups, special park uses (weddings, memorialization, group events, etc.), co"
 deva,Death Valley National Park,Entrance - Non-commercial Groups,15.00,"Non-commercial Groups (e.g., Scout groups, church groups, etc.) entering in a vehicle with a capacity of 16 persons or more are charged per-person for each person on board, not to exceed $200."
 deva,Death Valley National Park,Entrance - Education/Academic Groups,0.00,"National Park Service regulations allow school groups and other approved national and international academic institutions to obtain a waiver of Park entrance fees, provided that visit is for education"
 dewa,Delaware Water Gap National Recreation Area,Entrance - Private Vehicle,10.00,Entrance fee for beaches and boat launches. Fee is good for one vehicle and it's passengers (up to 7 people).
@@ -188,10 +162,7 @@ dino,Dinosaur National Monument,Entrance - Per Person,15.00,"Admits one individu
 dino,Dinosaur National Monument,Commercial Entrance - Van,50.00,Pass is valid for the day of purchase and the next six days for a vehicle carrying the same group of passengers. A commercial tour is defined as consisting of one or more persons traveling on an itine
 dino,Dinosaur National Monument,Commercial Entrance - Mini-bus,60.00,Pass is valid for the day of purchase and the next six days for a vehicle carrying the same group of passengers. A commercial tour is defined as consisting of one or more persons traveling on an itine
 dino,Dinosaur National Monument,Commercial Entrance - Motor Coach,150.00,Pass is valid for the day of purchase and the next six days for a vehicle carrying the same group of passengers. A commercial tour is defined as consisting of one or more persons traveling on an itine
-dino,Dinosaur National Monument,Entrance - Non-commercial Groups,25.00,"Non-commercial group fees (per vehicle): 
-Vehicle capacity of 15 or less: $25 
-Vehicle capacity of 16-25: $15 per person age 16 and older, not to exceed $60. 
-Vehicle capacity of 26+: $15 per person a"
+dino,Dinosaur National Monument,Entrance - Non-commercial Groups,25.00,"Non-commercial group fees (per vehicle): Vehicle capacity of 15 or less: $25 Vehicle capacity of 16-25: $15 per person age 16 and older, not to exceed $60. Vehicle capacity of 26+: $15 per person age "
 dino,Dinosaur National Monument,Entrance - Education/Academic Groups,0.00,"National Park Service regulations allow school groups and other bona fide national and international academic institutions to obtain a waiver for park entrance fees, provided that the visit is for edu"
 dino,Dinosaur National Monument,Commercial Entrance - Sedan,25.00,Pass is valid for the day of purchase and the next six days for a vehicle carrying the same group of passengers. A commercial tour is defined as consisting of one or more persons traveling on an itine
 dino,Dinosaur National Monument,Commercial Entrance - Per Person,15.00,Pass is valid for the day of purchase and the next six days for a vehicle carrying the same group of passengers. A commercial tour is defined as consisting of one or more persons traveling on an itine
@@ -221,12 +192,9 @@ fopu,Fort Pulaski National Monument,Entrance - Per Person,10.00,A per person fee
 fopu,Fort Pulaski National Monument,Commercial Entrance - Per Person,10.00,Commercial bus/van tours are charged the per person fee for the number of persons on board.
 fosu,Fort Sumter and Fort Moultrie National Historical Park,Entrance - Per Person,10.00,Fort Moultrie charges a per person entrance fee for adults. Anyone 16 years old or older is considered an adult.
 fova,Fort Vancouver National Historic Site,Entrance - Per Person,10.00,Day use/entrance fees are required for visitors ages 16 and up to access reconstructed Fort Vancouver. Federal Interagency Passes are accepted. There is no day use/entrance fee for visitors accessing 
-glac,Glacier National Park,Entrance - Private Vehicle,35.00,"(Winter Rate - $25.00, November 1 to April 30)
-This is an entrance fee for all persons traveling in a single, private, non-commercial vehicle (car/truck/van). The pass is good for seven days and is no"
-glac,Glacier National Park,Entrance - Per Person,20.00,"(Winter Rate - $15.00, November 1 to April 30)
-This is a per person entrance fee for a visitor traveling on foot, bicycle, or for individuals traveling together in a vehicle as a non-commercial, organ"
-glac,Glacier National Park,Entrance - Motorcycle,30.00,"(Winter Rate - $20.00, November 1 to April 30)
-Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
+glac,Glacier National Park,Entrance - Private Vehicle,35.00,"(Winter Rate - $25.00, November 1 to April 30) This is an entrance fee for all persons traveling in a single, private, non-commercial vehicle (car/truck/van). The pass is good for seven days and is no"
+glac,Glacier National Park,Entrance - Per Person,20.00,"(Winter Rate - $15.00, November 1 to April 30) This is a per person entrance fee for a visitor traveling on foot, bicycle, or for individuals traveling together in a vehicle as a non-commercial, organ"
+glac,Glacier National Park,Entrance - Motorcycle,30.00,"(Winter Rate - $20.00, November 1 to April 30) Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
 glac,Glacier National Park,Commercial Entrance - Sedan,25.00,"Entrance fees are based on the seating capacity of the vehicle (driver not included). Commercial Sedan entrance fee is $25, plus $20 per person, 16 years of age or older. The pass is good for seven da"
 glac,Glacier National Park,Commercial Entrance - Van,75.00,Entrance fees are based on the seating capacity of the vehicle (driver not included). Commercial Van entrance fee is $75 regardless of occupancy. The pass is good for seven days and is non-transferabl
 glac,Glacier National Park,Commercial Entrance - Mini-bus,100.00,Entrance fees are based on the seating capacity of the vehicle (driver not included). Commercial Mini-bus entrance fee is $100 regardless of occupancy. The pass is good for seven days and is non-trans
@@ -253,11 +221,7 @@ grca,Grand Canyon National Park,Nonresident,100.00,"Each non-US resident aged 16
 grfa,Great Falls Park,Entrance - Private Vehicle,20.00,"Includes driver and passengers. Admits one single, private, non-commercial vehicle and all its passengers. Organized groups are not eligible for the vehicle permit. Also valid for entrance into the Ch"
 grfa,Great Falls Park,Entrance - Motorcycle,15.00,"Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers. Individuals 15 years of age and younger are admitted free of charge. Also valid for entrance into the Chesapeake and O"
 grfa,Great Falls Park,Entrance - Per Person,10.00,"Applies only to people entering by foot, bicycle, or horse. Individuals 15 years of age and younger are admitted free of charge. Also valid for entrance into the Chesapeake and Ohio Canal National His"
-grfa,Great Falls Park,Entrance - Non-commercial Groups,100.00,"Includes church groups, college/school groups, scouts, service organizations, military, etc.
-
-All holders of annual passes and those under 15 years old will be exempt from payment of fees.
-
-Non-Commer"
+grfa,Great Falls Park,Entrance - Non-commercial Groups,100.00,"Includes church groups, college/school groups, scouts, service organizations, military, etc. All holders of annual passes and those under 15 years old will be exempt from payment of fees. Non-Commerci"
 grfa,Great Falls Park,Commercial Entrance - Van,40.00,Vehicles with capacity of 7-25 passengers: $40. (No per person fee)
 grfa,Great Falls Park,Commercial Entrance - Mini-bus,40.00,Vehicles with capacity of 7-25 passengers: $40. (No per person fee)
 grfa,Great Falls Park,Commercial Entrance - Sedan,25.00,Vehicles with capacity of 1-6 passengers: $25 plus $3 per person.
@@ -274,15 +238,9 @@ grte,Grand Teton National Park,Entrance - Private Vehicle,35.00,"Park entrance f
 grte,Grand Teton National Park,Entrance - Motorcycle,30.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
 grte,Grand Teton National Park,Entrance - Per Person,20.00,"Park entrance fee for 7 days for each visitor 16 years and older entering by foot, bicycle, ski, etc."
 grte,Grand Teton National Park,Commercial Entrance - Sedan,25.00,"A commercial tour is defined as consisting of one or more persons traveling on an itinerary that has been packaged, priced, or sold for leisure or recreational purposes by an organization that realize"
-grte,Grand Teton National Park,Commercial Entrance - Van,125.00,"Based upon the total capacity of a vehicle that can carry 7-15 passengers, regardless of the actual number of passengers. 
-
-A commercial tour is defined as consisting of one or more persons traveling "
-grte,Grand Teton National Park,Commercial Entrance - Mini-bus,200.00,"Based upon the total capacity of a vehicle that can carry 16-25 passengers, regardless of the actual number of passengers. 
-
-A commercial tour is defined as consisting of one or more persons traveling"
-grte,Grand Teton National Park,Commercial Entrance - Motor Coach,300.00,"Based upon the total capacity of a vehicle that can carry 26 or more passengers, regardless of the actual number of passengers. 
-
-A commercial tour is defined as consisting of one or more persons trav"
+grte,Grand Teton National Park,Commercial Entrance - Van,125.00,"Based upon the total capacity of a vehicle that can carry 7-15 passengers, regardless of the actual number of passengers. A commercial tour is defined as consisting of one or more persons traveling on"
+grte,Grand Teton National Park,Commercial Entrance - Mini-bus,200.00,"Based upon the total capacity of a vehicle that can carry 16-25 passengers, regardless of the actual number of passengers. A commercial tour is defined as consisting of one or more persons traveling o"
+grte,Grand Teton National Park,Commercial Entrance - Motor Coach,300.00,"Based upon the total capacity of a vehicle that can carry 26 or more passengers, regardless of the actual number of passengers. A commercial tour is defined as consisting of one or more persons travel"
 grte,Grand Teton National Park,Entrance - Education/Academic Groups,0.00,"Schools or other bona fide educational institutions (accredited, officially recognized, or tax exempt for educational purposes) may request an educational fee waiver. The fee waiver will allow qualify"
 grte,Grand Teton National Park,Nonresident,100.00,"Each non-US resident aged 16 and older visiting Grand Teton National Park must pay a $100 nonresident fee (in addition to the standard entrance fee), unless admitted with an Annual or America the Beau"
 guis,Gulf Islands National Seashore,Entrance - Private Vehicle,25.00,"Cost for up to six people in one vehicle. Good for seven days into any fee area in Florida, (Opal Beach, Johnson Beach, Fort Pickens)."
@@ -303,36 +261,21 @@ havo,Hawaiʻi Volcanoes National Park,Entrance - Private Vehicle,30.00,"Private 
 havo,Hawaiʻi Volcanoes National Park,Entrance - Motorcycle,25.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
 havo,Hawaiʻi Volcanoes National Park,Entrance - Per Person,15.00,"Pedestrian/Cyclist Pass - Admits one individual bicyclist, hiker, or pedestrian visiting without a private vehicle. An individual pass is not required for visitors aged 15 and under."
 havo,Hawaiʻi Volcanoes National Park,Commercial Entrance - Mini-bus,100.00,The commercial entrance fee for a Road Based Guided Tour is based on vehicle seating capacity. For a 16-25 passenger vehicle the user fee is $100.
-havo,Hawaiʻi Volcanoes National Park,Commercial Entrance - Motor Coach,200.00,"The commercial entrance fee for a Road Based Guided Tour is based on vehicle seating capacity. For a 26+ passenger vehicle the user fee is $200. 
-
-Large vehicles, defined as more than 26 feet in lengt"
+havo,Hawaiʻi Volcanoes National Park,Commercial Entrance - Motor Coach,200.00,"The commercial entrance fee for a Road Based Guided Tour is based on vehicle seating capacity. For a 26+ passenger vehicle the user fee is $200. Large vehicles, defined as more than 26 feet in length "
 havo,Hawaiʻi Volcanoes National Park,Commercial Entrance - Per Person,15.00,"$15 per person for Commercial Non-Road Based Guided Tours. This includes hiking more than one mile on one trail, bird watching on foot for more than one hour at one location, and/or or bicycling tours"
-hofr,Home Of Franklin D Roosevelt National Historic Site,Entrance - Per Person,15.00,"Entrance to the Home of FDR is by guided tour only.  Tickets are sold on a first come, first served basis.  There are no advanced reservations for individuals."
+hofr,Home Of Franklin D Roosevelt National Historic Site,Entrance - Per Person,15.00,"Entrance to the Home of FDR is by guided tour only. Tickets are sold on a first come, first served basis. There are no advanced reservations for individuals."
 hofr,Home Of Franklin D Roosevelt National Historic Site,Entrance - Per Person,15.00,"The Franklin D. Roosevelt Presidential Library and Museum is open 7 days a week, from 9:00 a.m. to 5:00 p.m. (NOV-MAR) and 9:00 a.m. to 6:00 p.m. (APR-OCT). Online tickets may be purchased at the link"
 hove,Hovenweep National Monument,Entrance - Private Vehicle,20.00,Entry fee is valid for 7 days and grants entry for driver and passengers in one private vehicle. Does not cover camping costs.
 hove,Hovenweep National Monument,Entrance - Motorcycle,15.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
 hove,Hovenweep National Monument,Entrance - Per Person,10.00,Admits one individual with no car. This fee type is typically used for bicyclists and pedestrians. Youth 15 and under are admitted free. Entry fee is valid for 7 days.
 indu,Indiana Dunes National Park,Entrance - Motorcycle,20.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
-indu,Indiana Dunes National Park,Entrance - Private Vehicle,25.00,"7-Day Park Entrance Fee - Family-Size Vehicle
-
-Per private family-sized vehicle (valid for 1-7 days from date of purchase)."
-indu,Indiana Dunes National Park,Entrance - Per Person,15.00,"7-Day Per Person Entrance Fee (Organized, non-commercial groups)
-
-Visitors 16 years of age or older who enter on foot, bicycle, boat, or as part of an organized group not involved in a commercial tour"
-indu,Indiana Dunes National Park,Commercial Entrance - Sedan,25.00,"Entry for commercial sedans with 6 or less people. 
-
-Cost is $25.00 plus $15 per person (not to exceed next highest rate)."
-indu,Indiana Dunes National Park,Commercial Entrance - Van,40.00,"Commercial Tour Fee - Van (7-15 persons) - $40.00
-
-Entry for commercial vans with 7-15 people."
-indu,Indiana Dunes National Park,Commercial Entrance - Mini-bus,40.00,"Commercial Tour Fee - Mini Bus (16-25 persons) - $40.00
-
-Entry for commercial mini bus with 16-25 people."
-indu,Indiana Dunes National Park,Commercial Entrance - Motor Coach,100.00,"Commercial Tour Fee - Motor Coach (26+ persons) - $100.00
-Entry for commercial motor coaches with 26+ persons."
-isro,Isle Royale National Park,Entrance - Per Person,7.00,"$7 per person per day to enter or remain in Isle Royale National Park. Children 15 and younger are exempt.
-
-Visiting Park Headquarters in Houghton, MI does not require a fee."
+indu,Indiana Dunes National Park,Entrance - Private Vehicle,25.00,7-Day Park Entrance Fee - Family-Size Vehicle Per private family-sized vehicle (valid for 1-7 days from date of purchase).
+indu,Indiana Dunes National Park,Entrance - Per Person,15.00,"7-Day Per Person Entrance Fee (Organized, non-commercial groups) Visitors 16 years of age or older who enter on foot, bicycle, boat, or as part of an organized group not involved in a commercial tour."
+indu,Indiana Dunes National Park,Commercial Entrance - Sedan,25.00,Entry for commercial sedans with 6 or less people. Cost is $25.00 plus $15 per person (not to exceed next highest rate).
+indu,Indiana Dunes National Park,Commercial Entrance - Van,40.00,Commercial Tour Fee - Van (7-15 persons) - $40.00 Entry for commercial vans with 7-15 people.
+indu,Indiana Dunes National Park,Commercial Entrance - Mini-bus,40.00,Commercial Tour Fee - Mini Bus (16-25 persons) - $40.00 Entry for commercial mini bus with 16-25 people.
+indu,Indiana Dunes National Park,Commercial Entrance - Motor Coach,100.00,Commercial Tour Fee - Motor Coach (26+ persons) - $100.00 Entry for commercial motor coaches with 26+ persons.
+isro,Isle Royale National Park,Entrance - Per Person,7.00,"$7 per person per day to enter or remain in Isle Royale National Park. Children 15 and younger are exempt. Visiting Park Headquarters in Houghton, MI does not require a fee."
 jame,Historic Jamestowne Part of Colonial National Historical Park,Entrance - Per Person,15.00,Adult (16 and older) -$15; good for 7 days entrance to Yorktown Battlefield (and NPS areas at Historic Jamestowne); can be upgraded to see Preservation Virginia areas at Historic Jamestowne for an add
 jotr,Joshua Tree National Park,Entrance - Private Vehicle,30.00,"7-day vehicle permit, admitting the passengers of a single, non-commercial vehicle on the day of purchase and for the next six days."
 jotr,Joshua Tree National Park,Entrance - Motorcycle,25.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
@@ -406,33 +349,21 @@ pais,Padre Island National Seashore,Commercial Entrance - Van,40.00,Pass is vali
 pais,Padre Island National Seashore,Commercial Entrance - Mini-bus,40.00,Pass is valid for the day of purchase and the next six days for a vehicle carrying the same group of passengers. The entry fees of commercial tours are based upon the total capacity of vehicles that c
 pais,Padre Island National Seashore,Commercial Entrance - Motor Coach,100.00,Pass is valid for the day of purchase and the next six days for a vehicle carrying the same group of passengers. The entry fees of commercial tours are based upon the total capacity of vehicles that c
 pais,Padre Island National Seashore,Entrance - Private Vehicle,25.00,"Admits the passholder and up to 15 passengers in the same private (non-commercial) vehicle. It expires one week from the date of purchase. For private vehicles, this entrance pass is required for over"
-pais,Padre Island National Seashore,Entrance - Motorcycle,20.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers. For motorcyclists, this entrance pass is required for overnight camping.
-
-A 1-day entrance pass is a"
+pais,Padre Island National Seashore,Entrance - Motorcycle,20.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers. For motorcyclists, this entrance pass is required for overnight camping. A 1-day entrance pass is av"
 pais,Padre Island National Seashore,Entrance - Per Person,15.00,"Admits one individual bicyclist, hiker, or pedestrian visiting the facility without a private vehicle. An individual pass is not required for visitors aged 15 and under. It expires one week from the d"
 pais,Padre Island National Seashore,Entrance - Non-commercial Groups,15.00,Non-commercial groups traveling in a vehicle with a capacity of 16 persons or more are charged per person. This entrance pass is valid for one week from the date of purchase. Fees will not exceed the 
 pefo,Petrified Forest National Park,Entrance - Private Vehicle,25.00,"Admits one private, non-commercial vehicle (15-passenger capacity or less) and all occupants. Valid for 7 days."
 pefo,Petrified Forest National Park,Entrance - Per Person,15.00,"Admits one individual with no motor vehicle (bicyclist, hiker, pedestrian). Youth 15 and under are admitted free of charge. Valid for 7 days."
 pefo,Petrified Forest National Park,Entrance - Motorcycle,20.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
-pefo,Petrified Forest National Park,Commercial Entrance - Sedan,25.00,"$25 flat fee + $10 per person (Sedans, SUVs, Minivans)
-
-If you are conducting an income generating tour of the park, you are subject to commercial tour fees. Fees for commercial vehicles are based on "
-pefo,Petrified Forest National Park,Commercial Entrance - Per Person,10.00,"$25 flat fee + $10 per person (Sedans, SUVs, Minivans)
-
-If you are conducting an income generating tour of the park, you are subject to commercial tour fees. Fees for commercial vehicles are based on "
-pefo,Petrified Forest National Park,Commercial Entrance - Van,50.00,"Capacity of 7 to 15 passengers - $50 (Vans).
-
-If you are conducting an income generating tour of the park, you are subject to commercial tour fees. Fees for commercial vehicles are based on the capaci"
-pefo,Petrified Forest National Park,Commercial Entrance - Mini-bus,60.00,"Capacity of 16-25 passengers - $60
-
-If you are conducting an income generating tour of the park, you are subject to commercial tour fees. Fees for commercial vehicles are based on the capacity of the "
-pefo,Petrified Forest National Park,Commercial Entrance - Motor Coach,150.00,"Capacity of 26+ passengers - $150 (Large tour buses, motorcoaches).
-
-If you are conducting an income generating tour of the park, you are subject to commercial tour fees. Fees for commercial vehicles "
-pefo,Petrified Forest National Park,Entrance - Non-commercial Groups,15.00,"Capacity of 16 or more $15/person.  Anyone that is 15 or younger is exempt from paying an entrance fee, in addition to anyone with a valid pass. A pass may cover immediate family members or up to 4 pe"
+pefo,Petrified Forest National Park,Commercial Entrance - Sedan,25.00,"$25 flat fee + $10 per person (Sedans, SUVs, Minivans) If you are conducting an income generating tour of the park, you are subject to commercial tour fees. Fees for commercial vehicles are based on t"
+pefo,Petrified Forest National Park,Commercial Entrance - Per Person,10.00,"$25 flat fee + $10 per person (Sedans, SUVs, Minivans) If you are conducting an income generating tour of the park, you are subject to commercial tour fees. Fees for commercial vehicles are based on t"
+pefo,Petrified Forest National Park,Commercial Entrance - Van,50.00,"Capacity of 7 to 15 passengers - $50 (Vans). If you are conducting an income generating tour of the park, you are subject to commercial tour fees. Fees for commercial vehicles are based on the capacit"
+pefo,Petrified Forest National Park,Commercial Entrance - Mini-bus,60.00,"Capacity of 16-25 passengers - $60 If you are conducting an income generating tour of the park, you are subject to commercial tour fees. Fees for commercial vehicles are based on the capacity of the v"
+pefo,Petrified Forest National Park,Commercial Entrance - Motor Coach,150.00,"Capacity of 26+ passengers - $150 (Large tour buses, motorcoaches). If you are conducting an income generating tour of the park, you are subject to commercial tour fees. Fees for commercial vehicles a"
+pefo,Petrified Forest National Park,Entrance - Non-commercial Groups,15.00,"Capacity of 16 or more $15/person. Anyone that is 15 or younger is exempt from paying an entrance fee, in addition to anyone with a valid pass. A pass may cover immediate family members or up to 4 peo"
 pinn,Pinnacles National Park,Entrance - Private Vehicle,30.00,"This pass is valid for 1-7 days and includes everyone traveling in a single, private (non-commercial) vehicle up to 15 passengers to Pinnacles East Entrance and West Entrance."
 pinn,Pinnacles National Park,Entrance - Motorcycle,25.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles, scooters, or similar motorized vehicles with up to 4 total passengers to Pinnacles East Entrance and West Entrance."
-pinn,Pinnacles National Park,Entrance - Per Person,15.00,This entry fee is for a single person traveling on foot or by bicycle.  It is valid for 1-7 days to Pinnacles East Entrance and West Entrance.
+pinn,Pinnacles National Park,Entrance - Per Person,15.00,This entry fee is for a single person traveling on foot or by bicycle. It is valid for 1-7 days to Pinnacles East Entrance and West Entrance.
 pinn,Pinnacles National Park,Entrance - Non-commercial Groups,15.00,Non-commercial groups traveling in vehicles that have a capacity of 16 passengers or more pay $15 per person up to the maximums listed for commercial groups with comparable passenger capacity ($40 or 
 pinn,Pinnacles National Park,Commercial Entrance - Sedan,30.00,"The charge for vehicles with a seating capacity of 1-6 passengers is $30. This entrance fee is for commercial tours of one or more people traveling on an itinerary that has been packaged, priced, or s"
 pinn,Pinnacles National Park,Commercial Entrance - Van,40.00,"This entrance fee is for commercial tours of vehicles with a seating capacity of 7-15 people that has been packaged, priced, or sold for leisure or recreational puposes by an organization that realize"
@@ -447,7 +378,7 @@ piro,Pictured Rocks National Lakeshore,Commercial Entrance - Sedan,25.00,"This a
 piro,Pictured Rocks National Lakeshore,Commercial Entrance - Van,40.00,"This pass admits a commercial van with a capacity of 7-16 persons, regardless of capacity, to all parts of Pictured Rocks National Lakeshore. This fee does not cover additional fees associated with ac"
 piro,Pictured Rocks National Lakeshore,Commercial Entrance - Mini-bus,40.00,This fee admits a commercial mini-bus to all parts of Pictured Rocks National Lakeshore. A mini-bus is defined as a vehicle with a 16-25 person capacity. The fee is charged regardless of occupancy of 
 piro,Pictured Rocks National Lakeshore,Commercial Entrance - Motor Coach,100.00,"This fee applies to commercial vehicles with a 26+ person vehicle capacity, regardless of occupancy. This fee does not cover additional fees associated with activities such as camping or commercial to"
-pisp,Pipe Spring National Monument,Entrance - Per Person,10.00,There is a $10 fee per person 16 years of age and older.  Children under 15 enter for free.  This fee includes a $3/person Tribal use fee to the Kaibab Band of Paiute Indians.  All Interagency Passes 
+pisp,Pipe Spring National Monument,Entrance - Per Person,10.00,There is a $10 fee per person 16 years of age and older. Children under 15 enter for free. This fee includes a $3/person Tribal use fee to the Kaibab Band of Paiute Indians. All Interagency Passes are
 prwi,Prince William Forest Park,Entrance - Private Vehicle,20.00,Valid seven (7) consecutive days.
 prwi,Prince William Forest Park,Entrance - Motorcycle,15.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
 prwi,Prince William Forest Park,Entrance - Per Person,10.00,Valid seven (7) consecutive days.
@@ -457,8 +388,7 @@ puho,Puʻuhonua o Hōnaunau National Historical Park,Entrance - Per Person,10.00
 puho,Puʻuhonua o Hōnaunau National Historical Park,Entrance - Education/Academic Groups,0.00,"Academic institutions may be eligible for a fee waiver by simply filling out sections 1, 2, and 5 of our educational fee waiver application. If an educational fee waiver is not obtained, the standard "
 puho,Puʻuhonua o Hōnaunau National Historical Park,Entrance - Non-commercial Groups,10.00,Non-commercial groups entering the park in a bus or vehicle with a capacity of 16 persons or more will be charged $10.00 for each person on board.
 puho,Puʻuhonua o Hōnaunau National Historical Park,Commercial Entrance - Per Person,10.00,All commercial tours that enter the park on a regular basis must have a Commercial Use Authorization (CUA) and are required to pay the commercial tour fee at the entrance station at each visit. For mo
-rigr,Rio Grande Wild & Scenic River,Entrance - Private Vehicle,30.00,"Entrance Fee to Big Bend National Park.
-This fee includes all occupants of a private, non-commercial vehicle and is valid for 7 days"
+rigr,Rio Grande Wild & Scenic River,Entrance - Private Vehicle,30.00,"Entrance Fee to Big Bend National Park. This fee includes all occupants of a private, non-commercial vehicle and is valid for 7 days"
 romo,Rocky Mountain National Park,Entrance - Private Vehicle,30.00,1-Day Vehicle Entrance Pass. This pass is valid for one private vehicle to enter RMNP for one day only. All passengers inside the vehicle are covered. Park entrance passes may be purchased in person a
 romo,Rocky Mountain National Park,Entrance - Private Vehicle,35.00,7-Day Vehicle Entrance Pass. This vehicle entrance pass is valid for one vehicle to enter RMNP for 7 consecutive days. All passengers inside the vehicle are covered. Park entrance passes may be purcha
 romo,Rocky Mountain National Park,Entrance - Per Person,15.00,"1-Day Per Person Entrance Pass. This park entrance fee is for individuals, walk-ins, bicycles, and non-commercial groups to enter RMNP for 1-day only. Park entrance passes may be purchased in person a"
@@ -489,18 +419,10 @@ shen,Shenandoah National Park,Commercial Entrance - Mini-bus,100.00,"Based upon 
 shen,Shenandoah National Park,Commercial Entrance - Motor Coach,200.00,"Based upon the total capacity of a vehicle that can carry 26 or more passengers, regardless of the actual number of passengers."
 shen,Shenandoah National Park,Entrance - Education/Academic Groups,0.00,"National Park Service regulations allow school groups and other approved national and international academic institutions to obtain a waiver of Park entrance fees, provided that visit is for education"
 shen,Shenandoah National Park,Entrance - Non-commercial Groups,15.00,Fee is calculated per person for anyone 16 years of age or older (children under 16 are admitted for free). Groups will not be charged more than the equivalent commercial group fee.
-slbe,Sleeping Bear Dunes National Lakeshore,Commercial Entrance - Sedan,25.00,"Sedan
-1-6 Person Capacity
-$25.00 + $10.00 Per Person 16 years or older (up to a maximum of $40.00)"
-slbe,Sleeping Bear Dunes National Lakeshore,Commercial Entrance - Van,40.00,"Van
-7-15 Person Capacity
-$40.00"
-slbe,Sleeping Bear Dunes National Lakeshore,Commercial Entrance - Mini-bus,40.00,"Mini Bus
-16-25 Person Capacity
-$40.00"
-slbe,Sleeping Bear Dunes National Lakeshore,Commercial Entrance - Motor Coach,100.00,"Motorcoach
-26+ Person Capacity
-$100.00"
+slbe,Sleeping Bear Dunes National Lakeshore,Commercial Entrance - Sedan,25.00,Sedan 1-6 Person Capacity $25.00 + $10.00 Per Person 16 years or older (up to a maximum of $40.00)
+slbe,Sleeping Bear Dunes National Lakeshore,Commercial Entrance - Van,40.00,Van 7-15 Person Capacity $40.00
+slbe,Sleeping Bear Dunes National Lakeshore,Commercial Entrance - Mini-bus,40.00,Mini Bus 16-25 Person Capacity $40.00
+slbe,Sleeping Bear Dunes National Lakeshore,Commercial Entrance - Motor Coach,100.00,Motorcoach 26+ Person Capacity $100.00
 slbe,Sleeping Bear Dunes National Lakeshore,Entrance - Private Vehicle,25.00,Entrance pass - vehicle 1-7 day.
 slbe,Sleeping Bear Dunes National Lakeshore,Entrance - Motorcycle,20.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
 slbe,Sleeping Bear Dunes National Lakeshore,Entrance - Per Person,15.00,"If you enter the park on a bicycle or on foot and are at least 16 years old, you need your own entrance pass. Children under the age of 16 don't need an entrance pass."
@@ -522,18 +444,14 @@ tont,Tonto National Monument,Entrance - Per Person,10.00,Tonto National Monument
 tont,Tonto National Monument,Entrance - Education/Academic Groups,0.00,Education groups may be granted an educational fee waiver. All requests and documentation must be submitted at least 2 weeks in advance of the school's planned visit.
 tuma,Tumacácori National Historical Park,Entrance - Per Person,10.00,The park entrance fee is $10.00 per adult (age 16 or older) and is good for 7 days. The entrance pass is valid for seven days.
 tuma,Tumacácori National Historical Park,Entrance - Education/Academic Groups,0.00,Accredited school groups coming for educational purposes are exempt from the normal entrance fees.
-tuzi,Tuzigoot National Monument,Entrance - Per Person,10.00,"Tuzigoot Entrance Fee - Per Adult - $10.00
-
-This entrance fee covers one adult, aged 16 and over, for entrance to Montezuma Castle and Tuzigoot National Monuments for 7 days."
+tuzi,Tuzigoot National Monument,Entrance - Per Person,10.00,"Tuzigoot Entrance Fee - Per Adult - $10.00 This entrance fee covers one adult, aged 16 and over, for entrance to Montezuma Castle and Tuzigoot National Monuments for 7 days."
 vall,Valles Caldera National Preserve,Entrance - Private Vehicle,25.00,The entrance fee for a private vehicle covers seven consecutive days of entrance to Valles Caldera National Preserve.
 vall,Valles Caldera National Preserve,Entrance - Motorcycle,20.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
 vall,Valles Caldera National Preserve,Entrance - Per Person,15.00,The per-person entrance fee covers seven consecutive days of entrance to Valles Caldera National Preserve.
 vama,Vanderbilt Mansion National Historic Site,Entrance - Per Person,15.00,Entrance to the Vanderbilt Mansion is by guided tour only.
 vick,Vicksburg National Military Park,Entrance - Private Vehicle,20.00,"This pass admits the driver and all passengers in a private, non-commercial vehicle to the park."
 vick,Vicksburg National Military Park,Entrance - Motorcycle,15.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers. The park requires all visitors to pay an entrance fee except children under 16 years of age."
-vick,Vicksburg National Military Park,Entrance - Per Person,10.00,"Good for 7 days 
-
-You are purchasing a digital site pass that is valid only for weekly entrance fees at Vicksburg National Military Park. The park requires all visitors to pay an entrance fee except c"
+vick,Vicksburg National Military Park,Entrance - Per Person,10.00,Good for 7 days You are purchasing a digital site pass that is valid only for weekly entrance fees at Vicksburg National Military Park. The park requires all visitors to pay an entrance fee except chi
 vick,Vicksburg National Military Park,Entrance - Non-commercial Groups,0.00,"$10 per person, not to exceed commercial group rate."
 vick,Vicksburg National Military Park,Commercial Entrance - Sedan,25.00,$25.00 plus $10 per passenger (not to exceed $40).
 vick,Vicksburg National Military Park,Commercial Entrance - Van,40.00,As provided by non-NPS charter tour companies.
@@ -557,7 +475,7 @@ whsa,White Sands National Park,Commercial Entrance - Van,50.00,Commercial bus/va
 whsa,White Sands National Park,Commercial Entrance - Mini-bus,60.00,Commercial bus/van tours are charged a flat rate based on the capacity of the vehicle (not the number of persons on board).
 whsa,White Sands National Park,Commercial Entrance - Motor Coach,150.00,Commercial bus/van tours are charged a flat rate based on the capacity of the vehicle (not the number of persons on board).
 wrbr,Wright Brothers National Memorial,Entrance - Per Person,10.00,"Fee is charged per-person, NOT per vehicle. Ages 15 and younger are free of charge."
-wrbr,Wright Brothers National Memorial,Commercial Entrance - Sedan,25.00,$25 plus $7 per person.  Sedans have a capacity of 1-6 people.
+wrbr,Wright Brothers National Memorial,Commercial Entrance - Sedan,25.00,$25 plus $7 per person. Sedans have a capacity of 1-6 people.
 wrbr,Wright Brothers National Memorial,Commercial Entrance - Van,40.00,A flat fee for all Van/ Small Bus with a seating capacity of 7-16 passengers
 wrbr,Wright Brothers National Memorial,Commercial Entrance - Mini-bus,40.00,Fee is charged for any commercial vehicle with a capacity of 16-25 individuals.
 wrbr,Wright Brothers National Memorial,Commercial Entrance - Motor Coach,100.00,Fees charged for commercial vehicles with a capacity of over 26 individuals.

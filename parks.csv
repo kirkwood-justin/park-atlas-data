@@ -49,7 +49,7 @@ blsc,Blackwell School National Historic Site,National Historic Site,Historic Sit
 blue,Bluestone National Scenic River,National Scenic River,Rivers & Riverways,WV,12446,False,False,False,109,0,37.56577087,-80.98366657
 boaf,Boston African American National Historic Site,National Historic Site,Historic Sites,MA,365864,False,False,False,,0,42.35908295,-71.06764181
 boha,Boston Harbor Islands National Recreation Area,National Recreation Area,Recreation Areas,MA,4276,False,False,False,84,1,42.30905526,-70.93941138
-bost,Boston National Historical Park,National Historical Park,Historical Parks,MA,2383812,False,False,False,,3,42.36957407,-71.05536763
+bost,Boston National Historical Park,National Historical Park,Historical Parks,MA,2383812,False,False,False,,2,42.36957407,-71.05536763
 bowa,Booker T Washington National Monument,National Monument,Monuments,VA,21698,False,False,False,123,0,37.11520539,-79.73185833
 brca,Bryce Canyon National Park,National Park,National Parks,UT,1967367,True,False,True,203,2,37.58399144,-112.1826689
 brcr,Brices Cross Roads National Battlefield Site,National Battlefield Site,Battlefields & Military Parks,MS,,False,False,False,,0,34.50611958,-88.72889343
@@ -101,13 +101,13 @@ cibs,Carlisle Federal Indian Boarding School National Monument,National Monument
 ciro,City Of Rocks National Reserve,National Reserve,Preserves & Reserves,ID,90898,False,False,False,164,0,42.0699024,-113.7124097
 clba,Clara Barton National Historic Site,National Historic Site,Historic Sites,MD,11309,False,False,False,,1,38.96762882,-77.14009689
 coga,Constitution Gardens,Park Unit,Other,DC,,False,False,False,6,0,38.8909354,-77.04409306
-colm,Colorado National Monument,National Monument,Monuments,CO,483436,False,False,True,164,2,39.05045016,-108.6920709
+colm,Colorado National Monument,National Monument,Monuments,CO,483436,False,False,True,164,1,39.05045016,-108.6920709
 colo,Colonial National Historical Park,National Historical Park,Historical Parks,VA,1582994,False,False,True,262,1,37.22824435,-76.61998123
 colt,Coltsville National Historical Park,National Historical Park,Historical Parks,CT,,False,False,False,,2,41.756169,-72.663338
 cong,Congaree National Park,National Park,National Parks,SC,287833,False,False,False,191,4,33.79187523,-80.74867805
 coro,Coronado National Memorial,National Memorial,Memorials,AZ,179216,False,False,False,178,2,31.34900397,-110.2561574
 cowp,Cowpens National Battlefield,National Battlefield,Battlefields & Military Parks,SC,175020,False,False,False,104,1,35.13160654,-81.80935433
-crla,Crater Lake National Park,National Park,National Parks,OR,632242,False,False,True,210,2,42.94065854,-122.1338414
+crla,Crater Lake National Park,National Park,National Parks,OR,632242,False,False,True,210,3,42.94065854,-122.1338414
 crmo,Craters Of The Moon National Monument & Preserve,National Monument & Preserve,Preserves & Reserves,ID,260418,True,False,True,219,1,43.20345611,-113.4791609
 cuga,Cumberland Gap National Historical Park,National Historical Park,Historical Parks,KY|TN|VA,765010,False,False,False,156,1,36.62503076,-83.6114083
 cuis,Cumberland Island National Seashore,National Seashore,Seashores & Lakeshores,GA,60299,False,False,True,322,3,30.85857484,-81.45253575
@@ -455,7 +455,7 @@ whho,The White House and President's Park,Park Unit,Other,DC,311213,False,False,
 whis,Whiskeytown National Recreation Area,National Recreation Area,Recreation Areas,CA,763798,False,False,True,192,2,40.61359941,-122.6022657
 whmi,Whitman Mission National Historic Site,National Historic Site,Historic Sites,WA,54089,False,False,False,221,1,46.04119286,-118.4629388
 whsa,White Sands National Park,National Park,National Parks,NM,659742,False,False,True,151,5,32.77907858,-106.3333461
-wica,Wind Cave National Park,National Park,National Parks,SD,606258,False,False,False,217,3,43.58012365,-103.4394709
+wica,Wind Cave National Park,National Park,National Parks,SD,606258,False,False,False,217,4,43.58012365,-103.4394709
 wicl,President William Jefferson Clinton Birthplace Home National Historic Site,National Historic Site,Historic Sites,AR,6821,False,False,False,,0,33.66758356,-93.59641868
 wicr,Wilson's Creek National Battlefield,National Battlefield,Battlefields & Military Parks,MO,370558,False,False,False,134,2,37.1000127,-93.40986704
 wiho,William Howard Taft National Historic Site,National Historic Site,Historic Sites,OH,18121,False,False,False,,1,39.11970352,-84.50758951
