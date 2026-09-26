@@ -13,7 +13,7 @@ anti,Antietam National Battlefield,Entrance - Motorcycle,15.00,"Valid for 3 days
 anti,Antietam National Battlefield,Commercial Entrance - Motor Coach,100.00,$100 Motor Coach/Commercial Tour Groups with 26 or more people
 anti,Antietam National Battlefield,Commercial Entrance - Mini-bus,40.00,$40 per passenger bus with 16-25 people
 anti,Antietam National Battlefield,Commercial Entrance - Sedan,25.00,$25 per passenger bus/sedan with 1-6 people
-anti,Antietam National Battlefield,Entrance - Education/Academic Groups,0.00,"To request an Academic Fee Waiver for your group, click on the link for further details."
+anti,Antietam National Battlefield,Entrance - Education/Academic Groups,0.00,
 arch,Arches National Park,Entrance - Private Vehicle,30.00,"Admits one private, non-commercial vehicle (15 passenger capacity or less) and all its occupants."
 arch,Arches National Park,Entrance - Motorcycle,25.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
 arch,Arches National Park,Entrance - Per Person,15.00,"Admits one individual with no car. Typically used for bicyclists, hikers, and pedestrians. Youth 15 and under are admitted free."
@@ -265,9 +265,9 @@ havo,Hawaiʻi Volcanoes National Park,Entrance - Motorcycle,25.00,"Valid for 7 d
 havo,Hawaiʻi Volcanoes National Park,Entrance - Per Person,15.00,"Pedestrian/Cyclist Pass - Admits one individual bicyclist, hiker, or pedestrian visiting without a private vehicle. An individual pass is not required for visitors aged 15 and under."
 havo,Hawaiʻi Volcanoes National Park,Commercial Entrance - Mini-bus,100.00,The commercial entrance fee for a Road Based Guided Tour is based on vehicle seating capacity. For a 16-25 passenger vehicle the user fee is $100.
 havo,Hawaiʻi Volcanoes National Park,Commercial Entrance - Motor Coach,200.00,"The commercial entrance fee for a Road Based Guided Tour is based on vehicle seating capacity. For a 26+ passenger vehicle the user fee is $200. Large vehicles, defined as more than 26 feet in length "
-havo,Hawaiʻi Volcanoes National Park,Commercial Entrance - Per Person,15.00,"$15 per person for Commercial Non-Road Based Guided Tours. This includes hiking more than one mile on one trail, bird watching on foot for more than one hour at one location, and/or or bicycling tours"
+havo,Hawaiʻi Volcanoes National Park,Commercial Entrance - Per Person,15.00,"$15 per person for Commercial Non-Road Based Guided Tours. This includes hiking more than one mile on one trail, bird watching on foot for more than one hour at one location, and/or bicycling tours."
 hofr,Home Of Franklin D Roosevelt National Historic Site,Entrance - Per Person,15.00,"Entrance to the Home of FDR is by guided tour only. Tickets are sold on a first come, first served basis. There are no advanced reservations for individuals."
-hofr,Home Of Franklin D Roosevelt National Historic Site,Entrance - Per Person,15.00,"The Franklin D. Roosevelt Presidential Library and Museum is open 7 days a week, from 9:00 a.m. to 5:00 p.m. (NOV-MAR) and 9:00 a.m. to 6:00 p.m. (APR-OCT). Online tickets may be purchased at the link"
+hofr,Home Of Franklin D Roosevelt National Historic Site,Entrance - Per Person,15.00,"The Franklin D. Roosevelt Presidential Library and Museum is open 7 days a week, from 9:00 a.m. to 5:00 p.m. (NOV-MAR) and 9:00 a.m. to 6:00 p.m. (APR-OCT). You will receive an email confirmation afte"
 hove,Hovenweep National Monument,Entrance - Private Vehicle,20.00,Entry fee is valid for 7 days and grants entry for driver and passengers in one private vehicle. Does not cover camping costs.
 hove,Hovenweep National Monument,Entrance - Motorcycle,15.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
 hove,Hovenweep National Monument,Entrance - Per Person,10.00,Admits one individual with no car. This fee type is typically used for bicyclists and pedestrians. Youth 15 and under are admitted free. Entry fee is valid for 7 days.
@@ -285,7 +285,7 @@ jotr,Joshua Tree National Park,Entrance - Motorcycle,25.00,"Valid for 7 days. Ad
 jotr,Joshua Tree National Park,Entrance - Per Person,15.00,"7-day entrance fee, per person on foot or bike."
 kemo,Kennesaw Mountain National Battlefield Park,Entrance - Private Vehicle,5.00,"The Daily Pass is valid for the date of purchase only. It admits all persons traveling in a single, private, non-commercial vehicle (car/truck/van) and is non-transferable. This pass does NOT guarante"
 kemo,Kennesaw Mountain National Battlefield Park,Entrance - Per Person,5.00,The Daily Pass is valid for the date of purchase only. It admits all walk-in visitors aged 16 and older.
-kemo,Kennesaw Mountain National Battlefield Park,Entrance - Education/Academic Groups,0.00,"To request an Academic Fee Waiver for your group, click on the link for further details."
+kemo,Kennesaw Mountain National Battlefield Park,Entrance - Education/Academic Groups,0.00,
 kemo,Kennesaw Mountain National Battlefield Park,Commercial Entrance - Motor Coach,100.00,$100 Motor Coach/Commercial Tour Groups with 26 or more people
 kemo,Kennesaw Mountain National Battlefield Park,Commercial Entrance - Mini-bus,40.00,$40 per passenger bus with 16-25 people
 kemo,Kennesaw Mountain National Battlefield Park,Commercial Entrance - Sedan,25.00,$25 per passenger bus/sedan with 1-6 people
