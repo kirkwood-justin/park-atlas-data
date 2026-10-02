@@ -34,7 +34,7 @@ blca,Black Canyon Of The Gunnison National Park,174,59
 blri,Blue Ridge Parkway,241,72
 blue,Bluestone National Scenic River,109,43
 boha,Boston Harbor Islands National Recreation Area,84,11
-bowa,Booker T Washington National Monument,123,32
+bowa,Booker T. Washington National Monument,123,32
 brca,Bryce Canyon National Park,203,61
 buff,Buffalo National River,211,58
 buis,Buck Island Reef National Monument,37,1
@@ -59,7 +59,7 @@ chat,Chattahoochee River National Recreation Area,191,41
 chch,Chickamauga & Chattanooga National Military Park,175,52
 chcu,Chaco Culture National Historical Park,149,50
 chic,Chickasaw National Recreation Area,84,23
-chir,Chiricahua National Monument,0,77
+chir,Chiricahua National Monument,191,77
 chis,Channel Islands National Park,354,42
 choh,Chesapeake & Ohio Canal National Historical Park,181,37
 chpi,Charles Pinckney National Historic Site,0,16
@@ -106,6 +106,7 @@ foma,Fort Matanzas National Monument,212,35
 fone,Fort Necessity National Battlefield,151,35
 fopo,Fort Point National Historic Site,41,2
 fopu,Fort Pulaski National Monument,216,19
+fosu,Fort Sumter and Fort Moultrie National Historical Park,204,12
 foun,Fort Union National Monument,58,26
 fous,Fort Union Trading Post National Historic Site,103,24
 fova,Fort Vancouver National Historic Site,58,26
@@ -217,7 +218,7 @@ noca,North Cascades National Park,225,70
 npsa,National Park of American Samoa,45,11
 ocmu,Ocmulgee Mounds National Historical Park,172,32
 olym,Olympic National Park,263,67
-orca,Oregon Caves National Monument & Preserve,117,60
+orca,Oregon Caves National Monument & Preserve,117,61
 orpi,Organ Pipe Cactus National Monument,275,73
 oxhi,Oxon Cove Park & Oxon Hill Farm,173,7
 ozar,Ozark National Scenic Riverways,167,55
@@ -254,7 +255,7 @@ sahi,Sagamore Hill National Historic Site,152,13
 sair,Saugus Iron Works National Historic Site,32,0
 sajh,San Juan Island National Historical Park,175,19
 samo,Santa Monica Mountains National Recreation Area,400,54
-sapu,Salinas Pueblo Missions National Monument,162,58
+sapu,Salinas Pueblo Missions National Monument,163,58
 sara,Saratoga National Historical Park,0,37
 sari,Salt River Bay National Historical Park and Ecological Preserve,14,0
 scbl,Scotts Bluff National Monument,126,35
