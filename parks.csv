@@ -1,7 +1,7 @@
 park_code,name,designation,unit_type,states,visitors_2025,dark_sky_certified,timed_entry_required,has_entrance_fees,bird_species,alerts_active,latitude,longitude,nps_status,fee_free
 abli,Abraham Lincoln Birthplace National Historical Park,National Historical Park,Historical Parks,KY,212899,False,False,False,131,0,37.5858662,-85.67330523,unit,True
 acad,Acadia National Park,National Park,National Parks,ME,4079318,False,True,True,215,3,44.409286,-68.247501,unit,False
-adam,Adams National Historical Park,National Historical Park,Historical Parks,MA,48726,False,True,True,,5,42.2553961,-71.01160356,unit,False
+adam,Adams National Historical Park,National Historical Park,Historical Parks,MA,48726,False,True,True,,4,42.2553961,-71.01160356,unit,False
 afam,African American Civil War Memorial,Park Unit,Other,DC,,False,False,False,,0,38.9166,-77.026,part,True
 afbg,African Burial Ground National Monument,National Monument,Monuments,NY,32465,False,False,False,,0,40.71452681,-74.00447358,unit,True
 agfo,Agate Fossil Beds National Monument,National Monument,Monuments,NE,16827,False,False,False,131,2,42.42170419,-103.753886,unit,True
@@ -40,7 +40,7 @@ bicr,Birmingham Civil Rights National Monument,National Monument,Monuments,AL,,F
 bicy,Big Cypress National Preserve,National Preserve,Preserves & Reserves,FL,2262731,True,False,False,197,2,25.97079602,-81.08120629,unit,True
 biho,Big Hole National Battlefield,National Battlefield,Battlefields & Military Parks,MT,40938,False,False,False,205,0,45.64647324,-113.6458443,unit,True
 bisc,Biscayne National Park,National Park,National Parks,FL,486567,False,False,False,230,3,25.490587,-80.21023851,unit,True
-biso,Big South Fork National River & Recreation Area,National River & Recreation Area,Rivers & Riverways,KY|TN,774353,False,False,False,173,5,36.5348388,-84.66506688,unit,True
+biso,Big South Fork National River & Recreation Area,National River & Recreation Area,Rivers & Riverways,KY|TN,774353,False,False,False,173,4,36.5348388,-84.66506688,unit,True
 bith,Big Thicket National Preserve,National Preserve,Preserves & Reserves,TX,228310,False,False,False,295,2,30.457983431,-94.386742115,unit,True
 blca,Black Canyon Of The Gunnison National Park,National Park,National Parks,CO,250086,True,False,True,174,1,38.57779869,-107.7242756,unit,False
 blri,Blue Ridge Parkway,Parkway,Parkways,NC|VA,16533753,False,False,False,241,0,35.5657195274,-82.486484587,unit,True
@@ -77,7 +77,7 @@ care,Capitol Reef National Park,National Park,National Parks,UT,1388476,True,Fal
 cari,Cane River Creole National Historical Park,National Historical Park,Historical Parks,LA,11203,False,False,False,,2,31.65408447,-93.00131977,unit,True
 carl,Carl Sandburg Home National Historic Site,National Historic Site,Historic Sites,NC,94796,False,False,False,102,1,35.26815509,-82.45106258,unit,True
 casa,Castillo de San Marcos National Monument,National Monument,Monuments,FL,598070,False,False,True,84,2,29.89785701,-81.31217173,unit,False
-cato,Catoctin Mountain Park,Park,Other,MD,460857,False,False,False,134,1,39.65068457,-77.46417665,unit,True
+cato,Catoctin Mountain Park,Park,Other,MD,460857,False,False,False,134,0,39.65068457,-77.46417665,unit,True
 cave,Carlsbad Caverns National Park,National Park,National Parks,NM,410778,False,False,True,367,5,32.14089463,-104.5529688,unit,False
 cavo,Capulin Volcano National Monument,National Monument,Monuments,NM,89489,True,False,True,59,3,36.78171096,-103.9710427,unit,False
 cawo,Carter G. Woodson Home National Historic Site,National Historic Site,Historic Sites,DC,20,False,False,False,,1,38.91089286,-77.02431104,unit,True
@@ -199,14 +199,14 @@ grfa,Great Falls Park,Park,Other,VA,,False,False,True,181,3,38.98776107,-77.2512
 grko,Grant-Kohrs Ranch National Historic Site,National Historic Site,Historic Sites,MT,23520,False,False,False,230,0,46.41358923,-112.7467024,unit,True
 grpo,Grand Portage National Monument,National Monument,Monuments,MN,85734,False,False,False,205,0,47.99294217,-89.75573031,unit,True
 grsa,Great Sand Dunes National Park & Preserve,National Park & Preserve,Preserves & Reserves,CO,432498,True,False,True,235,5,37.79256812,-105.5919572,unit,False
-grsm,Great Smoky Mountains National Park,National Park,National Parks,NC|TN,11527939,False,False,False,232,3,35.60116374,-83.50818326,unit,True
+grsm,Great Smoky Mountains National Park,National Park,National Parks,NC|TN,11527939,False,False,False,232,4,35.60116374,-83.50818326,unit,True
 grsp,Green Springs,Park Unit,Other,VA,,False,False,False,,0,38.037099,-78.189823,affiliated,True
 grte,Grand Teton National Park,National Park,National Parks,WY,3800648,False,False,True,195,3,43.81853565,-110.7054666,unit,False
 guco,Guilford Courthouse National Military Park,National Military Park,Battlefields & Military Parks,NC,449802,False,False,False,76,0,36.13225478,-79.8424561,unit,True
 guis,Gulf Islands National Seashore,National Seashore,Seashores & Lakeshores,FL|MS,7576923,False,False,True,316,5,30.3211,-87.2304,unit,False
 gumo,Guadalupe Mountains National Park,National Park,National Parks,TX,206423,False,False,True,267,2,31.92304462,-104.885527,unit,False
 gwca,George Washington Carver National Monument,National Monument,Monuments,MO,31062,False,False,False,192,0,36.9871322,-94.35522737,unit,True
-gwmp,George Washington Memorial Parkway,Memorial Parkway,Parkways,DC|MD|VA,6732932,False,False,False,294,5,38.9628,-77.1495,unit,True
+gwmp,George Washington Memorial Parkway,Memorial Parkway,Parkways,DC|MD|VA,6732932,False,False,False,294,4,38.9628,-77.1495,unit,True
 hafe,Harpers Ferry National Historical Park,National Historical Park,Historical Parks,WV|VA|MD,537876,False,False,True,120,2,39.31865949,-77.74088546,unit,False
 hafo,Hagerman Fossil Beds National Monument,National Monument,Monuments,ID,36667,False,False,False,199,0,42.79074114,-114.9443074,unit,True
 hagr,Hamilton Grange National Memorial,National Memorial,Memorials,NY,97253,False,False,False,,0,40.81871605,-73.94878487,unit,True
@@ -309,7 +309,7 @@ moru,Mount Rushmore National Memorial,National Memorial,Memorials,SD,1905649,Fal
 muwo,Muir Woods National Monument,National Monument,Monuments,CA,756573,False,False,True,72,4,37.89658027,-122.5808047,unit,False
 nabr,Natural Bridges National Monument,National Monument,Monuments,UT,70400,True,False,True,172,1,37.6045329,-110.0022436,unit,False
 nace,National Capital Parks-East,Park Unit,Other,DC,,False,False,False,253,0,38.8659,-76.994,unit,True
-nama,National Mall and Memorial Parks,Park Unit,Other,DC,,False,False,False,116,2,38.8899,-77.026,unit,True
+nama,National Mall and Memorial Parks,Park Unit,Other,DC,,False,False,False,116,1,38.8899,-77.026,unit,True
 natc,Natchez National Historical Park,National Historical Park,Historical Parks,MS,41356,False,False,False,,4,31.54697621,-91.39040665,unit,True
 natr,Natchez Trace Parkway,Parkway,Parkways,AL|MS|TN,7994783,False,False,False,135,1,33.78002293,-89.03092439,unit,True
 natt,Natchez Trace National Scenic Trail,National Scenic Trail,Trails,AL|MS|TN,,False,False,False,,2,34.330290333,-88.7100104094,unit,True
@@ -401,7 +401,7 @@ semo,Selma To Montgomery National Historic Trail,National Historic Trail,Trails,
 shen,Shenandoah National Park,National Park,National Parks,VA,1682152,False,False,True,196,6,38.49236644,-78.46907715,unit,False
 shil,Shiloh National Military Park,National Military Park,Battlefields & Military Parks,TN|MS,346955,False,False,False,186,0,35.13850907,-88.3421072,unit,True
 sitk,Sitka National Historical Park,National Historical Park,Historical Parks,AK,332964,False,False,False,182,0,57.04718173,-135.3156876,unit,True
-slbe,Sleeping Bear Dunes National Lakeshore,National Lakeshore,Seashores & Lakeshores,MI,1601747,False,False,True,238,2,44.92844962,-86.02706591,unit,False
+slbe,Sleeping Bear Dunes National Lakeshore,National Lakeshore,Seashores & Lakeshores,MI,1601747,False,False,True,238,1,44.92844962,-86.02706591,unit,False
 spar,Springfield Armory National Historic Site,National Historic Site,Historic Sites,MA,13934,False,False,False,,0,42.1086368,-72.57967415,unit,True
 spra,Springfield 1908 Race Riot National Monument,National Monument,Monuments,IL,,False,False,False,,0,39.8027,-89.6422,unit,True
 stea,Steamtown National Historic Site,National Historic Site,Historic Sites,PA,60844,False,False,False,,0,41.40757521,-75.67037255,unit,True
@@ -447,7 +447,7 @@ voya,Voyageurs National Park,National Park,National Parks,MN,206326,True,False,F
 waba,Washita Battlefield National Historic Site,National Historic Site,Historic Sites,OK,11048,False,False,False,7,0,35.62083963,-99.70445143,unit,True
 waca,Walnut Canyon National Monument,National Monument,Monuments,AZ,153317,True,False,True,108,0,35.16822994,-111.5024239,unit,False
 waco,Waco Mammoth National Monument,National Monument,Monuments,TX,91678,False,False,False,,0,31.60465887,-97.17606143,unit,True
-wamo,Washington Monument,Park Unit,Other,DC,204489,False,True,False,,2,38.88948,-77.035207,unit,True
+wamo,Washington Monument,Park Unit,Other,DC,204489,False,True,False,,1,38.88948,-77.035207,unit,True
 wapa,War In The Pacific National Historical Park,National Historical Park,Historical Parks,GU,397733,False,False,False,29,1,13.43795691,144.6922461,unit,True
 waro,Washington-Rochambeau Revolutionary Route National Historic Trail,National Historic Trail,Trails,MA|RI|CT|NY|NJ|PA|DE|MD|VA|DC,,False,False,False,,0,40.0958204557,-74.8563515109,trail,True
 wefa,Weir Farm National Historical Park,National Historical Park,Historical Parks,CT,30339,False,False,False,51,1,41.25886268,-73.45452542,unit,True
@@ -472,4 +472,4 @@ york,Yorktown Battlefield Part of Colonial National Historical Park,Part of Colo
 yose,Yosemite National Park,National Park,National Parks,CA,4278413,False,False,True,269,1,37.84883288,-119.5571873,unit,False
 yuch,Yukon - Charley Rivers National Preserve,National Preserve,Preserves & Reserves,AK,962,False,False,False,152,1,65.0935608,-142.7960021,unit,True
 yuho,Yucca House National Monument,National Monument,Monuments,CO,,False,False,False,121,0,37.24778944,-108.6861274,unit,True
-zion,Zion National Park,National Park,National Parks,UT,4984525,True,False,True,262,7,37.29839254,-113.0265138,unit,False
+zion,Zion National Park,National Park,National Parks,UT,4984525,True,False,True,262,6,37.29839254,-113.0265138,unit,False
