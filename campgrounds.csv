@@ -186,11 +186,11 @@ dena,Igloo Creek,7,True,Vault toilets|Tent sites,https://www.nps.gov/dena/planyo
 dena,Wonder Lake,28,True,Flush toilets|Potable water|Tent sites,https://www.nps.gov/dena/planyourvisit/campground-wonder.htm
 deto,Belle Fourche River Campground,45,False,Flush toilets|Potable water|Tent sites|Cell reception,https://www.nps.gov/deto/planyourvisit/campgrounds.htm
 deva,Wildrose Campground,23,False,Vault toilets,https://www.nps.gov/deva/planyourvisit/wildrose-campground.htm
-deva,Sunset Campground,230,False,Flush toilets|Potable water|Dump station|Camp store,https://www.nps.gov/deva/planyourvisit/sunset-campground.htm
-deva,Stovepipe Wells Campground,190,False,Flush toilets|Potable water|Dump station|Camp store|Tent sites,https://www.nps.gov/deva/planyourvisit/stovepipe-wells-campground.htm
-deva,Texas Springs Campground,106,False,Flush toilets|Potable water|Dump station|Tent sites,https://www.nps.gov/deva/planyourvisit/texas-springs-campground.htm
 deva,Furnace Creek Campground,130,True,Flush toilets|Potable water|Dump station|Camp store|Electric hookups|RV friendly,https://www.nps.gov/deva/planyourvisit/furnace-creek-campground.htm
 deva,Emigrant Campground,10,False,Flush toilets|Potable water|Tent sites,https://www.nps.gov/deva/planyourvisit/emigrant-campground.htm
+deva,Sunset Campground,230,False,Flush toilets|Potable water|Dump station|Camp store,https://www.nps.gov/deva/planyourvisit/sunset-campground.htm
+deva,Texas Springs Campground,106,False,Flush toilets|Potable water|Dump station|Tent sites,https://www.nps.gov/deva/planyourvisit/texas-springs-campground.htm
+deva,Stovepipe Wells Campground,190,False,Flush toilets|Potable water|Dump station|Camp store|Tent sites,https://www.nps.gov/deva/planyourvisit/stovepipe-wells-campground.htm
 deva,Mesquite Spring Campground,40,False,Flush toilets|Potable water|Dump station,https://www.nps.gov/deva/planyourvisit/mesquite-spring-campground.htm
 deva,Thorndike Campground (Primitive),6,False,Vault toilets,https://www.nps.gov/deva/planyourvisit/thorndike-campground.htm
 deva,Mahogany Flat Campground (Primitive),9,False,Vault toilets,https://www.nps.gov/deva/planyourvisit/mahogany-flat-primitive-campground.htm
@@ -230,11 +230,11 @@ glac,Rising Sun Campground,83,True,Flush toilets|Showers|Potable water|Dump stat
 glac,Many Glacier Campground,111,True,Flush toilets|Potable water|Dump station|Camp store|Tent sites,
 glac,Sprague Creek Campground,25,True,Flush toilets|Potable water,
 glac,St. Mary Campground,157,True,Flush toilets|Showers|Potable water|Dump station|Tent sites,
-glac,Two Medicine Campground,105,True,Flush toilets|Potable water|Dump station|Camp store,
 glac,Avalanche Campground,91,True,Flush toilets|Potable water,https://www.nps.gov/glac/planyourvisit/reservation-campgrounds.htm
 glac,Apgar Campground,211,True,Flush toilets|Showers|Potable water|Dump station|Camp store,
 glac,Bowman Lake Campground,48,False,Vault toilets|Potable water|Dump station,
 glac,Fish Creek Campground,189,True,Flush toilets|Showers|Potable water|Dump station|Tent sites,
+glac,Two Medicine Campground,105,True,Flush toilets|Potable water|Dump station|Camp store,
 glac,Cut Bank Campground,14,False,Vault toilets,
 glba,Bartlett Cove Campground,33,False,Potable water|Tent sites,
 glca,Wahweap Campground & RV Park,266,True,Flush toilets|Showers|Potable water|Dump station|Camp store|Electric hookups,https://www.lakepowell.com/rv-camping/wahweap-rv-campground/
@@ -612,13 +612,13 @@ shen,Big Meadows Campground,224,True,Flush toilets|Showers|Potable water|Dump st
 shen,Lewis Mountain Campground,32,False,Flush toilets|Showers|Potable water|Camp store,https://www.nps.gov/shen/planyourvisit/lewis-mountain-campground.htm
 shen,Loft Mountain Campground,213,True,Flush toilets|Showers|Potable water|Dump station|Camp store|Tent sites,https://www.nps.gov/shen/planyourvisit/loft-mountain-campground.htm
 slbe,Weather Station Campground - South Manitou Island,23,True,Vault toilets|Tent sites,https://www.nps.gov/slbe/planyourvisit/smicamping.htm
-slbe,White Pine Backcountry Campground,7,True,Vault toilets|Tent sites,https://www.nps.gov/slbe/planyourvisit/white-pine-backcountry-campground.htm
 slbe,Village Campground - North Manitou Island,8,False,Vault toilets|Tent sites,https://www.nps.gov/slbe/planyourvisit/nmicamping.htm
-slbe,Platte River Campground,179,True,Flush toilets|Showers|Potable water|Dump station|Electric hookups|RV friendly,https://www.nps.gov/slbe/planyourvisit/platterivercamp.htm
 slbe,Popple Campground - South Manitou Island,7,False,Vault toilets|Tent sites,https://www.nps.gov/slbe/planyourvisit/smicamping.htm
 slbe,Bay Campground - South Manitou Island,28,True,Vault toilets|Tent sites,https://www.nps.gov/slbe/planyourvisit/smicamping.htm
 slbe,D. H. Day Campground,87,True,Vault toilets|Potable water|Dump station|Tent sites|Cell reception,https://www.nps.gov/slbe/planyourvisit/dhdaycamp.htm
 slbe,D. H. Day Campground Group Campground,4,True,Vault toilets|Potable water|Tent sites,https://www.nps.gov/slbe/planyourvisit/groupcamps.htm
+slbe,White Pine Backcountry Campground,7,True,Vault toilets|Tent sites,https://www.nps.gov/slbe/planyourvisit/white-pine-backcountry-campground.htm
+slbe,Platte River Campground,179,True,Flush toilets|Showers|Potable water|Dump station|Electric hookups|RV friendly,https://www.nps.gov/slbe/planyourvisit/platterivercamp.htm
 thro,Cottonwood Campground,72,True,Flush toilets|Potable water|Tent sites,https://www.nps.gov/thro/planyourvisit/cottonwood-campground.htm
 thro,Juniper Campground,48,True,Flush toilets|Potable water|Dump station|Tent sites,https://www.nps.gov/thro/planyourvisit/juniper-campground.htm
 thro,Roundup Group Horse Camp,1,True,Vault toilets|Potable water,https://www.nps.gov/thro/planyourvisit/roundup-group-horse-campground.htm
