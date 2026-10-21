@@ -64,6 +64,10 @@ caco,Cape Cod National Seashore,Entrance - Per Person,15.00,Pass is for one pers
 cana,Canaveral National Seashore,Entrance - Private Vehicle,25.00,Admits the passholder and passengers of a single vehicle. Good for 7 consecutive days at all park entrances.
 cana,Canaveral National Seashore,Entrance - Motorcycle,20.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
 cana,Canaveral National Seashore,Entrance - Per Person,15.00,"Good for 7 consecutive days at all park entrances. Admits one individual hiker, bicyclist, or pedestrian."
+cana,Canaveral National Seashore,Commercial Entrance - Sedan,25.00,Admits Commercial Vehicle entrance with 1–6-person capacity
+cana,Canaveral National Seashore,Commercial Entrance - Van,40.00,Admits Commercial Vehicle entrance with 7–15-person capacity
+cana,Canaveral National Seashore,Commercial Entrance - Mini-bus,40.00,Admits Commercial Vehicle entrance with 16–25-person capacity
+cana,Canaveral National Seashore,Commercial Entrance - Motor Coach,100.00,Admits Commercial Vehicle entrance with 26 or more-person capacity
 cany,Canyonlands National Park,Entrance - Private Vehicle,30.00,"Admits one private, non-commercial vehicle (15 passenger capacity or less) and all its occupants."
 cany,Canyonlands National Park,Entrance - Motorcycle,25.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
 cany,Canyonlands National Park,Entrance - Per Person,15.00,"Admits one individual with no car. Typically used for bicyclists, hikers, and pedestrians. Youth 15 and under are admitted free."
@@ -170,7 +174,7 @@ dino,Dinosaur National Monument,Entrance - Education/Academic Groups,0.00,"Natio
 dino,Dinosaur National Monument,Commercial Entrance - Sedan,25.00,Pass is valid for the day of purchase and the next six days for a vehicle carrying the same group of passengers. A commercial tour is defined as consisting of one or more persons traveling on an itine
 dino,Dinosaur National Monument,Commercial Entrance - Per Person,15.00,Pass is valid for the day of purchase and the next six days for a vehicle carrying the same group of passengers. A commercial tour is defined as consisting of one or more persons traveling on an itine
 drto,Dry Tortugas National Park,Entrance - Per Person,15.00,The entrance fee for Dry Tortugas National Park is $15.00 per person and is good for 7 consecutive days. Any person 15 years old and under is exempt from paying an entrance fees (including internation
-edis,Thomas Edison National Historical Park,Entrance - Education/Academic Groups,10.00,"THIS GUIDED WALKING TOUR IS FOR Elementary, Middle, and College Groups to learn about Thomas Edison’s West Orange Laboratory as a working invention factory where ideas became products, and those produ"
+edis,Thomas Edison National Historical Park,Entrance - Education/Academic Groups,10.00,"This guided walking tour is for Elementary, Middle, and College Groups to learn about Thomas Edison’s West Orange Laboratory as a working invention factory where ideas became products, and those produ"
 edis,Thomas Edison National Historical Park,Entrance - Per Person,15.00,"Children 15 and under free of charge. Visitors may pay the fee on the day of their visit at the visitor center, or may choose to pay it online via Recreation.gov. Visitors to Glenmont and the Edison h"
 ever,Everglades National Park,Entrance - Private Vehicle,35.00,Admits the passholder and passengers of a single vehicle or vessel. Good for 7 consecutive days at all park entrances.
 ever,Everglades National Park,Entrance - Motorcycle,30.00,"Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers."
