@@ -2,7 +2,7 @@
 
 Cleaned, joined datasets covering the U.S. National Park System's 474 units,
 extracted from official federal sources and refreshed nightly.
-This repository snapshot: data retrieved October 21, 2026.
+This repository snapshot: data retrieved October 26, 2026.
 
 ## Files and columns
 
