@@ -42,7 +42,7 @@ biho,Big Hole National Battlefield,National Battlefield,Battlefields & Military 
 bisc,Biscayne National Park,National Park,National Parks,FL,486567,False,False,False,230,4,25.490587,-80.21023851,unit,True
 biso,Big South Fork National River & Recreation Area,National River & Recreation Area,Rivers & Riverways,KY|TN,774353,False,False,False,173,4,36.5348388,-84.66506688,unit,True
 bith,Big Thicket National Preserve,National Preserve,Preserves & Reserves,TX,228310,False,False,False,295,1,30.457983431,-94.386742115,unit,True
-blca,Black Canyon Of The Gunnison National Park,National Park,National Parks,CO,250086,True,False,True,174,2,38.57779869,-107.7242756,unit,False
+blca,Black Canyon Of The Gunnison National Park,National Park,National Parks,CO,250086,True,False,True,174,3,38.57779869,-107.7242756,unit,False
 blri,Blue Ridge Parkway,Parkway,Parkways,NC|VA,16533753,False,False,False,241,0,35.5657195274,-82.486484587,unit,True
 blrv,Blackstone River Valley National Historical Park,National Historical Park,Historical Parks,RI|MA,,False,False,False,,0,41.8775792792,-71.382433945,unit,True
 blsc,Blackwell School National Historic Site,National Historic Site,Historic Sites,TX,,False,False,False,,0,30.3057966497568,-104.022553112857,unit,True
@@ -54,7 +54,7 @@ bowa,Booker T. Washington National Monument,National Monument,Monuments,VA,21698
 brca,Bryce Canyon National Park,National Park,National Parks,UT,1967367,True,False,True,203,3,37.58399144,-112.1826689,unit,False
 brcr,Brices Cross Roads National Battlefield Site,National Battlefield Site,Battlefields & Military Parks,MS,,False,False,False,,0,34.50611958,-88.72889343,unit,True
 brvb,Brown v. Board of Education National Historical Park,National Historical Park,Historical Parks,KS,17860,False,False,False,,1,39.03787665,-95.67614437,unit,True
-buff,Buffalo National River,National River,Rivers & Riverways,AR,1393246,True,False,False,211,3,36.04116481,-92.90761584,unit,True
+buff,Buffalo National River,National River,Rivers & Riverways,AR,1393246,True,False,False,211,4,36.04116481,-92.90761584,unit,True
 buis,Buck Island Reef National Monument,National Monument,Monuments,VI,40079,False,False,False,37,0,17.81026717,-64.6222179,unit,True
 buov,Butterfield Overland National Historic Trail,National Historic Trail,Trails,MO|AR|OK|TX|NM|AZ|CA,,False,False,False,,0,32.2768237589,-106.796583304,trail,True
 cabr,Cabrillo National Monument,National Monument,Monuments,CA,769336,False,False,True,367,0,32.6722503,-117.2415985,unit,False
@@ -77,7 +77,7 @@ care,Capitol Reef National Park,National Park,National Parks,UT,1388476,True,Fal
 cari,Cane River Creole National Historical Park,National Historical Park,Historical Parks,LA,11203,False,False,False,,2,31.65408447,-93.00131977,unit,True
 carl,Carl Sandburg Home National Historic Site,National Historic Site,Historic Sites,NC,94796,False,False,False,102,1,35.26815509,-82.45106258,unit,True
 casa,Castillo de San Marcos National Monument,National Monument,Monuments,FL,598070,False,False,True,84,2,29.89785701,-81.31217173,unit,False
-cato,Catoctin Mountain Park,Park,Other,MD,460857,False,False,False,134,0,39.65068457,-77.46417665,unit,True
+cato,Catoctin Mountain Park,Park,Other,MD,460857,False,False,False,134,1,39.65068457,-77.46417665,unit,True
 cave,Carlsbad Caverns National Park,National Park,National Parks,NM,410778,False,False,True,367,5,32.14089463,-104.5529688,unit,False
 cavo,Capulin Volcano National Monument,National Monument,Monuments,NM,89489,True,False,True,59,3,36.78171096,-103.9710427,unit,False
 cawo,Carter G. Woodson Home National Historic Site,National Historic Site,Historic Sites,DC,20,False,False,False,,0,38.91089286,-77.02431104,unit,True
@@ -87,12 +87,12 @@ cebr,Cedar Breaks National Monument,National Monument,Monuments,UT,718014,True,F
 cech,César E. Chávez National Monument,National Monument,Monuments,CA,31497,False,False,False,,0,35.22729389,-118.5615781,unit,True
 cham,Chamizal National Memorial,National Memorial,Memorials,TX,7917,False,False,False,39,0,31.76729634,-106.4544011,unit,True
 chat,Chattahoochee River National Recreation Area,National Recreation Area,Recreation Areas,GA,2901903,False,False,True,192,0,33.99698333,-84.28953177,unit,False
-chch,Chickamauga & Chattanooga National Military Park,National Military Park,Battlefields & Military Parks,GA|TN,971647,False,False,True,175,1,34.94317623,-85.28749537,unit,False
+chch,Chickamauga & Chattanooga National Military Park,National Military Park,Battlefields & Military Parks,GA|TN,971647,False,False,True,175,2,34.94317623,-85.28749537,unit,False
 chcu,Chaco Culture National Historical Park,National Historical Park,Historical Parks,NM,29816,True,False,True,149,1,36.03963414,-107.9560076,unit,False
 chic,Chickasaw National Recreation Area,National Recreation Area,Recreation Areas,OK,1877797,False,False,False,84,1,34.46050507,-97.00715669,unit,True
 chir,Chiricahua National Park,National Park,National Parks,AZ,70406,True,False,False,191,1,32.01214618,-109.341607,unit,True
 chis,Channel Islands National Park,National Park,National Parks,CA,227186,False,False,False,354,2,33.98680093,-119.9112735,unit,True
-choh,Chesapeake & Ohio Canal National Historical Park,National Historical Park,Historical Parks,DC|MD|WV,4579704,False,False,True,181,4,39.000283692,-77.2481399539,unit,False
+choh,Chesapeake & Ohio Canal National Historical Park,National Historical Park,Historical Parks,DC|MD|WV,4579704,False,False,True,181,5,39.000283692,-77.2481399539,unit,False
 chpi,Charles Pinckney National Historic Site,National Historic Site,Historic Sites,SC,23758,False,False,False,,0,32.84577392,-79.82487582,unit,True
 chri,Christiansted National Historic Site,National Historic Site,Historic Sites,VI,100165,False,False,True,,2,17.7468,-64.7022,unit,False
 chsc,Little Rock Central High School National Historic Site,National Historic Site,Historic Sites,AR,49069,False,False,False,,0,34.7369465,-92.29987899,unit,True
@@ -166,7 +166,7 @@ fosu,Fort Sumter and Fort Moultrie National Historical Park,National Historical 
 foth,Ford's Theatre National Historic Site,National Historic Site,Historic Sites,DC,393662,False,True,False,,0,38.89668819,-77.02577944,unit,True
 foun,Fort Union National Monument,National Monument,Monuments,NM,7813,True,False,False,58,2,35.90700629,-105.0145185,unit,True
 fous,Fort Union Trading Post National Historic Site,National Historic Site,Historic Sites,MT|ND,9808,False,False,False,103,0,48.00075828,-104.0375238,unit,True
-fova,Fort Vancouver National Historic Site,National Historic Site,Historic Sites,OR|WA,1071161,False,False,True,58,1,45.62234841,-122.6617043,unit,False
+fova,Fort Vancouver National Historic Site,National Historic Site,Historic Sites,OR|WA,1071161,False,False,True,58,0,45.62234841,-122.6617043,unit,False
 fowa,Fort Washington Park,Park,Other,MD,502171,False,False,False,141,0,38.7117,-77.0302,unit,True
 frde,Franklin Delano Roosevelt Memorial,Park Unit,Other,DC,2832124,False,False,False,6,0,38.88341274,-77.04311542,unit,True
 frdo,Frederick Douglass National Historic Site,National Historic Site,Historic Sites,DC,29378,False,True,False,20,0,38.86298458,-76.98508147,unit,True
@@ -192,7 +192,7 @@ glec,Glen Echo Park,Park,Other,MD,,False,False,False,,0,38.96912315,-77.14012206
 goga,Golden Gate National Recreation Area,National Recreation Area,Recreation Areas,CA,15748676,False,False,False,368,5,37.85982543,-122.6007386,unit,True
 gois,Governors Island National Monument,National Monument,Monuments,NY,52200,False,False,False,,1,40.69164233,-74.01670765,unit,True
 gosp,Golden Spike National Historical Park,National Historical Park,Historical Parks,UT,53696,False,False,True,96,0,41.61947508,-112.5242653,unit,False
-grba,Great Basin National Park,National Park,National Parks,NV,161210,True,False,False,214,2,38.94617378,-114.2579782,unit,True
+grba,Great Basin National Park,National Park,National Parks,NV,161210,True,False,False,214,3,38.94617378,-114.2579782,unit,True
 grca,Grand Canyon National Park,National Park,National Parks,AZ,4430653,True,False,True,447,4,36.0001165336,-112.121516363,unit,False
 gree,Greenbelt Park,Park,Other,MD,130314,False,False,False,127,0,38.98328267,-76.89722133,unit,True
 greg,Great Egg Harbor River,Park Unit,Other,NJ,,False,False,False,,0,39.3042,-74.6497,unit,True
@@ -200,7 +200,7 @@ grfa,Great Falls Park,Park,Other,VA,,False,False,True,181,2,38.98776107,-77.2512
 grko,Grant-Kohrs Ranch National Historic Site,National Historic Site,Historic Sites,MT,23520,False,False,False,230,0,46.41358923,-112.7467024,unit,True
 grpo,Grand Portage National Monument,National Monument,Monuments,MN,85734,False,False,False,205,0,47.99294217,-89.75573031,unit,True
 grsa,Great Sand Dunes National Park & Preserve,National Park & Preserve,Preserves & Reserves,CO,432498,True,False,True,235,5,37.79256812,-105.5919572,unit,False
-grsm,Great Smoky Mountains National Park,National Park,National Parks,NC|TN,11527939,False,False,False,232,4,35.60116374,-83.50818326,unit,True
+grsm,Great Smoky Mountains National Park,National Park,National Parks,NC|TN,11527939,False,False,False,232,5,35.60116374,-83.50818326,unit,True
 grsp,Green Springs,Park Unit,Other,VA,,False,False,False,,0,38.037099,-78.189823,affiliated,True
 grte,Grand Teton National Park,National Park,National Parks,WY,3800648,False,False,True,195,5,43.81853565,-110.7054666,unit,False
 guco,Guilford Courthouse National Military Park,National Military Park,Battlefields & Military Parks,NC,449802,False,False,False,76,0,36.13225478,-79.8424561,unit,True
@@ -229,7 +229,7 @@ hove,Hovenweep National Monument,National Monument,Monuments,CO|UT,26616,True,Fa
 hstr,Harry S Truman National Historic Site,National Historic Site,Historic Sites,MO,19296,False,False,False,,1,38.92711967,-94.5162488,unit,True
 hutr,Hubbell Trading Post National Historic Site,National Historic Site,Historic Sites,AZ,45207,False,False,False,109,1,35.70727324,-109.5599515,unit,True
 iafl,Ice Age Floods National Geologic Trail,National Geologic Trail,Trails,WA|OR|ID|MT,,False,False,False,,0,46.5669309008,-118.992564971,trail,True
-iatr,Ice Age National Scenic Trail,National Scenic Trail,Trails,WI,29125,False,False,False,,17,43.9895697794,-89.5612021706,unit,True
+iatr,Ice Age National Scenic Trail,National Scenic Trail,Trails,WI,29125,False,False,False,,18,43.9895697794,-89.5612021706,unit,True
 inde,Independence National Historical Park,National Historical Park,Historical Parks,PA,1926580,False,True,False,,1,39.94746112,-75.14794157,unit,True
 indu,Indiana Dunes National Park,National Park,National Parks,IN,2629497,False,False,True,301,9,41.63765525,-87.09647445,unit,False
 inup,Iñupiat Heritage Center,Park Unit,Other,AK,,False,False,False,,0,71.29832445,-156.7535863,affiliated,True
@@ -239,7 +239,7 @@ jame,Historic Jamestowne Part of Colonial National Historical Park,Part of Colon
 jazz,New Orleans Jazz National Historical Park,National Historical Park,Historical Parks,LA,51065,False,False,False,,1,29.96303129,-90.06749669,unit,True
 jeca,Jewel Cave National Monument,National Monument,Monuments,SD,110553,False,False,False,85,2,43.73102945,-103.829994,unit,True
 jeff,Gateway Arch National Park,National Park,National Parks,MO,2209028,False,False,False,,0,38.6258069,-90.1892508,unit,True
-jela,Jean Lafitte National Historical Park and Preserve,National Historical Park and Preserve,Preserves & Reserves,LA,226543,False,False,False,263,3,29.81739855,-90.1402241,unit,True
+jela,Jean Lafitte National Historical Park and Preserve,National Historical Park and Preserve,Preserves & Reserves,LA,226543,False,False,False,263,2,29.81739855,-90.1402241,unit,True
 jica,Jimmy Carter National Historical Park,National Historical Park,Historical Parks,GA,39101,False,False,False,,0,32.03611,-84.3924,unit,True
 joda,John Day Fossil Beds National Monument,National Monument,Monuments,OR,131119,False,False,False,175,2,44.62566508,-119.8811491,unit,True
 jofi,John Fitzgerald Kennedy National Historic Site,National Historic Site,Historic Sites,MA,9664,False,False,False,,1,42.34693694,-71.12323846,unit,True
@@ -265,7 +265,7 @@ labe,Lava Beds National Monument,National Monument,Monuments,CA,143659,False,Fal
 lacl,Lake Clark National Park & Preserve,National Park & Preserve,Preserves & Reserves,AK,19778,False,False,False,168,0,60.57405857,-153.55535,unit,True
 lake,Lake Mead National Recreation Area,National Recreation Area,Recreation Areas,AZ|NV,6135586,False,False,True,291,4,35.96622528,-114.3469067,unit,False
 lamr,Lake Meredith National Recreation Area,National Recreation Area,Recreation Areas,TX,1017135,False,False,False,81,3,35.61926203,-101.6820066,unit,True
-laro,Lake Roosevelt National Recreation Area,National Recreation Area,Recreation Areas,WA,1183757,False,False,False,238,4,48.17148735,-118.3513713,unit,True
+laro,Lake Roosevelt National Recreation Area,National Recreation Area,Recreation Areas,WA,1183757,False,False,False,238,3,48.17148735,-118.3513713,unit,True
 lavo,Lassen Volcanic National Park,National Park,National Parks,CA,504777,False,False,True,210,4,40.49354575,-121.4075993,unit,False
 lecl,Lewis & Clark National Historic Trail,National Historic Trail,Trails,IA|ID|IL|IN|KS|KY|MO|MT|NE|ND|OH|OR|PA|SD|WA|WV,,False,False,False,,0,41.2646141052,-95.9245147705,trail,True
 lewi,Lewis and Clark National Historical Park,National Historical Park,Historical Parks,OR|WA,244195,False,False,True,102,0,46.21178735,-123.9638583,unit,False
@@ -374,7 +374,7 @@ rigr,Rio Grande Wild & Scenic River,Wild & Scenic River,Rivers & Riverways,TX,12
 rira,River Raisin National Battlefield Park,National Battlefield Park,Battlefields & Military Parks,MI,133643,False,False,False,,1,41.91291085,-83.37620464,unit,True
 roca,Roosevelt Campobello International Park,International Park,International,ME,,False,False,False,,1,44.8736,-66.9621,affiliated,True
 rocr,Rock Creek Park,Park,Other,DC,1865048,False,False,False,182,5,38.95125063,-77.05002838,unit,True
-romo,Rocky Mountain National Park,National Park,National Parks,CO,4171431,False,True,True,257,2,40.3556924,-105.6972879,unit,False
+romo,Rocky Mountain National Park,National Park,National Parks,CO,4171431,False,True,True,257,1,40.3556924,-105.6972879,unit,False
 rori,Rosie the Riveter WWII Home Front National Historical Park,National Historical Park,Historical Parks,CA,33689,False,False,False,,0,37.90999027,-122.360156,unit,True
 rowi,Roger Williams National Memorial,National Memorial,Memorials,RI,38959,False,False,False,,0,41.8298955,-71.41056665,unit,True
 ruca,Russell Cave National Monument,National Monument,Monuments,AL,7821,False,False,False,130,2,34.97402063,-85.81560314,unit,True
@@ -412,7 +412,7 @@ ston,Stonewall National Monument,National Monument,Monuments,NY,298077,False,Fal
 stri,Stones River National Battlefield,National Battlefield,Battlefields & Military Parks,TN,454614,False,False,False,152,2,35.87608652,-86.43078399,unit,True
 stsp,Star-Spangled Banner National Historic Trail,National Historic Trail,Trails,MD|VA|DC,,False,False,False,,1,39.2872505188,-76.6034317017,trail,True
 sucr,Sunset Crater Volcano National Monument,National Monument,Monuments,AZ,108348,True,False,True,113,0,35.37114323,-111.510376,unit,False
-tapr,Tallgrass Prairie National Preserve,National Preserve,Preserves & Reserves,KS,27531,False,False,False,136,5,38.44023613,-96.5670822,unit,True
+tapr,Tallgrass Prairie National Preserve,National Preserve,Preserves & Reserves,KS,27531,False,False,False,136,7,38.44023613,-96.5670822,unit,True
 thco,Thomas Cole National Historic Site,National Historic Site,Historic Sites,NY,,False,False,False,,0,42.22570607,-73.86154864,affiliated,False
 this,Theodore Roosevelt Island,Park Unit,Other,DC,159828,False,False,False,169,0,38.89584162,-77.06241918,unit,True
 thje,Thomas Jefferson Memorial,Park Unit,Other,DC,2551114,False,False,False,,1,38.88101431,-77.03632572,unit,True
